@@ -39,8 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://www.nisylvania.net/",
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
-  }
+  "homepage": "https://www.nisylvania.net/"
 }
