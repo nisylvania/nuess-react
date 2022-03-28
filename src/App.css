@@ -1,0 +1,91 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif!important;
+    margin-top: 80px!important;
+    padding: 1rem;
+}
+
+.header_style {
+    background-color: rgb(13, 31, 160)!important;
+    filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
+    padding: 0.5rem;
+}
+
+.header_title {
+    font-size: 2rem!important;
+    font-weight: bold;
+}
+
+.tt_close {
+    padding: 0 0.5rem 0.4rem 0.6rem;
+    border-radius: 4px;
+    filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
+    background: rgba(255,255,255,0.9);
+    opacity: 1;
+    display: none;
+    overflow: hidden;
+    position: fixed;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    transition: opacity 0.2s linear;
+    z-index: 1000;
+    text-align: center;
+}
+
+.tt_show {
+    padding: 0 0.5rem 0.4rem 0.6rem;
+    border-radius: 4px;
+    filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
+    background: rgba(255,255,255,0.9);
+    opacity: 1;
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    transition: opacity 0.2s linear;
+    z-index: 1000;
+}
+
+#timetable table {
+    text-align: center;
+    table-layout: auto;
+    width: auto;
+}
+
+#timetable table input {
+    width: 1.2rem;
+    height: 1.2rem;
+    margin: 0.15rem;
+    background-image: none;
+}
+
+#accordion_menu {
+    margin-bottom:1rem;
+}
+
+#accordion_menu table {
+    table-layout: auto;
+    width: auto;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+#filtered_table {
+    table-layout: auto;
+    width: auto;
+    white-space: nowrap;
+}
+
+#filtered_table thead {
+    text-align: center;
+    background-color: #212529;
+    color:white;
+}
+
+.center {
+    text-align: center;
+}
