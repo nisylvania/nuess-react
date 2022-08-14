@@ -74,15 +74,15 @@ function log() {
             <th scope="row">2021/8/24</th>
             <td>検索機能</td>
             <td>検索結果が0件であるときの処理にエラーが生じていたため修正。<br />また，科目名の最大入力文字数を20文字から30文字に変更。<br />開講学期を選択するラジオボタンにラベルを設定し，文字列をクリックしても該当の学期を選択できるように変更。</td>
-              <td>kzmw</td>
-            </tr>
-              <tr>
-                <th scope="row">2021/9/9</th>
-                <td>検索機能</td>
-                <td>検索フォームを折りたためるよう，アコーディオンに変更。</td>
-                <td>kzmw</td>
-              </tr>
-              <tr>
+            <td>kzmw</td>
+          </tr>
+          <tr>
+            <th scope="row">2021/9/9</th>
+            <td>検索機能</td>
+            <td>検索フォームを折りたためるよう，アコーディオンに変更。</td>
+            <td>kzmw</td>
+          </tr>
+          <tr>
             <th scope="row">2022/3/27</th>
             <td>デザイン</td>
             <td>ページデザインを抜本的に変更。<br /> ＜詳細な変更点＞
@@ -93,10 +93,17 @@ function log() {
             </td>
             <td>kzmw</td>
           </tr>
-            </tbody>
-          </Table>
-        </React.Fragment>
-        );
+          <tr>
+            <th scope="row">2022/8/13</th>
+            <td>サーバ</td>
+            <td>サーバをGithub PagesからVALUE SERVERに移転。
+            </td>
+            <td>kzmw</td>
+          </tr>
+        </tbody>
+      </Table>
+    </React.Fragment>
+  );
 }
 
-        export default log;
+export default log;
