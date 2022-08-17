@@ -100,6 +100,13 @@ function log() {
             </td>
             <td>kzmw</td>
           </tr>
+          <tr>
+            <th scope="row">2022/8/17</th>
+            <td>.htaccessファイル</td>
+            <td>.htaccessファイルを配置し，/change_logに直接アクセスしても閲覧可能となった。
+            </td>
+            <td>kzmw</td>
+          </tr>
         </tbody>
       </Table>
     </React.Fragment>
