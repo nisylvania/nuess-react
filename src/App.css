@@ -7,7 +7,7 @@ body {
 .header_style {
     background-color: rgb(13, 31, 160)!important;
     filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
-    padding: 0.5rem;
+    padding: 0.5rem!important;
 }
 
 .header_title {
