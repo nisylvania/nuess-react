@@ -6,8 +6,8 @@ function log() {
   return (
     <React.Fragment>
       <Header />
-      <Table striped bordered hover>
-        <thead>
+      <Table striped>
+        <thead class="table-dark text-center">
           <tr>
             <th>年月日</th>
             <th>変更箇所</th>
@@ -104,6 +104,20 @@ function log() {
             <th scope="row">2022/8/17</th>
             <td>.htaccessファイル</td>
             <td>.htaccessファイルを配置し，/change_logに直接アクセスしても閲覧可能となった。
+            </td>
+            <td>kzmw</td>
+          </tr>
+          <tr>
+            <th scope="row">2022/8/18</th>
+            <td>検索機能など</td>
+            <td>検索のためのコードを親コンポーネントに搭載。<br />Tableのstyleを見直し，適切なClassNameを設定した。
+            </td>
+            <td>kzmw</td>
+          </tr>
+          <tr>
+            <th scope="row">2022/9/8</th>
+            <td>シラバス</td>
+            <td>データを2022/9/8時点のものに更新。
             </td>
             <td>kzmw</td>
           </tr>
