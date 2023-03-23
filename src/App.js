@@ -13,6 +13,7 @@ function App() {
   const [period_option, setPeriod] = useState([]);
   const [filtered, setFiltered] = useState([]);
 
+
   useEffect(() => {
     let beta = [];
     beta = timetable_data.filter(subject => { return subject.tt_num.includes('G' + tt_num) })
@@ -29,6 +30,7 @@ function App() {
     setFiltered(beta);
   }, [tt_num, subject_name, teacher_name, semester_option, period_option])
 
+
   return (
     <React.Fragment>
       <Header />
@@ -44,7 +46,9 @@ function App() {
         period_option={period_option}
         setPeriod={setPeriod}
       />
-      <Search_Table filtered={filtered}/>
+      <Search_Table
+        filtered={filtered}
+        />
     </React.Fragment>
   );
 }

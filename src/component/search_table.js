@@ -1,9 +1,11 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../App.css';
-import { Table, Form } from 'react-bootstrap';
+import { Table, FormSelect } from 'react-bootstrap';
+import timetable_data from '../data/timetable.json';
 
 const Search_Table = ({ filtered }) => {
+
     let filtered_table = "";
     if (filtered.length === 0) {
         return (<p>検索結果がありません</p>);
