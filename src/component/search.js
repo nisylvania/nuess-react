@@ -3,8 +3,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../App.css';
 import { Accordion, InputGroup, FormControl, Form, Button, Table } from 'react-bootstrap';
 
-const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name, setTeacher_name, semester_option, setSemester, period_option, setPeriod }) => {
-    const [buttonOn, setButtonState] = useState(false);
+const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name, setTeacher_name, semester_option, setSemester, period_option, setPeriod, sdgs_option, setSdgs }) => {
+    const [tbuttonOn, settButtonState] = useState(false);
+    const [sbuttonOn, setsButtonState] = useState(false);
 
     const semester_change = (e) => {
         if (semester_option.includes(e.target.value)) {
@@ -31,6 +32,19 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
             setPeriod([...period_option, target_period].flat());
         }
     };
+
+    const sdgs_change = (e) => {
+        let target_sdgs;
+        target_sdgs = [Number(e.target.value)];
+
+        if (target_sdgs.find(sdgs => sdgs_option.indexOf(sdgs) > -1)) {
+            setSdgs(
+                sdgs_option.filter(checkedValue => target_sdgs.indexOf(checkedValue) === -1).flat());
+        } else {
+            setSdgs([...sdgs_option, target_sdgs].flat());
+        }
+    };
+
     return (
         <Accordion defaultActiveKey="0" id="accordion_menu">
             <Accordion.Item eventKey="0">
@@ -99,10 +113,10 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                     曜日・時限
                                 </th>
                                 <td>
-                                    <Button onClick={() => setButtonState(buttonOn => !buttonOn)}>
+                                    <Button onClick={() => settButtonState(tbuttonOn => !tbuttonOn)}>
                                         曜日・時限を選択
                                     </Button>
-                                    <div id="timetable" className={`${buttonOn ? 'tt_show' : 'tt_close'}`}>
+                                    <div id="timetable" className={`${tbuttonOn ? 'tt_show' : 'tt_close'}`}>
                                         <table>
                                             <thead>
                                                 <tr key="day">
@@ -370,6 +384,165 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                     <InputGroup onChange={(e) => setTeacher_name(e.target.value)}>
                                         <FormControl />
                                     </InputGroup>
+                                </td>
+                            </tr>
+                            <tr key="sdgs">
+                                <th>
+                                    SDGs
+                                </th>
+                                <td>
+                                    <Button onClick={() => setsButtonState(sbuttonOn => !sbuttonOn)}>
+                                        SDGsを選択
+                                    </Button>
+                                    <div id="sdgs" className={`${sbuttonOn ? 'sdgs_show' : 'sdgs_close'}`}>
+                                        <table>
+                                            <tbody>
+                                                <tr key="1">
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="1"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="2"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="3"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="4"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="5"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="6"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                </tr>
+                                                <tr key="2">
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="7"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="8"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="9"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="10"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="11"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="12"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                </tr>
+                                                <tr key="3">
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="13"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="14"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="15"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="16"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+                                                    <td>
+                                                        <Form.Check
+                                                            name="sdgs"
+                                                            value="17"
+                                                            type="checkbox"
+                                                            onChange={sdgs_change}
+                                                        />
+                                                    </td>
+
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
                                 </td>
                             </tr>
                         </tbody>

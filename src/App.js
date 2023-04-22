@@ -11,14 +11,15 @@ function App() {
   const [teacher_name, setTeacher_name] = useState('');
   const [semester_option, setSemester] = useState([]);
   const [period_option, setPeriod] = useState([]);
+  const [sdgs_option, setSdgs] = useState([]);
   const [filtered, setFiltered] = useState([]);
 
 
   useEffect(() => {
     let beta = [];
     beta = timetable_data.filter(subject => { return subject.tt_num.includes('G' + tt_num) })
-      .filter(subject => { return subject.name.includes(subject_name) })
-      .filter(subject => subject.teacher.find(teacher => teacher.includes(teacher_name)));
+      .filter(subject => { return subject.name.replace(' ','').replace('　','').includes(subject_name.replace(' ','').replace('　','')) })
+      .filter(subject => subject.teacher.find(teacher => teacher.replace(' ','').replace('　','').includes(teacher_name.replace(' ','').replace('　',''))));
 
     if (semester_option.length) {
       beta = beta.filter(subject => { return semester_option.indexOf(subject.semester) > -1; });
@@ -26,9 +27,12 @@ function App() {
     if (period_option.length) {
       beta = beta.filter(subject => subject.period.find(period => period_option.indexOf(period) > -1));
     }
+    if (sdgs_option.length) {
+      beta = beta.filter(subject => subject.sdgs.find(sdgs => sdgs_option.indexOf(sdgs) > -1));
+    }
 
     setFiltered(beta);
-  }, [tt_num, subject_name, teacher_name, semester_option, period_option])
+  }, [tt_num, subject_name, teacher_name, semester_option, period_option,sdgs_option])
 
 
   return (
@@ -45,6 +49,8 @@ function App() {
         setSemester={setSemester}
         period_option={period_option}
         setPeriod={setPeriod}
+        sdgs_option={sdgs_option}
+        setSdgs={setSdgs}
       />
       <Search_Table
         filtered={filtered}
