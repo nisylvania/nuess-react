@@ -21,6 +21,7 @@ body {
     padding: 0 0.5rem 0.4rem 0.6rem;
     border-radius: 4px;
     filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
+    transform: translateZ(0);
     background: rgba(255, 255, 255, 0.9);
     opacity: 1;
     display: none;
@@ -39,6 +40,7 @@ body {
     padding: 0 0.5rem 0.4rem 0.6rem;
     border-radius: 4px;
     filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
+    transform: translateZ(0);
     background: rgba(255, 255, 255, 0.9);
     opacity: 1;
     display: block;
@@ -56,6 +58,7 @@ body {
     padding: 0 0.5rem 0.4rem 0.6rem;
     border-radius: 4px;
     filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
+    transform: translateZ(0);
     background: rgba(255, 255, 255, 0.9);
     opacity: 1;
     display: none;
@@ -74,6 +77,7 @@ body {
     padding: 0 0.5rem 0.4rem 0.6rem;
     border-radius: 4px;
     filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
+    transform: translateZ(0);
     background: rgba(255, 255, 255, 0.9);
     opacity: 1;
     display: block;

@@ -10,7 +10,7 @@ function log() {
         NUESSとは，Nara University of Education Searchable Syllabus(奈良教育大学 検索できるシラバス)の略です。このシステム(というか制作者の信念)では，「他のサイト様になるべく迷惑をかけない」をモットーにしているため，シラバス情報の自動更新・取得などはしておらず，制作者が手動で更新する仕組みとなっています。ご安心(？)ください。
       </>
       <Table striped>
-        <thead class="table-dark text-center">
+        <thead className="table-dark text-center">
           <tr>
             <th>年月日</th>
             <th>変更箇所</th>
@@ -21,7 +21,7 @@ function log() {
           <tr>
             <th scope="row">2021/5/17</th>
             <td>新規作成</td>
-            <td><a href="https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/">筑波大学 Kdbっぽいなにか</a>に着想を得て奈良教育大学版を作成。</td>
+            <td><a href="https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/">筑波大学 Kdbっぽいなにか</a>に着想を得て，奈良教育大学版を作成。</td>
           </tr>
           <tr>
             <th scope="row">2021/5/30</th>
@@ -142,6 +142,12 @@ function log() {
             <th scope="row">2023/4/22</th>
             <td>検索機能</td>
             <td>「関連するSDGsのゴール」を検索できるように改良。<br/>スペースの有無や種類にかかわらず検索できるように改良。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2023/4/23</th>
+            <td>デザイン</td>
+            <td>iOSにて"filter: drop-shadow"が崩れていたため，GPUアクセラレーションを有効化する処理を追記した。<br/>Reactのmanifest.jsonにあった，"icons"の記述を削除。
             </td>
           </tr>
         </tbody>
