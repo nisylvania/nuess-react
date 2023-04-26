@@ -75,7 +75,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                             </tr>
                             <tr key="semester">
                                 <th>
-                                    学期
+                                    開講期
                                 </th>
                                 <td>
                                     <div>

@@ -150,6 +150,18 @@ function log() {
             <td>iOSにて"filter: drop-shadow"が崩れていたため，GPUアクセラレーションを有効化する処理を追記した。<br/>Reactのmanifest.jsonにあった，"icons"の記述を削除。
             </td>
           </tr>
+          <tr>
+            <th scope="row">2023/4/26</th>
+            <td>ページネーション</td>
+            <td>ページネーション機能の再追加。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2023/4/26</th>
+            <td>デザイン</td>
+            <td>フォントをNoto Sans JPに設定。
+            </td>
+          </tr>
         </tbody>
       </Table>
     </React.Fragment>
