@@ -16,9 +16,33 @@ function App() {
   const [filtered, setFiltered] = useState([]);
   const [page, setPage] = useState(1);
   const [items, setItems] = useState(0);
+  const [autoOn, setAutoState] = useState(true);
 
 
   useEffect(() => {
+    if (autoOn === true) {
+      let beta = [];
+      beta = timetable_data.filter(subject => { return subject.tt_num.includes('G' + tt_num) })
+        .filter(subject => { return subject.name.replace(' ', '').replace('　', '').includes(subject_name.replace(' ', '').replace('　', '')) })
+        .filter(subject => subject.teacher.find(teacher => teacher.replace(' ', '').replace('　', '').includes(teacher_name.replace(' ', '').replace('　', ''))));
+
+      if (semester_option.length) {
+        beta = beta.filter(subject => { return semester_option.indexOf(subject.semester) > -1; });
+      }
+      if (period_option.length) {
+        beta = beta.filter(subject => subject.period.find(period => period_option.indexOf(period) > -1));
+      }
+      if (sdgs_option.length) {
+        beta = beta.filter(subject => subject.sdgs.find(sdgs => sdgs_option.indexOf(sdgs) > -1));
+      }
+
+      setFiltered(beta);
+      setItems(beta.length);
+      setPage(1);
+    }
+  }, [tt_num, subject_name, teacher_name, semester_option, period_option, sdgs_option])
+
+  function self_search() {
     let beta = [];
     beta = timetable_data.filter(subject => { return subject.tt_num.includes('G' + tt_num) })
       .filter(subject => { return subject.name.replace(' ', '').replace('　', '').includes(subject_name.replace(' ', '').replace('　', '')) })
@@ -37,7 +61,20 @@ function App() {
     setFiltered(beta);
     setItems(beta.length);
     setPage(1);
-  }, [tt_num, subject_name, teacher_name, semester_option, period_option, sdgs_option])
+  }
+
+  function reset() {
+    setTt_num('');
+    setSubject_name('');
+    setTeacher_name('');
+    setSemester([]);
+    setPeriod([]);
+    setSdgs([]);
+    setFiltered([]);
+    setPage(1);
+    setItems(0);
+    setAutoState(true);
+  }
 
   return (
     <React.Fragment>
@@ -55,6 +92,10 @@ function App() {
         setPeriod={setPeriod}
         sdgs_option={sdgs_option}
         setSdgs={setSdgs}
+        autoOn={autoOn}
+        setAutoState={setAutoState}
+        self_search={self_search}
+        reset={reset}
       />
       <Search_Table
         filtered={filtered}

@@ -321,6 +321,15 @@ input[name="mark"]:focus {
     table-layout: auto;
     width: auto;
     white-space: nowrap;
+    margin: 0 auto 2rem auto;
+}
+
+#search_button {
+    margin: 0 .5rem;
+}
+
+#reset_button {
+    margin: 0 .5rem;
 }
 
 .SDGs {

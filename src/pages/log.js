@@ -9,7 +9,7 @@ function log() {
       <>
         NUESSとは，Nara University of Education Searchable Syllabus(奈良教育大学 検索できるシラバス)の略です。このシステム(というか制作者の信念)では，「他のサイト様になるべく迷惑をかけない」をモットーにしているため，シラバス情報の自動更新・取得などはしておらず，制作者が手動で更新する仕組みとなっています。ご安心(？)ください。
       </>
-      <Table striped>
+      <Table striped responsive>
         <thead className="table-dark text-center">
           <tr>
             <th>年月日</th>
@@ -62,7 +62,7 @@ function log() {
           <tr>
             <th scope="row">2021/8/18</th>
             <td>フッター</td>
-            <td>ページ操作関係のボタン・テキストをすべてフッターに表示。また，シラバスの表に対して下側マージンを適用し，フッターと被らないようにした。</td>
+            <td>ページ操作関係のボタン・テキストをすべてフッターに表示。<br/>シラバスの表に対して下側マージンを適用し，フッターと被らないようにした。</td>
           </tr>
           <tr>
             <th scope="row">2021/8/24</th>
@@ -141,13 +141,13 @@ function log() {
           <tr>
             <th scope="row">2023/4/22</th>
             <td>検索機能</td>
-            <td>「関連するSDGsのゴール」を検索できるように改良。<br/>スペースの有無や種類にかかわらず検索できるように改良。
+            <td>「関連するSDGsのゴール」の検索に対応。<br/>スペースの有無や種類を無視した検索に対応。
             </td>
           </tr>
           <tr>
             <th scope="row">2023/4/23</th>
             <td>デザイン</td>
-            <td>iOSにて"filter: drop-shadow"が崩れていたため，GPUアクセラレーションを有効化する処理を追記した。<br/>Reactのmanifest.jsonにあった，"icons"の記述を削除。
+            <td>iOSにて"filter: drop-shadow"が崩れていたため，GPUアクセラレーションを有効化する処理を追記。<br/>Reactのmanifest.jsonにあった，"icons"の記述を削除。
             </td>
           </tr>
           <tr>
@@ -160,6 +160,12 @@ function log() {
             <th scope="row">2023/4/26</th>
             <td>デザイン</td>
             <td>フォントをNoto Sans JPに設定。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2023/4/29</th>
+            <td>検索機能</td>
+            <td>リセット機能や自動検索機能のON・OFFに対応。
             </td>
           </tr>
         </tbody>

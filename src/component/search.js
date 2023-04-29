@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../App.css';
 import { Accordion, InputGroup, FormControl, Form, Button, Table } from 'react-bootstrap';
 
-const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name, setTeacher_name, semester_option, setSemester, period_option, setPeriod, sdgs_option, setSdgs }) => {
+const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name, setTeacher_name, semester_option, setSemester, period_option, setPeriod, sdgs_option, setSdgs, autoOn, setAutoState, self_search, reset }) => {
     const [tbuttonOn, settButtonState] = useState(false);
     const [sbuttonOn, setsButtonState] = useState(false);
 
@@ -57,9 +57,13 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                     時間割番号
                                 </th>
                                 <td>
-                                    <InputGroup onChange={(e) => setTt_num(e.target.value)} type="tel">
+                                    <InputGroup type="tel">
                                         <InputGroup.Text id="basic-addon1">G</InputGroup.Text>
-                                        <FormControl />
+                                        <FormControl
+                                            onChange={(e) => setTt_num(e.target.value)}
+                                            placeholder="前方一致"
+                                            value={tt_num}
+                                        />
                                     </InputGroup>
                                 </td>
                             </tr>
@@ -68,8 +72,11 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                     科目名
                                 </th>
                                 <td>
-                                    <InputGroup onChange={(e) => setSubject_name(e.target.value)}>
-                                        <FormControl />
+                                    <InputGroup>
+                                        <FormControl
+                                            onChange={(e) => setSubject_name(e.target.value)}
+                                            value={subject_name}
+                                        />
                                     </InputGroup>
                                 </td>
                             </tr>
@@ -87,6 +94,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                             id="previous"
                                             value="前期"
                                             onChange={semester_change}
+                                            checked={semester_option.includes("前期")}
                                         />
                                         <Form.Check
                                             inline
@@ -96,6 +104,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                             id="after"
                                             value="後期"
                                             onChange={semester_change}
+                                            checked={semester_option.includes("後期")}
                                         />
                                         <Form.Check
                                             inline
@@ -104,6 +113,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                             id="year"
                                             value="通年"
                                             onChange={semester_change}
+                                            checked={semester_option.includes("通年")}
                                         />
                                     </div>
                                 </td>
@@ -149,6 +159,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="月1,月2"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("月1")}
                                                         />
                                                     </td>
                                                     <td>
@@ -157,6 +168,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="火1,火2"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("火1")}
                                                         />
                                                     </td>
                                                     <td>
@@ -165,6 +177,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="水1,水2"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("水1")}
                                                         />
                                                     </td>
                                                     <td>
@@ -173,6 +186,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="木1,木2"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("木1")}
                                                         />
                                                     </td>
                                                     <td>
@@ -181,6 +195,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="金1,金2"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("金1")}
                                                         />
                                                     </td>
                                                 </tr>
@@ -194,6 +209,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="月3,月4"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("月3")}
                                                         />
                                                     </td>
                                                     <td>
@@ -202,6 +218,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="火3,火4"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("火3")}
                                                         />
                                                     </td>
                                                     <td>
@@ -210,6 +227,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="水3,水4"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("水3")}
                                                         />
                                                     </td>
                                                     <td>
@@ -218,6 +236,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="木3,木4"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("木3")}
                                                         />
                                                     </td>
                                                     <td>
@@ -226,6 +245,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="金3,金4"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("金3")}
                                                         />
                                                     </td>
                                                 </tr>
@@ -239,6 +259,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="月5,月6"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("月5")}
                                                         />
                                                     </td>
                                                     <td>
@@ -247,6 +268,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="火5,火6"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("火5")}
                                                         />
                                                     </td>
                                                     <td>
@@ -255,6 +277,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="水5,水6"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("水5")}
                                                         />
                                                     </td>
                                                     <td>
@@ -263,6 +286,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="木5,木6"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("木5")}
                                                         />
                                                     </td>
                                                     <td>
@@ -271,6 +295,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="金5,金6"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("金5")}
                                                         />
                                                     </td>
                                                 </tr>
@@ -284,6 +309,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="月7,月8"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("月7")}
                                                         />
                                                     </td>
                                                     <td>
@@ -292,6 +318,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="火7,火8"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("火7")}
                                                         />
                                                     </td>
                                                     <td>
@@ -300,6 +327,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="水7,水8"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("水7")}
                                                         />
                                                     </td>
                                                     <td>
@@ -308,6 +336,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="木7,木8"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("木7")}
                                                         />
                                                     </td>
                                                     <td>
@@ -316,6 +345,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="金7,金8"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("金7")}
                                                         />
                                                     </td>
                                                 </tr>
@@ -329,6 +359,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="月9,月10"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("月9")}
                                                         />
                                                     </td>
                                                     <td>
@@ -337,6 +368,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="火9,火10"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("火9")}
                                                         />
                                                     </td>
                                                     <td>
@@ -345,6 +377,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="水9,水10"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("水9")}
                                                         />
                                                     </td>
                                                     <td>
@@ -353,6 +386,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="木9,木10"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("木9")}
                                                         />
                                                     </td>
                                                     <td>
@@ -361,6 +395,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="金9,金10"
                                                             type="checkbox"
                                                             onChange={period_change}
+                                                            checked={period_option.includes("金9")}
                                                         />
                                                     </td>
                                                 </tr>
@@ -372,6 +407,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                             value="集中"
                                             type="checkbox"
                                             onChange={period_change}
+                                            checked={period_option.includes("集中")}
                                         />
                                     </div>
                                 </td>
@@ -381,8 +417,11 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                     教員名
                                 </th>
                                 <td>
-                                    <InputGroup onChange={(e) => setTeacher_name(e.target.value)}>
-                                        <FormControl />
+                                    <InputGroup>
+                                        <FormControl
+                                            onChange={(e) => setTeacher_name(e.target.value)}
+                                            value={teacher_name}
+                                        />
                                     </InputGroup>
                                 </td>
                             </tr>
@@ -404,6 +443,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="1"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(1)}
                                                         />
                                                     </td>
                                                     <td>
@@ -412,6 +452,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="2"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(2)}
                                                         />
                                                     </td>
                                                     <td>
@@ -420,6 +461,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="3"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(3)}
                                                         />
                                                     </td>
                                                     <td>
@@ -428,6 +470,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="4"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(4)}
                                                         />
                                                     </td>
                                                     <td>
@@ -436,6 +479,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="5"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(5)}
                                                         />
                                                     </td>
                                                     <td>
@@ -444,6 +488,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="6"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(6)}
                                                         />
                                                     </td>
                                                 </tr>
@@ -454,6 +499,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="7"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(7)}
                                                         />
                                                     </td>
                                                     <td>
@@ -462,6 +508,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="8"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(8)}
                                                         />
                                                     </td>
                                                     <td>
@@ -470,6 +517,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="9"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(9)}
                                                         />
                                                     </td>
                                                     <td>
@@ -478,6 +526,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="10"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(10)}
                                                         />
                                                     </td>
                                                     <td>
@@ -486,6 +535,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="11"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(11)}
                                                         />
                                                     </td>
                                                     <td>
@@ -494,6 +544,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="12"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(12)}
                                                         />
                                                     </td>
                                                 </tr>
@@ -504,6 +555,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="13"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(13)}
                                                         />
                                                     </td>
                                                     <td>
@@ -512,6 +564,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="14"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(14)}
                                                         />
                                                     </td>
                                                     <td>
@@ -520,6 +573,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="15"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(15)}
                                                         />
                                                     </td>
                                                     <td>
@@ -528,6 +582,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="16"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(16)}
                                                         />
                                                     </td>
                                                     <td>
@@ -536,9 +591,9 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                             value="17"
                                                             type="checkbox"
                                                             onChange={sdgs_change}
+                                                            checked={sdgs_option.includes(17)}
                                                         />
                                                     </td>
-
                                                 </tr>
                                             </tbody>
                                         </table>
@@ -547,6 +602,20 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                             </tr>
                         </tbody>
                     </Table>
+                    <Form.Check
+                        type="switch"
+                        id="auto-switch"
+                        label="自動検索"
+                        checked={autoOn}
+                        onChange={() => setAutoState(autoOn => !autoOn)}
+                    />
+                    <Button id="search_button" variant="primary" disabled={autoOn} onClick={self_search}><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-search" viewBox="0 0 16 16">
+                        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                    </svg> 検索 </Button>
+                    <Button id="reset_button" variant="danger" onClick={reset}><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-clockwise" viewBox="0 0 16 16">
+                        <path fillRule="evenodd" d="M8 3a5 5 0 1 0 4.546 2.914.5.5 0 0 1 .908-.417A6 6 0 1 1 8 2v1z"></path>
+                        <path d="M8 4.466V.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384L8.41 4.658A.25.25 0 0 1 8 4.466z"></path>
+                    </svg> リセット </Button>
                 </Accordion.Body>
             </Accordion.Item>
         </Accordion>
