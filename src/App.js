@@ -70,10 +70,9 @@ function App() {
     setSemester([]);
     setPeriod([]);
     setSdgs([]);
-    setFiltered([]);
+    setFiltered(timetable_data);
     setPage(1);
-    setItems(0);
-    setAutoState(true);
+    setItems(timetable_data.length);
   }
 
   return (

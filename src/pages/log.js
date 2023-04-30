@@ -168,6 +168,12 @@ function log() {
             <td>リセット機能や自動検索機能のON・OFFに対応。
             </td>
           </tr>
+          <tr>
+            <th scope="row">2023/4/30</th>
+            <td>検索機能</td>
+            <td>リセットした際に自動検索がOFFになってしまう問題を修正。
+            </td>
+          </tr>
         </tbody>
       </Table>
     </React.Fragment>
