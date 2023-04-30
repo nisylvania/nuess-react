@@ -21,7 +21,7 @@ function log() {
           <tr>
             <th scope="row">2021/5/17</th>
             <td>新規作成</td>
-            <td><a href="https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/">筑波大学 Kdbっぽいなにか</a>に着想を得て，奈良教育大学版を作成。</td>
+            <td><a href="https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/" target='_blank' rel='noopener noreferrer'>筑波大学 Kdbっぽいなにか</a>に着想を得て，奈良教育大学版を作成。</td>
           </tr>
           <tr>
             <th scope="row">2021/5/30</th>
@@ -62,7 +62,7 @@ function log() {
           <tr>
             <th scope="row">2021/8/18</th>
             <td>フッター</td>
-            <td>ページ操作関係のボタン・テキストをすべてフッターに表示。<br/>シラバスの表に対して下側マージンを適用し，フッターと被らないようにした。</td>
+            <td>ページ操作関係のボタン・テキストをすべてフッターに表示。<br />シラバスの表に対して下側マージンを適用し，フッターと被らないようにした。</td>
           </tr>
           <tr>
             <th scope="row">2021/8/24</th>
@@ -135,19 +135,19 @@ function log() {
           <tr>
             <th scope="row">2023/4/22</th>
             <td>シラバス</td>
-            <td>データを2023年度(2023/4/22時点)のものに更新。<br/>シラバス情報に「関連するSDGsのゴール」の情報を含めた。
+            <td>データを2023年度(2023/4/22時点)のものに更新。<br />シラバス情報に「関連するSDGsのゴール」の情報を含めた。
             </td>
           </tr>
           <tr>
             <th scope="row">2023/4/22</th>
             <td>検索機能</td>
-            <td>「関連するSDGsのゴール」の検索に対応。<br/>スペースの有無や種類を無視した検索に対応。
+            <td>「関連するSDGsのゴール」の検索に対応。<br />スペースの有無や種類を無視した検索に対応。
             </td>
           </tr>
           <tr>
             <th scope="row">2023/4/23</th>
             <td>デザイン</td>
-            <td>iOSにて"filter: drop-shadow"が崩れていたため，GPUアクセラレーションを有効化する処理を追記。<br/>Reactのmanifest.jsonにあった，"icons"の記述を削除。
+            <td>iOSにて"filter: drop-shadow"が崩れていたため，GPUアクセラレーションを有効化する処理を追記。<br />Reactのmanifest.jsonにあった，"icons"の記述を削除。
             </td>
           </tr>
           <tr>
@@ -176,6 +176,9 @@ function log() {
           </tr>
         </tbody>
       </Table>
+      <p style={{'text-align': 'center'}}>Source code is available on <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z" />
+      </svg><a href="https://github.com/kzmw/nuess-react" target='_blank' rel='noopener noreferrer'>Github</a></p>
     </React.Fragment>
   );
 }
