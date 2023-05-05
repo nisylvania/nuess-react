@@ -2,7 +2,7 @@ import './App.css';
 import React, { useState, useEffect } from 'react';
 import Header from "./component/header";
 import Search from "./component/search";
-import Search_Table from "./component/search_table";
+import SearchTable from "./component/search_table";
 import timetable_data from './data/timetable.json';
 import Pagination from './component/pagination';
 
@@ -10,6 +10,7 @@ function App() {
   const [tt_num, setTt_num] = useState('');
   const [subject_name, setSubject_name] = useState('');
   const [teacher_name, setTeacher_name] = useState('');
+  const [room_name, setRoom_name] = useState('');
   const [semester_option, setSemester] = useState([]);
   const [period_option, setPeriod] = useState([]);
   const [sdgs_option, setSdgs] = useState([]);
@@ -23,8 +24,9 @@ function App() {
     if (autoOn === true) {
       let beta = [];
       beta = timetable_data.filter(subject => { return subject.tt_num.includes('G' + tt_num) })
-        .filter(subject => { return subject.name.replace(' ', '').replace('　', '').includes(subject_name.replace(' ', '').replace('　', '')) })
-        .filter(subject => subject.teacher.find(teacher => teacher.replace(' ', '').replace('　', '').includes(teacher_name.replace(' ', '').replace('　', ''))));
+        .filter(subject => { return subject.name.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " ").includes(subject_name.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " ")) })
+        .filter(subject => subject.teacher.find(teacher => teacher.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " ").includes(teacher_name.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " "))))
+        .filter(subject => subject.room.find(room => room.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " ").includes(room_name.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " "))));
 
       if (semester_option.length) {
         beta = beta.filter(subject => { return semester_option.indexOf(subject.semester) > -1; });
@@ -40,14 +42,15 @@ function App() {
       setItems(beta.length);
       setPage(1);
     }
-  }, [tt_num, subject_name, teacher_name, semester_option, period_option, sdgs_option])
+  }, [tt_num, subject_name, teacher_name, room_name, semester_option, period_option, sdgs_option])
 
   function self_search() {
     let beta = [];
     beta = timetable_data.filter(subject => { return subject.tt_num.includes('G' + tt_num) })
-      .filter(subject => { return subject.name.replace(' ', '').replace('　', '').includes(subject_name.replace(' ', '').replace('　', '')) })
-      .filter(subject => subject.teacher.find(teacher => teacher.replace(' ', '').replace('　', '').includes(teacher_name.replace(' ', '').replace('　', ''))));
-
+      .filter(subject => { return subject.name.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " ").includes(subject_name.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " ")) })
+      .filter(subject => subject.teacher.find(teacher => teacher.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " ").includes(teacher_name.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " "))))
+      .filter(subject => subject.room.find(room => room.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " ").includes(room_name.replace(/[Ａ-Ｚａ-ｚ０-９]/g, function (s) { return String.fromCharCode(s.charCodeAt(0) - 0xFEE0); }).replace(/　/g, " "))));
+    
     if (semester_option.length) {
       beta = beta.filter(subject => { return semester_option.indexOf(subject.semester) > -1; });
     }
@@ -67,6 +70,7 @@ function App() {
     setTt_num('');
     setSubject_name('');
     setTeacher_name('');
+    setRoom_name('');
     setSemester([]);
     setPeriod([]);
     setSdgs([]);
@@ -91,12 +95,14 @@ function App() {
         setPeriod={setPeriod}
         sdgs_option={sdgs_option}
         setSdgs={setSdgs}
+        room_name={room_name}
+        setRoom_name={setRoom_name}
         autoOn={autoOn}
         setAutoState={setAutoState}
         self_search={self_search}
         reset={reset}
       />
-      <Search_Table
+      <SearchTable
         filtered={filtered}
         page={page}
       />

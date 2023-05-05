@@ -16,6 +16,7 @@ const Header = () => {
                     <Nav.Link href="https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/KmkkbnIchiran_0_0.html" target="_blank">奈良教育大学シラバス</Nav.Link>
                     <Nav.Link href="http://syllabusweb.nara-wu.ac.jp/syllabus/" target="_blank">奈良女子大学シラバス</Nav.Link>
                     <Nav.Link as={Link} to="/change_log" >更新履歴</Nav.Link>
+                    <Nav.Link href="https://forms.gle/zuWR5FvHrEC55ejSA" target="_blank">利用者アンケート</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>
