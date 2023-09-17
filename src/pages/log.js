@@ -186,6 +186,12 @@ function log() {
             <td>英数字の全角・半角を区別しない検索に対応。
             </td>
           </tr>
+          <tr>
+            <th scope="row">2023/9/17</th>
+            <td>検索機能</td>
+            <td>データを2023年度(2023/9/17時点)のものに更新。
+            </td>
+          </tr>
         </tbody>
       </Table>
       <p style={{'text-align': 'center'}}>Source code is available on <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
