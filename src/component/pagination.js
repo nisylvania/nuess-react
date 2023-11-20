@@ -7,7 +7,7 @@ const Pagination = ({ page, setPage, items }) => {
     return (
         <PaginationControl
             page={page}
-            between={4}
+            between={3}
             total={items}
             limit={20}
             changePage={(page) => {

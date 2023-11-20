@@ -1,0 +1,914 @@
+[
+    {
+        "no": 1,
+        "tt_num": "K6001",
+        "name": "教育課程の開発と改善",
+        "semester": "前期",
+        "period": [
+            "月3",
+            "月4"
+        ],
+        "teacher": [
+            "山本 敏久"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4,
+            5,
+            10,
+            16,
+            17
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6001.html"
+    },
+    {
+        "no": 2,
+        "tt_num": "K6062",
+        "name": "特別支援教育の教育課程論★(特別支援教育の教育課程・授業論)",
+        "semester": "前期",
+        "period": [
+            "月7",
+            "月8"
+        ],
+        "teacher": [
+            "越野 和之"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            4,
+            10
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6062.html"
+    },
+    {
+        "no": 3,
+        "tt_num": "K6000",
+        "name": "指導と評価の一体化★(カリキュラムと評価の連動)",
+        "semester": "前期",
+        "period": [
+            "木3",
+            "木4"
+        ],
+        "teacher": [
+            "北川 剛司"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6000.html"
+    },
+    {
+        "no": 4,
+        "tt_num": "K6046",
+        "name": "発達障害児の理解と支援",
+        "semester": "前期",
+        "period": [
+            "木7",
+            "木8"
+        ],
+        "teacher": [
+            "全 有耳",
+            "富井 奈菜実"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            10,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6046.html"
+    },
+    {
+        "no": 5,
+        "tt_num": "K6012",
+        "name": "学級経営の基礎・基本★(学級・学校経営実践論)",
+        "semester": "前期",
+        "period": [
+            "火7",
+            "火8"
+        ],
+        "teacher": [
+            "米谷 幸",
+            "小林 昇光"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6012.html"
+    },
+    {
+        "no": 6,
+        "tt_num": "K6013",
+        "name": "学校組織とアカウンタビリティ",
+        "semester": "前期",
+        "period": [
+            "木5",
+            "木6"
+        ],
+        "teacher": [
+            "山内 雅雄",
+            "小林 昇光"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6013.html"
+    },
+    {
+        "no": 7,
+        "tt_num": "K6065",
+        "name": "特別支援教育と学校・学級経営★(特別支援学校・学級経営論)",
+        "semester": "後期",
+        "period": [
+            "火5",
+            "火6"
+        ],
+        "teacher": [
+            "中川 貴明"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6065.html"
+    },
+    {
+        "no": 8,
+        "tt_num": "K6011",
+        "name": "教師の発達とキャリア教育★(教師のキャリア発達と教育)",
+        "semester": "前期",
+        "period": [
+            "火5",
+            "火6"
+        ],
+        "teacher": [
+            "河崎 智恵"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            4,
+            5,
+            8
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6011.html"
+    },
+    {
+        "no": 9,
+        "tt_num": "K6048",
+        "name": "インクルーシブ教育原論",
+        "semester": "後期",
+        "period": [
+            "月7",
+            "月8"
+        ],
+        "teacher": [
+            "林 喜子"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            4,
+            10,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6048.html"
+    },
+    {
+        "no": 10,
+        "tt_num": "K6019",
+        "name": "学校危機管理論",
+        "semester": "後期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "皐月 宏彰"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6019.html"
+    },
+    {
+        "no": 11,
+        "tt_num": "K6024",
+        "name": "★(課題探究実習Ⅰ)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "山内 雅雄",
+            "中井 隆司",
+            "吉村 雅仁",
+            "河崎 智恵",
+            "粕谷 貴志",
+            "北川 剛司",
+            "前田 康二",
+            "阪部 清",
+            "大橋 輝雄",
+            "山本 敏久",
+            "全 有耳",
+            "米谷 幸",
+            "浅田 重義"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6024.html"
+    },
+    {
+        "no": 12,
+        "tt_num": "K6025",
+        "name": "★(課題探究実習ⅡＡ)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "山内 雅雄",
+            "中井 隆司",
+            "吉村 雅仁",
+            "河崎 智恵",
+            "粕谷 貴志",
+            "北川 剛司",
+            "前田 康二",
+            "阪部 清",
+            "大橋 輝雄",
+            "山本 敏久",
+            "全 有耳",
+            "米谷 幸",
+            "浅田 重義"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6025.html"
+    },
+    {
+        "no": 13,
+        "tt_num": "K6026",
+        "name": "★(課題解決実習Ⅰ)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "山本 敏久",
+            "中井 隆司",
+            "吉村 雅仁",
+            "河崎 智恵",
+            "粕谷 貴志",
+            "北川 剛司",
+            "前田 康二",
+            "阪部 清",
+            "大橋 輝雄",
+            "全 有耳",
+            "米谷 幸",
+            "浅田 重義",
+            "山内 雅雄"
+        ],
+        "credits": 4,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4,
+            5,
+            10,
+            16,
+            17
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6026.html"
+    },
+    {
+        "no": 14,
+        "tt_num": "K6027",
+        "name": "★(課題解決実習ⅡＡ)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "山本 敏久",
+            "中井 隆司",
+            "吉村 雅仁",
+            "河崎 智恵",
+            "粕谷 貴志",
+            "北川 剛司",
+            "前田 康二",
+            "阪部 清",
+            "大橋 輝雄",
+            "全 有耳",
+            "米谷 幸",
+            "浅田 重義",
+            "山内 雅雄"
+        ],
+        "credits": 4,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4,
+            5,
+            10,
+            16,
+            17
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6027.html"
+    },
+    {
+        "no": 15,
+        "tt_num": "K6052",
+        "name": "★(課題探究実習ⅡＢ（特別支援教育）)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "全 有耳"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6052.html"
+    },
+    {
+        "no": 16,
+        "tt_num": "K6054",
+        "name": "★(課題解決実習ⅡＢ（特別支援教育）)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "全 有耳"
+        ],
+        "credits": 4,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6054.html"
+    },
+    {
+        "no": 17,
+        "tt_num": "K6055",
+        "name": "★(へき地学校実習)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "山本 敏久",
+            "北川 剛司",
+            "前田 康二",
+            "阪部 清",
+            "大橋 輝雄",
+            "米谷 幸",
+            "林 喜子",
+            "山内 雅雄"
+        ],
+        "credits": 1,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4,
+            11
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6055.html"
+    },
+    {
+        "no": 18,
+        "tt_num": "K6020",
+        "name": "★(アクションリサーチ)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "粕谷 貴志"
+        ],
+        "credits": 1,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6020.html"
+    },
+    {
+        "no": 19,
+        "tt_num": "K6021",
+        "name": "★(ポートフォリオとキャリア発達)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "北川 剛司",
+            "河崎 智恵"
+        ],
+        "credits": 1,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6021.html"
+    },
+    {
+        "no": 20,
+        "tt_num": "K6023",
+        "name": "★(学校実践省察)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "山本 敏久",
+            "中井 隆司"
+        ],
+        "credits": 1,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6023.html"
+    },
+    {
+        "no": 21,
+        "tt_num": "K6100",
+        "name": "★(課題研究)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "前田 康二",
+            "中井 隆司",
+            "吉村 雅仁",
+            "河崎 智恵",
+            "粕谷 貴志",
+            "北川 剛司",
+            "阪部 清",
+            "大橋 輝雄",
+            "山本 敏久",
+            "全 有耳",
+            "米谷 幸",
+            "浅田 重義",
+            "山内 雅雄"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6100.html"
+    },
+    {
+        "no": 22,
+        "tt_num": "K6150",
+        "name": "★(実践理論研究)",
+        "semester": "通年",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "北川 剛司",
+            "中井 隆司",
+            "吉村 雅仁",
+            "河崎 智恵",
+            "粕谷 貴志",
+            "前田 康二",
+            "阪部 清",
+            "大橋 輝雄",
+            "山本 敏久",
+            "全 有耳",
+            "米谷 幸",
+            "浅田 重義",
+            "山内 雅雄"
+        ],
+        "credits": 1,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6150.html"
+    },
+    {
+        "no": 23,
+        "tt_num": "K6007",
+        "name": "★(授業設計と評価)",
+        "semester": "前期",
+        "period": [
+            "月5",
+            "月6"
+        ],
+        "teacher": [
+            "山本 敏久"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4,
+            10
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6007.html"
+    },
+    {
+        "no": 24,
+        "tt_num": "K6016",
+        "name": "★(学習指導と教師の役割)",
+        "semester": "前期",
+        "period": [
+            "火1",
+            "火2",
+            "火3",
+            "火4"
+        ],
+        "teacher": [
+            "大橋 輝雄"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6016.html"
+    },
+    {
+        "no": 25,
+        "tt_num": "K6015",
+        "name": "★(組織で進める学校評価・校内研修)",
+        "semester": "後期",
+        "period": [
+            "火7",
+            "火8"
+        ],
+        "teacher": [
+            "米谷 幸"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6015.html"
+    },
+    {
+        "no": 26,
+        "tt_num": "K6041",
+        "name": "★(子どもと保護者の心をつかむコミュニケーション実践論)",
+        "semester": "後期",
+        "period": [
+            "金5",
+            "金6",
+            "金7",
+            "金8"
+        ],
+        "teacher": [
+            "阪部 清"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4,
+            10,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6041.html"
+    },
+    {
+        "no": 27,
+        "tt_num": "K6017",
+        "name": "地域とつくる学校",
+        "semester": "前期",
+        "period": [
+            "火1",
+            "火2"
+        ],
+        "teacher": [
+            "片岡 弘勝"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6017.html"
+    },
+    {
+        "no": 28,
+        "tt_num": "K6035",
+        "name": "教師の成長と授業研究★(教師の成長とアセスメント)",
+        "semester": "前期",
+        "period": [
+            "火3",
+            "火4"
+        ],
+        "teacher": [
+            "中井 隆司"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6035.html"
+    },
+    {
+        "no": 29,
+        "tt_num": "K6069",
+        "name": "特別支援教育の心理学",
+        "semester": "前期",
+        "period": [
+            "月3",
+            "月4"
+        ],
+        "teacher": [
+            "中西 陽"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            4,
+            10
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6069.html"
+    },
+    {
+        "no": 30,
+        "tt_num": "K6064",
+        "name": "重度障害児の理解と支援",
+        "semester": "前期",
+        "period": [
+            "木1",
+            "木2"
+        ],
+        "teacher": [
+            "中川 貴明"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            4,
+            5
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6064.html"
+    },
+    {
+        "no": 31,
+        "tt_num": "K6010",
+        "name": "学級集団と心理学★(学級づくりと集団づくり)",
+        "semester": "前期",
+        "period": [
+            "金5",
+            "金6"
+        ],
+        "teacher": [
+            "出口 拓彦"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6010.html"
+    },
+    {
+        "no": 32,
+        "tt_num": "K6066",
+        "name": "特別支援教育アセスメント事例研究★(特別支援アセスメント事例研究)",
+        "semester": "前期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "富井 奈菜実",
+            "越野 和之",
+            "中西 陽",
+            "全 有耳",
+            "中川 貴明",
+            "林 喜子"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            10
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6066.html"
+    },
+    {
+        "no": 33,
+        "tt_num": "K6068",
+        "name": "特別支援教育のシステム論",
+        "semester": "後期",
+        "period": [
+            "月9",
+            "月10"
+        ],
+        "teacher": [
+            "越野 和之"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            4,
+            10
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6068.html"
+    },
+    {
+        "no": 34,
+        "tt_num": "K6063",
+        "name": "特別支援教育の生理・病理",
+        "semester": "後期",
+        "period": [
+            "火3",
+            "火4"
+        ],
+        "teacher": [
+            "全 有耳"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            4,
+            10
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6063.html"
+    },
+    {
+        "no": 35,
+        "tt_num": "K6070",
+        "name": "自閉症児の理解と支援",
+        "semester": "後期",
+        "period": [
+            "木3",
+            "木4"
+        ],
+        "teacher": [
+            "富井 奈菜実"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            10
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6070.html"
+    },
+    {
+        "no": 36,
+        "tt_num": "K6061",
+        "name": "LD児･ADHD児の理解と支援",
+        "semester": "後期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "山本 智子"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6061.html"
+    },
+    {
+        "no": 37,
+        "tt_num": "K6067",
+        "name": "特別支援教育コーディネーター論",
+        "semester": "後期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "越野 和之",
+            "富井 奈菜実",
+            "中西 陽",
+            "全 有耳",
+            "中川 貴明",
+            "林 喜子"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            3,
+            4,
+            10
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6067.html"
+    },
+    {
+        "no": 38,
+        "tt_num": "K6036",
+        "name": "教科内容と教材開発（小学校外国語）★(小学校外国語とそのコーディネーション)",
+        "semester": "後期",
+        "period": [
+            "火9",
+            "火10"
+        ],
+        "teacher": [
+            "吉村 雅仁",
+            "前田 康二"
+        ],
+        "credits": 2,
+        "room": [
+            "未調査"
+        ],
+        "sdgs": [
+            4,
+            10,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_11_K6036.html"
+    }
+]

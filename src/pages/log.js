@@ -192,6 +192,18 @@ function log() {
             <td>データを2023年度(2023/9/17時点)のものに更新。
             </td>
           </tr>
+          <tr>
+            <th scope="row">2023/10/5</th>
+            <td>シラバス</td>
+            <td>データを2023年度(2023/10/5時点)のものに更新。<br />教室名を更新。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2023/11/20</th>
+            <td>シラバス</td>
+            <td>大学院を追加。
+            </td>
+          </tr>
         </tbody>
       </Table>
       <p style={{'text-align': 'center'}}>Source code is available on <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">

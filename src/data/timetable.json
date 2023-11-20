@@ -275,7 +275,7 @@
         ],
         "credits": 2,
         "room": [
-            "203"
+            "105"
         ],
         "sdgs": [
             4,
@@ -845,7 +845,7 @@
         ],
         "credits": 2,
         "room": [
-            "306"
+            "102"
         ],
         "sdgs": [
             4,
@@ -1679,7 +1679,7 @@
             "金6"
         ],
         "teacher": [
-            "担当教員未定"
+            "莊 文瀾"
         ],
         "credits": 2,
         "room": [
@@ -2984,7 +2984,7 @@
             "金4"
         ],
         "teacher": [
-            "担当教員未定"
+            "莊 文瀾"
         ],
         "credits": 1,
         "room": [
@@ -3397,7 +3397,7 @@
         ],
         "credits": 2,
         "room": [
-            "206"
+            "310"
         ],
         "sdgs": [
             1,
@@ -4472,7 +4472,8 @@
         ],
         "credits": 2,
         "room": [
-            "書道実習室１"
+            "クラブハウス演習室７（207）",
+            "クラブハウス演習室８（209）"
         ],
         "sdgs": [
             4
@@ -6611,7 +6612,7 @@
         ],
         "credits": 2,
         "room": [
-            "30"
+            "303"
         ],
         "sdgs": [
             3,
@@ -12715,6 +12716,44 @@
     },
     {
         "no": 569,
+        "tt_num": "G8072",
+        "name": "保育実習（保育所Ⅰ）",
+        "semester": "前期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "山本展明",
+            "廣瀬 聡弥",
+            "大西 賢治"
+        ],
+        "credits": 2,
+        "room": [
+            "None"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8072.html"
+    },
+    {
+        "no": 570,
+        "tt_num": "G8073",
+        "name": "保育実習（施設）",
+        "semester": "前期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "岩本 華子"
+        ],
+        "credits": 2,
+        "room": [
+            "None"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8073.html"
+    },
+    {
+        "no": 571,
         "tt_num": "G9981",
         "name": "給食指導",
         "semester": "前期",
@@ -12736,7 +12775,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G9981.html"
     },
     {
-        "no": 570,
+        "no": 572,
         "tt_num": "G9984",
         "name": "新理数基礎ゼミナールⅠ",
         "semester": "前期",
@@ -12771,7 +12810,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G9984.html"
     },
     {
-        "no": 571,
+        "no": 573,
         "tt_num": "G9986",
         "name": "新理数教育Ⅲ",
         "semester": "前期",
@@ -12806,7 +12845,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G9986.html"
     },
     {
-        "no": 572,
+        "no": 574,
         "tt_num": "G9988",
         "name": "新理数教育Ⅰ",
         "semester": "前期",
@@ -12842,7 +12881,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G9988.html"
     },
     {
-        "no": 573,
+        "no": 575,
         "tt_num": "G6917",
         "name": "子育て支援",
         "semester": "前期",
@@ -12862,7 +12901,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6917.html"
     },
     {
-        "no": 574,
+        "no": 576,
         "tt_num": "G1541",
         "name": "小学校生活",
         "semester": "前期",
@@ -12881,7 +12920,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1541.html"
     },
     {
-        "no": 575,
+        "no": 577,
         "tt_num": "G1547",
         "name": "小学校図画工作",
         "semester": "前期",
@@ -12902,7 +12941,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1547.html"
     },
     {
-        "no": 576,
+        "no": 578,
         "tt_num": "G1561",
         "name": "小学校音楽Ⅰ★（音楽Ⅰ）",
         "semester": "前期",
@@ -12920,7 +12959,9 @@
         ],
         "credits": 1,
         "room": [
-            "音楽棟第１・第２・第３学生実",
+            "音楽棟第１学生実",
+            "音楽棟第２学生実",
+            "音楽棟第３学生実",
             "第１アンサンブル室",
             "山田ホール",
             "102"
@@ -12932,7 +12973,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1561.html"
     },
     {
-        "no": 577,
+        "no": 579,
         "tt_num": "G1543",
         "name": "小学校生活",
         "semester": "前期",
@@ -12960,7 +13001,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1543.html"
     },
     {
-        "no": 578,
+        "no": 580,
         "tt_num": "G1549",
         "name": "小学校図画工作",
         "semester": "前期",
@@ -12983,7 +13024,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1549.html"
     },
     {
-        "no": 579,
+        "no": 581,
         "tt_num": "G0731",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13004,7 +13045,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0731.html"
     },
     {
-        "no": 580,
+        "no": 582,
         "tt_num": "G0732",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13028,7 +13069,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0732.html"
     },
     {
-        "no": 581,
+        "no": 583,
         "tt_num": "G0733",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13050,7 +13091,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0733.html"
     },
     {
-        "no": 582,
+        "no": 584,
         "tt_num": "G0734",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13074,7 +13115,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0734.html"
     },
     {
-        "no": 583,
+        "no": 585,
         "tt_num": "G0735",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13095,7 +13136,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0735.html"
     },
     {
-        "no": 584,
+        "no": 586,
         "tt_num": "G0736",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13133,7 +13174,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0736.html"
     },
     {
-        "no": 585,
+        "no": 587,
         "tt_num": "G0737",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13155,7 +13196,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0737.html"
     },
     {
-        "no": 586,
+        "no": 588,
         "tt_num": "G0738",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13178,7 +13219,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0738.html"
     },
     {
-        "no": 587,
+        "no": 589,
         "tt_num": "G0739",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13197,7 +13238,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0739.html"
     },
     {
-        "no": 588,
+        "no": 590,
         "tt_num": "G0740",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13218,7 +13259,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0740.html"
     },
     {
-        "no": 589,
+        "no": 591,
         "tt_num": "G0741",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13239,7 +13280,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0741.html"
     },
     {
-        "no": 590,
+        "no": 592,
         "tt_num": "G0742",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13261,7 +13302,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0742.html"
     },
     {
-        "no": 591,
+        "no": 593,
         "tt_num": "G0743",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13282,7 +13323,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0743.html"
     },
     {
-        "no": 592,
+        "no": 594,
         "tt_num": "G0744",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13304,7 +13345,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0744.html"
     },
     {
-        "no": 593,
+        "no": 595,
         "tt_num": "G0745",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13325,7 +13366,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0745.html"
     },
     {
-        "no": 594,
+        "no": 596,
         "tt_num": "G0746",
         "name": "大学での学び入門",
         "semester": "前期",
@@ -13346,7 +13387,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0746.html"
     },
     {
-        "no": 595,
+        "no": 597,
         "tt_num": "G1542",
         "name": "小学校図画工作",
         "semester": "前期",
@@ -13369,7 +13410,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1542.html"
     },
     {
-        "no": 596,
+        "no": 598,
         "tt_num": "G1548",
         "name": "小学校生活",
         "semester": "前期",
@@ -13388,7 +13429,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1548.html"
     },
     {
-        "no": 597,
+        "no": 599,
         "tt_num": "G1545",
         "name": "小学校音楽Ⅰ★（音楽Ⅰ）",
         "semester": "前期",
@@ -13406,7 +13447,9 @@
         ],
         "credits": 1,
         "room": [
-            "音楽棟第１・第２・第３学生実",
+            "音楽棟第１学生実",
+            "音楽棟第２学生実",
+            "音楽棟第３学生実",
             "第１アンサンブル室",
             "山田ホール",
             "102"
@@ -13418,7 +13461,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1545.html"
     },
     {
-        "no": 598,
+        "no": 600,
         "tt_num": "G1544",
         "name": "小学校図画工作",
         "semester": "前期",
@@ -13441,7 +13484,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1544.html"
     },
     {
-        "no": 599,
+        "no": 601,
         "tt_num": "G1550",
         "name": "小学校生活",
         "semester": "前期",
@@ -13469,7 +13512,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1550.html"
     },
     {
-        "no": 600,
+        "no": 602,
         "tt_num": "G2187",
         "name": "保育内容の指導法（環境Ⅱ）",
         "semester": "前期",
@@ -13492,7 +13535,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2187.html"
     },
     {
-        "no": 601,
+        "no": 603,
         "tt_num": "G2053",
         "name": "中等教科教育法Ⅱ（音楽）",
         "semester": "後期",
@@ -13512,7 +13555,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2053.html"
     },
     {
-        "no": 602,
+        "no": 604,
         "tt_num": "G2085",
         "name": "中等教科教育法Ⅳ（保健体育）",
         "semester": "後期",
@@ -13535,7 +13578,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2085.html"
     },
     {
-        "no": 603,
+        "no": 605,
         "tt_num": "G2228",
         "name": "教科内容研究（数学）",
         "semester": "後期",
@@ -13562,7 +13605,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2228.html"
     },
     {
-        "no": 604,
+        "no": 606,
         "tt_num": "G3456",
         "name": "西洋史研究Ⅳ",
         "semester": "後期",
@@ -13581,7 +13624,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3456.html"
     },
     {
-        "no": 605,
+        "no": 607,
         "tt_num": "G3518",
         "name": "経済学・社会学研究Ⅳ",
         "semester": "後期",
@@ -13603,7 +13646,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3518.html"
     },
     {
-        "no": 606,
+        "no": 608,
         "tt_num": "G4302",
         "name": "地質学",
         "semester": "後期",
@@ -13624,7 +13667,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4302.html"
     },
     {
-        "no": 607,
+        "no": 609,
         "tt_num": "G4509",
         "name": "管楽器Ⅱ〈金管〉",
         "semester": "後期",
@@ -13645,7 +13688,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4509.html"
     },
     {
-        "no": 608,
+        "no": 610,
         "tt_num": "G4754",
         "name": "声楽Ⅱ（Ｚ）",
         "semester": "後期",
@@ -13666,7 +13709,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4754.html"
     },
     {
-        "no": 609,
+        "no": 611,
         "tt_num": "G2097",
         "name": "中等教科教育法Ⅳ（技術）",
         "semester": "後期",
@@ -13681,11 +13724,13 @@
         "room": [
             "情報セ演B(2F)"
         ],
-        "sdgs": [],
+        "sdgs": [
+            9
+        ],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2097.html"
     },
     {
-        "no": 610,
+        "no": 612,
         "tt_num": "G3074",
         "name": "日本語学特講Ⅰ",
         "semester": "後期",
@@ -13704,7 +13749,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3074.html"
     },
     {
-        "no": 611,
+        "no": 613,
         "tt_num": "G3443",
         "name": "法学",
         "semester": "後期",
@@ -13735,7 +13780,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3443.html"
     },
     {
-        "no": 612,
+        "no": 614,
         "tt_num": "G3482",
         "name": "地誌学概論",
         "semester": "後期",
@@ -13757,7 +13802,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3482.html"
     },
     {
-        "no": 613,
+        "no": 615,
         "tt_num": "G3773",
         "name": "数理プログラミング",
         "semester": "後期",
@@ -13776,7 +13821,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3773.html"
     },
     {
-        "no": 614,
+        "no": 616,
         "tt_num": "G3792",
         "name": "数学教育基礎",
         "semester": "後期",
@@ -13797,7 +13842,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3792.html"
     },
     {
-        "no": 615,
+        "no": 617,
         "tt_num": "G4731",
         "name": "ピアノⅡ（Ａ）",
         "semester": "後期",
@@ -13818,7 +13863,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4731.html"
     },
     {
-        "no": 616,
+        "no": 618,
         "tt_num": "G4739",
         "name": "声楽Ⅳ（Ｘ）",
         "semester": "後期",
@@ -13839,7 +13884,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4739.html"
     },
     {
-        "no": 617,
+        "no": 619,
         "tt_num": "G4877",
         "name": "絵画Ⅵ(絵画伝統技法 ）",
         "semester": "後期",
@@ -13852,7 +13897,7 @@
         ],
         "credits": 1,
         "room": [
-            "絵画第１実"
+            "クラブハウス演習室９（211）"
         ],
         "sdgs": [
             4,
@@ -13861,7 +13906,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4877.html"
     },
     {
-        "no": 618,
+        "no": 620,
         "tt_num": "G5023",
         "name": "仮名作品研究Ⅱ",
         "semester": "後期",
@@ -13883,7 +13928,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5023.html"
     },
     {
-        "no": 619,
+        "no": 621,
         "tt_num": "G5033",
         "name": "漢字創作法Ⅱ",
         "semester": "後期",
@@ -13896,13 +13941,14 @@
         ],
         "credits": 1,
         "room": [
-            "書道実習室１"
+            "クラブハウス演習室７（207）",
+            "クラブハウス演習室８（209）"
         ],
         "sdgs": [],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5033.html"
     },
     {
-        "no": 620,
+        "no": 622,
         "tt_num": "G5966",
         "name": "障害児教育実践学演習",
         "semester": "後期",
@@ -13924,7 +13970,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5966.html"
     },
     {
-        "no": 621,
+        "no": 623,
         "tt_num": "G6202",
         "name": "生涯教育史特講",
         "semester": "後期",
@@ -13945,7 +13991,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6202.html"
     },
     {
-        "no": 622,
+        "no": 624,
         "tt_num": "G6221",
         "name": "教育方法学特講",
         "semester": "後期",
@@ -13967,7 +14013,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6221.html"
     },
     {
-        "no": 623,
+        "no": 625,
         "tt_num": "G6271",
         "name": "心理学調査法",
         "semester": "後期",
@@ -13977,6 +14023,7 @@
         ],
         "teacher": [
             "出口 拓彦",
+            "市来 百合子",
             "金山 英莉花"
         ],
         "credits": 2,
@@ -13987,7 +14034,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6271.html"
     },
     {
-        "no": 624,
+        "no": 626,
         "tt_num": "G6921",
         "name": "児童家庭福祉論",
         "semester": "後期",
@@ -14010,7 +14057,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6921.html"
     },
     {
-        "no": 625,
+        "no": 627,
         "tt_num": "G1563",
         "name": "初等教科教育法（英語）★（小学校外国語活動）",
         "semester": "後期",
@@ -14031,7 +14078,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1563.html"
     },
     {
-        "no": 626,
+        "no": 628,
         "tt_num": "G2026",
         "name": "中等教科教育法Ⅱ(社会・公民)",
         "semester": "後期",
@@ -14054,7 +14101,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2026.html"
     },
     {
-        "no": 627,
+        "no": 629,
         "tt_num": "G2083",
         "name": "中等教科教育法Ⅱ（保健体育）",
         "semester": "後期",
@@ -14079,7 +14126,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2083.html"
     },
     {
-        "no": 628,
+        "no": 630,
         "tt_num": "G2093",
         "name": "中等教科教育法Ⅱ（工業）",
         "semester": "後期",
@@ -14102,7 +14149,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2093.html"
     },
     {
-        "no": 629,
+        "no": 631,
         "tt_num": "G3003",
         "name": "日本語学概説Ⅱ",
         "semester": "後期",
@@ -14123,7 +14170,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3003.html"
     },
     {
-        "no": 630,
+        "no": 632,
         "tt_num": "G3274",
         "name": "英会話Ⅱ",
         "semester": "後期",
@@ -14160,7 +14207,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3274.html"
     },
     {
-        "no": 631,
+        "no": 633,
         "tt_num": "G3449",
         "name": "日本史研究Ⅳ",
         "semester": "後期",
@@ -14182,7 +14229,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3449.html"
     },
     {
-        "no": 632,
+        "no": 634,
         "tt_num": "G3529",
         "name": "地理学研究Ⅳ",
         "semester": "後期",
@@ -14205,7 +14252,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3529.html"
     },
     {
-        "no": 633,
+        "no": 635,
         "tt_num": "G3745",
         "name": "代数構造Ⅰ",
         "semester": "後期",
@@ -14226,7 +14273,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3745.html"
     },
     {
-        "no": 634,
+        "no": 636,
         "tt_num": "G3831",
         "name": "コンピュータと数学",
         "semester": "後期",
@@ -14245,7 +14292,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3831.html"
     },
     {
-        "no": 635,
+        "no": 637,
         "tt_num": "G4072",
         "name": "文化遺産科学Ⅱ",
         "semester": "後期",
@@ -14266,7 +14313,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4072.html"
     },
     {
-        "no": 636,
+        "no": 638,
         "tt_num": "G4236",
         "name": "化学概論Ⅱ",
         "semester": "後期",
@@ -14288,7 +14335,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4236.html"
     },
     {
-        "no": 637,
+        "no": 639,
         "tt_num": "G4732",
         "name": "ピアノⅡ（Ｃ）",
         "semester": "後期",
@@ -14309,7 +14356,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4732.html"
     },
     {
-        "no": 638,
+        "no": 640,
         "tt_num": "G4741",
         "name": "ピアノⅡ（Ｄ）",
         "semester": "後期",
@@ -14330,7 +14377,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4741.html"
     },
     {
-        "no": 639,
+        "no": 641,
         "tt_num": "G5035",
         "name": "楷書法",
         "semester": "後期",
@@ -14343,7 +14390,8 @@
         ],
         "credits": 1,
         "room": [
-            "書道実習室１"
+            "クラブハウス演習室７（207）",
+            "クラブハウス演習室８（209）"
         ],
         "sdgs": [
             4,
@@ -14352,7 +14400,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5035.html"
     },
     {
-        "no": 640,
+        "no": 642,
         "tt_num": "G5319",
         "name": "表現運動・ダンス（体つくり運動を含む。）",
         "semester": "後期",
@@ -14374,7 +14422,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5319.html"
     },
     {
-        "no": 641,
+        "no": 643,
         "tt_num": "G5520",
         "name": "標準製図",
         "semester": "後期",
@@ -14393,7 +14441,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5520.html"
     },
     {
-        "no": 642,
+        "no": 644,
         "tt_num": "G1539",
         "name": "小学校算数★（算数）",
         "semester": "後期",
@@ -14415,7 +14463,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1539.html"
     },
     {
-        "no": 643,
+        "no": 645,
         "tt_num": "G1558",
         "name": "小学校算数★（算数）",
         "semester": "後期",
@@ -14437,7 +14485,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1558.html"
     },
     {
-        "no": 644,
+        "no": 646,
         "tt_num": "G1559",
         "name": "小学校算数★（算数）",
         "semester": "後期",
@@ -14459,7 +14507,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1559.html"
     },
     {
-        "no": 645,
+        "no": 647,
         "tt_num": "G2234",
         "name": "教科内容研究（書道）",
         "semester": "後期",
@@ -14473,7 +14521,8 @@
         ],
         "credits": 2,
         "room": [
-            "204"
+            "クラブハウス演習室７（207）",
+            "クラブハウス演習室８（209）"
         ],
         "sdgs": [
             4,
@@ -14482,7 +14531,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2234.html"
     },
     {
-        "no": 646,
+        "no": 648,
         "tt_num": "G3406",
         "name": "哲学・倫理学研究Ⅳ",
         "semester": "後期",
@@ -14501,7 +14550,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3406.html"
     },
     {
-        "no": 647,
+        "no": 649,
         "tt_num": "G3418",
         "name": "社会科教育研究Ⅱ",
         "semester": "後期",
@@ -14524,7 +14573,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3418.html"
     },
     {
-        "no": 648,
+        "no": 650,
         "tt_num": "G3454",
         "name": "西洋史研究Ⅱ",
         "semester": "後期",
@@ -14543,7 +14592,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3454.html"
     },
     {
-        "no": 649,
+        "no": 651,
         "tt_num": "G3513",
         "name": "経済学・社会学研究Ⅱ",
         "semester": "後期",
@@ -14565,7 +14614,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3513.html"
     },
     {
-        "no": 650,
+        "no": 652,
         "tt_num": "G3533",
         "name": "地理学研究Ⅱ",
         "semester": "後期",
@@ -14603,7 +14652,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3533.html"
     },
     {
-        "no": 651,
+        "no": 653,
         "tt_num": "G3702",
         "name": "プログラミングとデータベース",
         "semester": "後期",
@@ -14624,7 +14673,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3702.html"
     },
     {
-        "no": 652,
+        "no": 654,
         "tt_num": "G3715",
         "name": "情報数理学",
         "semester": "後期",
@@ -14645,7 +14694,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3715.html"
     },
     {
-        "no": 653,
+        "no": 655,
         "tt_num": "G4032",
         "name": "遺伝学実験",
         "semester": "後期",
@@ -14667,7 +14716,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4032.html"
     },
     {
-        "no": 654,
+        "no": 656,
         "tt_num": "G4050",
         "name": "水圏科学",
         "semester": "後期",
@@ -14692,7 +14741,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4050.html"
     },
     {
-        "no": 655,
+        "no": 657,
         "tt_num": "G4322",
         "name": "化学実験（コンピュータ活用を含む。）",
         "semester": "後期",
@@ -14714,7 +14763,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4322.html"
     },
     {
-        "no": 656,
+        "no": 658,
         "tt_num": "G4639",
         "name": "ピアノⅣ（Ａ）",
         "semester": "後期",
@@ -14735,7 +14784,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4639.html"
     },
     {
-        "no": 657,
+        "no": 659,
         "tt_num": "G4744",
         "name": "声楽Ⅳ（Ｙ）",
         "semester": "後期",
@@ -14756,7 +14805,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4744.html"
     },
     {
-        "no": 658,
+        "no": 660,
         "tt_num": "G4834",
         "name": "実材",
         "semester": "後期",
@@ -14769,13 +14818,13 @@
         ],
         "credits": 2,
         "room": [
-            "彫塑第３実"
+            "クラブハウス演習室６（117）"
         ],
         "sdgs": [],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4834.html"
     },
     {
-        "no": 659,
+        "no": 661,
         "tt_num": "G4845",
         "name": "絵画Ⅱ(人物画研究）",
         "semester": "後期",
@@ -14788,13 +14837,13 @@
         ],
         "credits": 1,
         "room": [
-            "絵画第３実"
+            "クラブハウス演習室３（105）"
         ],
         "sdgs": [],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4845.html"
     },
     {
-        "no": 660,
+        "no": 662,
         "tt_num": "G5251",
         "name": "球技（種目別Ⅱ）",
         "semester": "後期",
@@ -14815,7 +14864,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5251.html"
     },
     {
-        "no": 661,
+        "no": 663,
         "tt_num": "G5264",
         "name": "生理学（運動生理学を含む。）",
         "semester": "後期",
@@ -14838,7 +14887,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5264.html"
     },
     {
-        "no": 662,
+        "no": 664,
         "tt_num": "G5518",
         "name": "金属工作理論",
         "semester": "後期",
@@ -14861,7 +14910,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5518.html"
     },
     {
-        "no": 663,
+        "no": 665,
         "tt_num": "G5551",
         "name": "電気設計製作",
         "semester": "後期",
@@ -14876,11 +14925,13 @@
         "room": [
             "電気実験室"
         ],
-        "sdgs": [],
+        "sdgs": [
+            9
+        ],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5551.html"
     },
     {
-        "no": 664,
+        "no": 666,
         "tt_num": "G6121",
         "name": "心理学実験",
         "semester": "後期",
@@ -14903,7 +14954,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6121.html"
     },
     {
-        "no": 665,
+        "no": 667,
         "tt_num": "G6504",
         "name": "日本語教育論",
         "semester": "後期",
@@ -14922,7 +14973,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6504.html"
     },
     {
-        "no": 666,
+        "no": 668,
         "tt_num": "G6920",
         "name": "保育者論",
         "semester": "後期",
@@ -14944,7 +14995,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6920.html"
     },
     {
-        "no": 667,
+        "no": 669,
         "tt_num": "G1546",
         "name": "小学校音楽Ⅱ★（音楽Ⅱ）",
         "semester": "後期",
@@ -14958,7 +15009,8 @@
         ],
         "credits": 1,
         "room": [
-            "音楽棟第１・第３学生実"
+            "音楽棟第１学生実",
+            "音楽棟第３学生実"
         ],
         "sdgs": [
             4
@@ -14966,7 +15018,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1546.html"
     },
     {
-        "no": 668,
+        "no": 670,
         "tt_num": "G2099",
         "name": "中等教科教育法Ⅳ（社会・公民）",
         "semester": "後期",
@@ -14989,7 +15041,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2099.html"
     },
     {
-        "no": 669,
+        "no": 671,
         "tt_num": "G3222",
         "name": "英作文Ⅱ",
         "semester": "後期",
@@ -15010,7 +15062,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3222.html"
     },
     {
-        "no": 670,
+        "no": 672,
         "tt_num": "G3492",
         "name": "日本史概説Ⅱ",
         "semester": "後期",
@@ -15032,7 +15084,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3492.html"
     },
     {
-        "no": 671,
+        "no": 673,
         "tt_num": "G3717",
         "name": "情報システム論",
         "semester": "後期",
@@ -15055,7 +15107,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3717.html"
     },
     {
-        "no": 672,
+        "no": 674,
         "tt_num": "G3748",
         "name": "線形代数",
         "semester": "後期",
@@ -15076,7 +15128,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3748.html"
     },
     {
-        "no": 673,
+        "no": 675,
         "tt_num": "G4591",
         "name": "ソルフェージュ",
         "semester": "後期",
@@ -15097,7 +15149,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4591.html"
     },
     {
-        "no": 674,
+        "no": 676,
         "tt_num": "G4645",
         "name": "日本音楽実習Ⅰ",
         "semester": "後期",
@@ -15110,7 +15162,7 @@
         ],
         "credits": 1,
         "room": [
-            "山田ホール"
+            "第２アンサンブル室"
         ],
         "sdgs": [
             4
@@ -15118,7 +15170,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4645.html"
     },
     {
-        "no": 675,
+        "no": 677,
         "tt_num": "G4755",
         "name": "声楽Ⅳ（Ｚ）",
         "semester": "後期",
@@ -15139,7 +15191,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4755.html"
     },
     {
-        "no": 676,
+        "no": 678,
         "tt_num": "G4833",
         "name": "彫刻Ⅱ",
         "semester": "後期",
@@ -15152,13 +15204,14 @@
         ],
         "credits": 1,
         "room": [
-            "総合彫塑室"
+            "クラブハウス演習室１（109）",
+            "クラブハウス演習室２（111）"
         ],
         "sdgs": [],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4833.html"
     },
     {
-        "no": 677,
+        "no": 679,
         "tt_num": "G4847",
         "name": "デッサンⅡ",
         "semester": "後期",
@@ -15171,13 +15224,13 @@
         ],
         "credits": 1,
         "room": [
-            "絵画特演室"
+            "クラブハウス演習室３（105）"
         ],
         "sdgs": [],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4847.html"
     },
     {
-        "no": 678,
+        "no": 680,
         "tt_num": "G5281",
         "name": "レクリエーション理論",
         "semester": "後期",
@@ -15201,7 +15254,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5281.html"
     },
     {
-        "no": 679,
+        "no": 681,
         "tt_num": "G5527",
         "name": "機械実験実習",
         "semester": "後期",
@@ -15224,7 +15277,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5527.html"
     },
     {
-        "no": 680,
+        "no": 682,
         "tt_num": "G2041",
         "name": "中等教科教育法Ⅰ（理科）",
         "semester": "後期",
@@ -15246,7 +15299,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2041.html"
     },
     {
-        "no": 681,
+        "no": 683,
         "tt_num": "G2062",
         "name": "中等教科教育法Ⅱ（美術）",
         "semester": "後期",
@@ -15267,7 +15320,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2062.html"
     },
     {
-        "no": 682,
+        "no": 684,
         "tt_num": "G2179",
         "name": "子どもと健康",
         "semester": "後期",
@@ -15292,7 +15345,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2179.html"
     },
     {
-        "no": 683,
+        "no": 685,
         "tt_num": "G3435",
         "name": "日本古代・中世史",
         "semester": "後期",
@@ -15314,7 +15367,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3435.html"
     },
     {
-        "no": 684,
+        "no": 686,
         "tt_num": "G3806",
         "name": "幾何基礎",
         "semester": "後期",
@@ -15335,7 +15388,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3806.html"
     },
     {
-        "no": 685,
+        "no": 687,
         "tt_num": "G4637",
         "name": "ピアノⅣ（Ｃ）",
         "semester": "後期",
@@ -15356,7 +15409,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4637.html"
     },
     {
-        "no": 686,
+        "no": 688,
         "tt_num": "G5002",
         "name": "漢字創作法Ⅰ",
         "semester": "後期",
@@ -15369,7 +15422,8 @@
         ],
         "credits": 1,
         "room": [
-            "書"
+            "クラブハウス演習室７（207）",
+            "クラブハウス演習室８（209）"
         ],
         "sdgs": [
             4,
@@ -15378,7 +15432,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5002.html"
     },
     {
-        "no": 687,
+        "no": 689,
         "tt_num": "G5200",
         "name": "体育心理学",
         "semester": "後期",
@@ -15397,7 +15451,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5200.html"
     },
     {
-        "no": 688,
+        "no": 690,
         "tt_num": "G5272",
         "name": "運動学（運動方法学を含む。）",
         "semester": "後期",
@@ -15418,7 +15472,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5272.html"
     },
     {
-        "no": 689,
+        "no": 691,
         "tt_num": "G5701",
         "name": "家族関係学",
         "semester": "後期",
@@ -15440,7 +15494,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5701.html"
     },
     {
-        "no": 690,
+        "no": 692,
         "tt_num": "G5913",
         "name": "特別支援教育原論",
         "semester": "後期",
@@ -15461,7 +15515,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5913.html"
     },
     {
-        "no": 691,
+        "no": 693,
         "tt_num": "G6246",
         "name": "教育課程特講",
         "semester": "後期",
@@ -15484,7 +15538,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6246.html"
     },
     {
-        "no": 692,
+        "no": 694,
         "tt_num": "G6308",
         "name": "生涯学習概論Ⅱ",
         "semester": "後期",
@@ -15505,7 +15559,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6308.html"
     },
     {
-        "no": 693,
+        "no": 695,
         "tt_num": "G1101",
         "name": "情報メディアの活用",
         "semester": "後期",
@@ -15526,7 +15580,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1101.html"
     },
     {
-        "no": 694,
+        "no": 696,
         "tt_num": "G2002",
         "name": "中等教科教育法Ⅱ（国語）",
         "semester": "後期",
@@ -15539,7 +15593,7 @@
         ],
         "credits": 2,
         "room": [
-            "206"
+            "104"
         ],
         "sdgs": [
             4
@@ -15547,7 +15601,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2002.html"
     },
     {
-        "no": 695,
+        "no": 697,
         "tt_num": "G2056",
         "name": "中等教科教育法Ⅳ（音楽）",
         "semester": "後期",
@@ -15570,7 +15624,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2056.html"
     },
     {
-        "no": 696,
+        "no": 698,
         "tt_num": "G2078",
         "name": "初等教科教育法（体育）",
         "semester": "後期",
@@ -15597,7 +15651,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2078.html"
     },
     {
-        "no": 697,
+        "no": 699,
         "tt_num": "G2079",
         "name": "初等教科教育法（体育）",
         "semester": "後期",
@@ -15620,7 +15674,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2079.html"
     },
     {
-        "no": 698,
+        "no": 700,
         "tt_num": "G2080",
         "name": "初等教科教育法（体育）",
         "semester": "後期",
@@ -15644,7 +15698,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2080.html"
     },
     {
-        "no": 699,
+        "no": 701,
         "tt_num": "G3255",
         "name": "言語コミュニケーション論",
         "semester": "後期",
@@ -15665,7 +15719,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3255.html"
     },
     {
-        "no": 700,
+        "no": 702,
         "tt_num": "G3514",
         "name": "社会学概論",
         "semester": "後期",
@@ -15689,7 +15743,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3514.html"
     },
     {
-        "no": 701,
+        "no": 703,
         "tt_num": "G4033",
         "name": "遺伝学",
         "semester": "後期",
@@ -15715,7 +15769,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4033.html"
     },
     {
-        "no": 702,
+        "no": 704,
         "tt_num": "G4281",
         "name": "有機化学",
         "semester": "後期",
@@ -15734,7 +15788,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4281.html"
     },
     {
-        "no": 703,
+        "no": 705,
         "tt_num": "G4821",
         "name": "美術教育特講Ⅰ",
         "semester": "後期",
@@ -15755,7 +15809,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4821.html"
     },
     {
-        "no": 704,
+        "no": 706,
         "tt_num": "G5045",
         "name": "篆刻法",
         "semester": "後期",
@@ -15768,13 +15822,14 @@
         ],
         "credits": 1,
         "room": [
-            "書道実習室１"
+            "クラブハウス演習室７（207）",
+            "クラブハウス演習室８（209）"
         ],
         "sdgs": [],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5045.html"
     },
     {
-        "no": 705,
+        "no": 707,
         "tt_num": "G5506",
         "name": "材料工作設計",
         "semester": "後期",
@@ -15793,7 +15848,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5506.html"
     },
     {
-        "no": 706,
+        "no": 708,
         "tt_num": "G5762",
         "name": "保育学(実習を含む。）",
         "semester": "後期",
@@ -15815,7 +15870,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5762.html"
     },
     {
-        "no": 707,
+        "no": 709,
         "tt_num": "G5916",
         "name": "障害児発達診断学演習",
         "semester": "後期",
@@ -15837,7 +15892,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5916.html"
     },
     {
-        "no": 708,
+        "no": 710,
         "tt_num": "G9970",
         "name": "日本人の宗教観",
         "semester": "後期",
@@ -15854,13 +15909,14 @@
         ],
         "sdgs": [
             4,
+            5,
             10,
             16
         ],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G9970.html"
     },
     {
-        "no": 709,
+        "no": 711,
         "tt_num": "G2191",
         "name": "保育内容の指導法（音楽表現）",
         "semester": "後期",
@@ -15883,7 +15939,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2191.html"
     },
     {
-        "no": 710,
+        "no": 712,
         "tt_num": "G3004",
         "name": "日本語学演習Ⅱ",
         "semester": "後期",
@@ -15904,7 +15960,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3004.html"
     },
     {
-        "no": 711,
+        "no": 713,
         "tt_num": "G3042",
         "name": "日本語表現法（文章表現を含む。）",
         "semester": "後期",
@@ -15925,7 +15981,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3042.html"
     },
     {
-        "no": 712,
+        "no": 714,
         "tt_num": "G3063",
         "name": "古典文学演習Ⅱ",
         "semester": "後期",
@@ -15946,7 +16002,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3063.html"
     },
     {
-        "no": 713,
+        "no": 715,
         "tt_num": "G3279",
         "name": "国際理解教育演習Ⅰ",
         "semester": "後期",
@@ -15965,7 +16021,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3279.html"
     },
     {
-        "no": 714,
+        "no": 716,
         "tt_num": "G3404",
         "name": "哲学・倫理学研究Ⅱ",
         "semester": "後期",
@@ -15984,7 +16040,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3404.html"
     },
     {
-        "no": 715,
+        "no": 717,
         "tt_num": "G3532",
         "name": "東洋史概説",
         "semester": "後期",
@@ -16003,7 +16059,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3532.html"
     },
     {
-        "no": 716,
+        "no": 718,
         "tt_num": "G3764",
         "name": "数学教育論",
         "semester": "後期",
@@ -16025,7 +16081,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3764.html"
     },
     {
-        "no": 717,
+        "no": 719,
         "tt_num": "G4104",
         "name": "地学概論Ⅱ",
         "semester": "後期",
@@ -16048,7 +16104,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4104.html"
     },
     {
-        "no": 718,
+        "no": 720,
         "tt_num": "G4538",
         "name": "保育内容特講",
         "semester": "後期",
@@ -16071,7 +16127,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4538.html"
     },
     {
-        "no": 719,
+        "no": 721,
         "tt_num": "G4734",
         "name": "声楽Ⅱ（Ｘ）",
         "semester": "後期",
@@ -16092,7 +16148,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4734.html"
     },
     {
-        "no": 720,
+        "no": 722,
         "tt_num": "G4762",
         "name": "演奏実習Ⅰ",
         "semester": "後期",
@@ -16113,7 +16169,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4762.html"
     },
     {
-        "no": 721,
+        "no": 723,
         "tt_num": "G4849",
         "name": "絵画Ⅲ(構図研究)",
         "semester": "後期",
@@ -16126,13 +16182,13 @@
         ],
         "credits": 2,
         "room": [
-            "総合絵画室"
+            "クラブハウス演習室３（105）"
         ],
         "sdgs": [],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4849.html"
     },
     {
-        "no": 722,
+        "no": 724,
         "tt_num": "G4856",
         "name": "文化遺産芸術学演習Ⅰ",
         "semester": "後期",
@@ -16153,7 +16209,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4856.html"
     },
     {
-        "no": 723,
+        "no": 725,
         "tt_num": "G5004",
         "name": "漢字作品研究Ⅱ",
         "semester": "後期",
@@ -16174,7 +16230,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5004.html"
     },
     {
-        "no": 724,
+        "no": 726,
         "tt_num": "G5014",
         "name": "書道史Ⅱ",
         "semester": "後期",
@@ -16187,7 +16243,7 @@
         ],
         "credits": 2,
         "room": [
-            "書道実習室２"
+            "105"
         ],
         "sdgs": [
             4,
@@ -16196,7 +16252,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5014.html"
     },
     {
-        "no": 725,
+        "no": 727,
         "tt_num": "G5225",
         "name": "健康相談活動の理論及び方法",
         "semester": "後期",
@@ -16217,7 +16273,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5225.html"
     },
     {
-        "no": 726,
+        "no": 728,
         "tt_num": "G5529",
         "name": "材料力学",
         "semester": "後期",
@@ -16236,7 +16292,28 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5529.html"
     },
     {
-        "no": 727,
+        "no": 729,
+        "tt_num": "G5566",
+        "name": "電気基礎",
+        "semester": "後期",
+        "period": [
+            "火5",
+            "火6"
+        ],
+        "teacher": [
+            "薮 哲郎"
+        ],
+        "credits": 2,
+        "room": [
+            "技"
+        ],
+        "sdgs": [
+            9
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5566.html"
+    },
+    {
+        "no": 730,
         "tt_num": "G5704",
         "name": "家族福祉論",
         "semester": "後期",
@@ -16258,7 +16335,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5704.html"
     },
     {
-        "no": 728,
+        "no": 731,
         "tt_num": "G6212",
         "name": "教育哲学・思想特講",
         "semester": "後期",
@@ -16279,7 +16356,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6212.html"
     },
     {
-        "no": 729,
+        "no": 732,
         "tt_num": "G6919",
         "name": "子ども家庭支援論",
         "semester": "後期",
@@ -16301,7 +16378,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6919.html"
     },
     {
-        "no": 730,
+        "no": 733,
         "tt_num": "G0710",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16322,7 +16399,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0710.html"
     },
     {
-        "no": 731,
+        "no": 734,
         "tt_num": "G0711",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16345,7 +16422,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0711.html"
     },
     {
-        "no": 732,
+        "no": 735,
         "tt_num": "G0712",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16368,7 +16445,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0712.html"
     },
     {
-        "no": 733,
+        "no": 736,
         "tt_num": "G0713",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16391,7 +16468,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0713.html"
     },
     {
-        "no": 734,
+        "no": 737,
         "tt_num": "G0714",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16413,7 +16490,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0714.html"
     },
     {
-        "no": 735,
+        "no": 738,
         "tt_num": "G0715",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16451,7 +16528,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0715.html"
     },
     {
-        "no": 736,
+        "no": 739,
         "tt_num": "G0716",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16474,7 +16551,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0716.html"
     },
     {
-        "no": 737,
+        "no": 740,
         "tt_num": "G0717",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16502,7 +16579,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0717.html"
     },
     {
-        "no": 738,
+        "no": 741,
         "tt_num": "G0718",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16530,7 +16607,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0718.html"
     },
     {
-        "no": 739,
+        "no": 742,
         "tt_num": "G0719",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16553,7 +16630,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0719.html"
     },
     {
-        "no": 740,
+        "no": 743,
         "tt_num": "G0720",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16578,7 +16655,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0720.html"
     },
     {
-        "no": 741,
+        "no": 744,
         "tt_num": "G0721",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16599,7 +16676,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0721.html"
     },
     {
-        "no": 742,
+        "no": 745,
         "tt_num": "G0722",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16620,7 +16697,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0722.html"
     },
     {
-        "no": 743,
+        "no": 746,
         "tt_num": "G0723",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16642,7 +16719,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0723.html"
     },
     {
-        "no": 744,
+        "no": 747,
         "tt_num": "G0725",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16664,7 +16741,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0725.html"
     },
     {
-        "no": 745,
+        "no": 748,
         "tt_num": "G0726",
         "name": "専修基礎ゼミ",
         "semester": "後期",
@@ -16684,7 +16761,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0726.html"
     },
     {
-        "no": 746,
+        "no": 749,
         "tt_num": "G2063",
         "name": "初等教科教育法（図画工作）",
         "semester": "後期",
@@ -16705,7 +16782,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2063.html"
     },
     {
-        "no": 747,
+        "no": 750,
         "tt_num": "G2103",
         "name": "初等教科教育法（家庭）",
         "semester": "後期",
@@ -16728,7 +16805,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2103.html"
     },
     {
-        "no": 748,
+        "no": 751,
         "tt_num": "G3416",
         "name": "社会科教育研究Ⅳ",
         "semester": "後期",
@@ -16747,7 +16824,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3416.html"
     },
     {
-        "no": 749,
+        "no": 752,
         "tt_num": "G3531",
         "name": "東洋史",
         "semester": "後期",
@@ -16766,7 +16843,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3531.html"
     },
     {
-        "no": 750,
+        "no": 753,
         "tt_num": "G3810",
         "name": "トポロジー",
         "semester": "後期",
@@ -16787,7 +16864,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3810.html"
     },
     {
-        "no": 751,
+        "no": 754,
         "tt_num": "G4045",
         "name": "生理学実験",
         "semester": "後期",
@@ -16812,7 +16889,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4045.html"
     },
     {
-        "no": 752,
+        "no": 755,
         "tt_num": "G4312",
         "name": "実践物理実験",
         "semester": "後期",
@@ -16837,7 +16914,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4312.html"
     },
     {
-        "no": 753,
+        "no": 756,
         "tt_num": "G5037",
         "name": "草書法",
         "semester": "後期",
@@ -16850,13 +16927,13 @@
         ],
         "credits": 1,
         "room": [
-            "書道実習室２"
+            "クラブハウス演習室７（207）"
         ],
         "sdgs": [],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5037.html"
     },
     {
-        "no": 754,
+        "no": 757,
         "tt_num": "G5062",
         "name": "仮名条幅研究",
         "semester": "後期",
@@ -16869,7 +16946,9 @@
         ],
         "credits": 2,
         "room": [
-            "書道実習室１"
+            "クラブハウス演習室８（209）",
+            "クラブハウス演習室１１（213）",
+            "クラブハウス演習室１２（215）"
         ],
         "sdgs": [
             4,
@@ -16878,7 +16957,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5062.html"
     },
     {
-        "no": 755,
+        "no": 758,
         "tt_num": "G5504",
         "name": "材料工作実習",
         "semester": "後期",
@@ -16897,7 +16976,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5504.html"
     },
     {
-        "no": 756,
+        "no": 759,
         "tt_num": "G5710",
         "name": "食品保蔵学",
         "semester": "後期",
@@ -16919,7 +16998,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5710.html"
     },
     {
-        "no": 757,
+        "no": 760,
         "tt_num": "G6243",
         "name": "生涯教育政策特講",
         "semester": "後期",
@@ -16941,7 +17020,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6243.html"
     },
     {
-        "no": 758,
+        "no": 761,
         "tt_num": "G6531",
         "name": "異文化理解研究",
         "semester": "後期",
@@ -16963,7 +17042,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6531.html"
     },
     {
-        "no": 759,
+        "no": 762,
         "tt_num": "G6821",
         "name": "教育人権アプローチ演習",
         "semester": "後期",
@@ -16991,7 +17070,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6821.html"
     },
     {
-        "no": 760,
+        "no": 763,
         "tt_num": "G0066",
         "name": "教師のための情報モラル",
         "semester": "後期",
@@ -17013,7 +17092,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G0066.html"
     },
     {
-        "no": 761,
+        "no": 764,
         "tt_num": "G2013",
         "name": "中等教科教育法Ⅳ(英語）",
         "semester": "後期",
@@ -17032,7 +17111,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2013.html"
     },
     {
-        "no": 762,
+        "no": 765,
         "tt_num": "G2231",
         "name": "教科内容研究（美術）",
         "semester": "後期",
@@ -17058,7 +17137,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2231.html"
     },
     {
-        "no": 763,
+        "no": 766,
         "tt_num": "G3077",
         "name": "日本文学史Ⅱ",
         "semester": "後期",
@@ -17079,7 +17158,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3077.html"
     },
     {
-        "no": 764,
+        "no": 767,
         "tt_num": "G3474",
         "name": "自然と地域の未来を探る▲（地域生態論）",
         "semester": "後期",
@@ -17116,7 +17195,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3474.html"
     },
     {
-        "no": 765,
+        "no": 768,
         "tt_num": "G4024",
         "name": "文化遺産科学実験Ⅰ",
         "semester": "後期",
@@ -17139,7 +17218,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4024.html"
     },
     {
-        "no": 766,
+        "no": 769,
         "tt_num": "G4539",
         "name": "保育内容演習",
         "semester": "後期",
@@ -17160,7 +17239,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4539.html"
     },
     {
-        "no": 767,
+        "no": 770,
         "tt_num": "G4548",
         "name": "合唱Ⅱ",
         "semester": "後期",
@@ -17181,7 +17260,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4548.html"
     },
     {
-        "no": 768,
+        "no": 771,
         "tt_num": "G4549",
         "name": "合唱Ⅳ",
         "semester": "後期",
@@ -17194,7 +17273,7 @@
         ],
         "credits": 1,
         "room": [
-            "講堂"
+            "音"
         ],
         "sdgs": [
             4
@@ -17202,7 +17281,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4549.html"
     },
     {
-        "no": 769,
+        "no": 772,
         "tt_num": "G5046",
         "name": "仮名創作法Ⅰ",
         "semester": "後期",
@@ -17215,7 +17294,9 @@
         ],
         "credits": 1,
         "room": [
-            "書道実習室１"
+            "クラブハウス演習室７（207）",
+            "クラブハウス演習室８（209）",
+            "クラブハウス演習室１２（215）"
         ],
         "sdgs": [
             4,
@@ -17224,7 +17305,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5046.html"
     },
     {
-        "no": 770,
+        "no": 773,
         "tt_num": "G5267",
         "name": "スポーツ医学",
         "semester": "後期",
@@ -17245,7 +17326,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5267.html"
     },
     {
-        "no": 771,
+        "no": 774,
         "tt_num": "G5552",
         "name": "電気回路学",
         "semester": "後期",
@@ -17260,11 +17341,13 @@
         "room": [
             "技"
         ],
-        "sdgs": [],
+        "sdgs": [
+            9
+        ],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5552.html"
     },
     {
-        "no": 772,
+        "no": 775,
         "tt_num": "G5774",
         "name": "衣生活文化論（実習を含む。）",
         "semester": "後期",
@@ -17286,7 +17369,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5774.html"
     },
     {
-        "no": 773,
+        "no": 776,
         "tt_num": "G6103",
         "name": "幼年教育学演習",
         "semester": "後期",
@@ -17308,7 +17391,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6103.html"
     },
     {
-        "no": 774,
+        "no": 777,
         "tt_num": "G6112",
         "name": "幼年心理学演習",
         "semester": "後期",
@@ -17329,7 +17412,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6112.html"
     },
     {
-        "no": 775,
+        "no": 778,
         "tt_num": "G2043",
         "name": "中等教科教育法Ⅱ（理科）",
         "semester": "後期",
@@ -17350,7 +17433,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2043.html"
     },
     {
-        "no": 776,
+        "no": 779,
         "tt_num": "G2071",
         "name": "中等教科教育法Ⅱ（書道）",
         "semester": "後期",
@@ -17363,7 +17446,8 @@
         ],
         "credits": 2,
         "room": [
-            "書道実習室１"
+            "クラブハウス演習室７（207）",
+            "クラブハウス演習室８（209）"
         ],
         "sdgs": [
             4,
@@ -17372,7 +17456,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2071.html"
     },
     {
-        "no": 777,
+        "no": 780,
         "tt_num": "G2108",
         "name": "中等教科教育法Ⅱ（情報）",
         "semester": "後期",
@@ -17393,7 +17477,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2108.html"
     },
     {
-        "no": 778,
+        "no": 781,
         "tt_num": "G3071",
         "name": "漢文学演習Ⅱ",
         "semester": "後期",
@@ -17415,7 +17499,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3071.html"
     },
     {
-        "no": 779,
+        "no": 782,
         "tt_num": "G3080",
         "name": "国語科教育概説",
         "semester": "後期",
@@ -17436,7 +17520,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3080.html"
     },
     {
-        "no": 780,
+        "no": 783,
         "tt_num": "G5751",
         "name": "住居学(製図を含む。）",
         "semester": "後期",
@@ -17449,7 +17533,7 @@
         ],
         "credits": 2,
         "room": [
-            "104"
+            "105"
         ],
         "sdgs": [
             11,
@@ -17459,7 +17543,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5751.html"
     },
     {
-        "no": 781,
+        "no": 784,
         "tt_num": "G6506",
         "name": "日本語コミュニケーション",
         "semester": "後期",
@@ -17478,7 +17562,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6506.html"
     },
     {
-        "no": 782,
+        "no": 785,
         "tt_num": "G2040",
         "name": "初等教科教育法（理科）",
         "semester": "後期",
@@ -17493,6 +17577,7 @@
             "和田 穣隆",
             "中村 元彦",
             "藤井 智康",
+            "常田 琢",
             "名倉 昌巳"
         ],
         "credits": 2,
@@ -17505,7 +17590,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2040.html"
     },
     {
-        "no": 783,
+        "no": 786,
         "tt_num": "G2095",
         "name": "中等教科教育法Ⅱ（技術）",
         "semester": "後期",
@@ -17528,7 +17613,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2095.html"
     },
     {
-        "no": 784,
+        "no": 787,
         "tt_num": "G2102",
         "name": "中等教科教育法Ⅱ（家庭）",
         "semester": "後期",
@@ -17550,7 +17635,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2102.html"
     },
     {
-        "no": 785,
+        "no": 788,
         "tt_num": "G2226",
         "name": "教科内容研究（国語）",
         "semester": "後期",
@@ -17575,7 +17660,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2226.html"
     },
     {
-        "no": 786,
+        "no": 789,
         "tt_num": "G4001",
         "name": "物質反応科学",
         "semester": "後期",
@@ -17597,7 +17682,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4001.html"
     },
     {
-        "no": 787,
+        "no": 790,
         "tt_num": "G4046",
         "name": "生物学概論Ⅱ",
         "semester": "後期",
@@ -17622,7 +17707,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4046.html"
     },
     {
-        "no": 788,
+        "no": 791,
         "tt_num": "G4758",
         "name": "ピアノⅣ（Ｄ）",
         "semester": "後期",
@@ -17643,7 +17728,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4758.html"
     },
     {
-        "no": 789,
+        "no": 792,
         "tt_num": "G4854",
         "name": "アジアの中の日本美術史",
         "semester": "後期",
@@ -17665,7 +17750,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4854.html"
     },
     {
-        "no": 790,
+        "no": 793,
         "tt_num": "G4886",
         "name": "デザインⅡ",
         "semester": "後期",
@@ -17686,7 +17771,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4886.html"
     },
     {
-        "no": 791,
+        "no": 794,
         "tt_num": "G5034",
         "name": "生活書式法",
         "semester": "後期",
@@ -17699,13 +17784,14 @@
         ],
         "credits": 1,
         "room": [
-            "書道実習室１"
+            "クラブハウス演習室７（207）",
+            "クラブハウス演習室８（209）"
         ],
         "sdgs": [],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5034.html"
     },
     {
-        "no": 792,
+        "no": 795,
         "tt_num": "G5242",
         "name": "スポーツ社会学",
         "semester": "後期",
@@ -17729,7 +17815,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5242.html"
     },
     {
-        "no": 793,
+        "no": 796,
         "tt_num": "G2011",
         "name": "中等教科教育法Ⅱ（英語）",
         "semester": "後期",
@@ -17750,7 +17836,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2011.html"
     },
     {
-        "no": 794,
+        "no": 797,
         "tt_num": "G4336",
         "name": "気象学",
         "semester": "後期",
@@ -17769,7 +17855,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4336.html"
     },
     {
-        "no": 795,
+        "no": 798,
         "tt_num": "G6245",
         "name": "指導と評価",
         "semester": "後期",
@@ -17790,7 +17876,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6245.html"
     },
     {
-        "no": 796,
+        "no": 799,
         "tt_num": "G6525",
         "name": "比較言語文化論Ⅱ",
         "semester": "後期",
@@ -17807,12 +17893,14 @@
         ],
         "sdgs": [
             4,
-            10
+            5,
+            10,
+            16
         ],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6525.html"
     },
     {
-        "no": 797,
+        "no": 800,
         "tt_num": "G2007",
         "name": "中等教科教育法Ⅳ（国語）",
         "semester": "後期",
@@ -17834,7 +17922,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2007.html"
     },
     {
-        "no": 798,
+        "no": 801,
         "tt_num": "G2227",
         "name": "教科内容研究（社会）",
         "semester": "後期",
@@ -17860,7 +17948,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2227.html"
     },
     {
-        "no": 799,
+        "no": 802,
         "tt_num": "G2233",
         "name": "教科内容研究（技術）",
         "semester": "後期",
@@ -17883,7 +17971,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2233.html"
     },
     {
-        "no": 800,
+        "no": 803,
         "tt_num": "G3278",
         "name": "英語学概論",
         "semester": "後期",
@@ -17904,7 +17992,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3278.html"
     },
     {
-        "no": 801,
+        "no": 804,
         "tt_num": "G3282",
         "name": "実践英語研究Ⅱ",
         "semester": "後期",
@@ -17923,7 +18011,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3282.html"
     },
     {
-        "no": 802,
+        "no": 805,
         "tt_num": "G3841",
         "name": "グラフ理論",
         "semester": "後期",
@@ -17944,7 +18032,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3841.html"
     },
     {
-        "no": 803,
+        "no": 806,
         "tt_num": "G4817",
         "name": "持続発展教育と文化遺産",
         "semester": "後期",
@@ -17963,7 +18051,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4817.html"
     },
     {
-        "no": 804,
+        "no": 807,
         "tt_num": "G6546",
         "name": "日本語演習Ⅱ（読解）",
         "semester": "後期",
@@ -17982,7 +18070,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6546.html"
     },
     {
-        "no": 805,
+        "no": 808,
         "tt_num": "G6811",
         "name": "情報通信システム工学",
         "semester": "後期",
@@ -18001,7 +18089,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6811.html"
     },
     {
-        "no": 806,
+        "no": 809,
         "tt_num": "G6909",
         "name": "子どもの食と栄養",
         "semester": "後期",
@@ -18022,7 +18110,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6909.html"
     },
     {
-        "no": 807,
+        "no": 810,
         "tt_num": "G1576",
         "name": "初等教科教育法（英語）★（小学校外国語活動）",
         "semester": "後期",
@@ -18043,7 +18131,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1576.html"
     },
     {
-        "no": 808,
+        "no": 811,
         "tt_num": "G2125",
         "name": "幼児理解（教育（保育）相談を含む。）",
         "semester": "後期",
@@ -18065,7 +18153,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2125.html"
     },
     {
-        "no": 809,
+        "no": 812,
         "tt_num": "G3044",
         "name": "日本語学研究Ⅱ",
         "semester": "後期",
@@ -18086,7 +18174,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3044.html"
     },
     {
-        "no": 810,
+        "no": 813,
         "tt_num": "G3078",
         "name": "日本文学概説Ⅱ",
         "semester": "後期",
@@ -18107,7 +18195,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3078.html"
     },
     {
-        "no": 811,
+        "no": 814,
         "tt_num": "G3254",
         "name": "英語学特講",
         "semester": "後期",
@@ -18128,7 +18216,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3254.html"
     },
     {
-        "no": 812,
+        "no": 815,
         "tt_num": "G3423",
         "name": "政治学概論（国際政治を含む。）",
         "semester": "後期",
@@ -18149,7 +18237,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3423.html"
     },
     {
-        "no": 813,
+        "no": 816,
         "tt_num": "G4735",
         "name": "声楽Ⅱ（Ｙ）",
         "semester": "後期",
@@ -18170,7 +18258,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4735.html"
     },
     {
-        "no": 814,
+        "no": 817,
         "tt_num": "G4862",
         "name": "工芸Ⅱ",
         "semester": "後期",
@@ -18189,7 +18277,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4862.html"
     },
     {
-        "no": 815,
+        "no": 818,
         "tt_num": "G5308",
         "name": "球技（種目別Ⅰ）",
         "semester": "後期",
@@ -18209,7 +18297,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5308.html"
     },
     {
-        "no": 816,
+        "no": 819,
         "tt_num": "G6120",
         "name": "心理学概論",
         "semester": "後期",
@@ -18231,7 +18319,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6120.html"
     },
     {
-        "no": 817,
+        "no": 820,
         "tt_num": "G6232",
         "name": "教育社会学特講",
         "semester": "後期",
@@ -18250,7 +18338,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6232.html"
     },
     {
-        "no": 818,
+        "no": 821,
         "tt_num": "G6526",
         "name": "日本文化史",
         "semester": "後期",
@@ -18267,13 +18355,14 @@
         ],
         "sdgs": [
             4,
+            5,
             10,
             16
         ],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6526.html"
     },
     {
-        "no": 819,
+        "no": 822,
         "tt_num": "G1521",
         "name": "★（家庭）",
         "semester": "後期",
@@ -18296,7 +18385,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1521.html"
     },
     {
-        "no": 820,
+        "no": 823,
         "tt_num": "G3030",
         "name": "国語科教育学演習Ⅱ",
         "semester": "後期",
@@ -18317,7 +18406,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3030.html"
     },
     {
-        "no": 821,
+        "no": 824,
         "tt_num": "G3076",
         "name": "近代文学演習Ⅱ",
         "semester": "後期",
@@ -18338,7 +18427,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3076.html"
     },
     {
-        "no": 822,
+        "no": 825,
         "tt_num": "G3239",
         "name": "国際理解地域研究",
         "semester": "後期",
@@ -18359,7 +18448,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3239.html"
     },
     {
-        "no": 823,
+        "no": 826,
         "tt_num": "G3703",
         "name": "数理と情報",
         "semester": "後期",
@@ -18378,7 +18467,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3703.html"
     },
     {
-        "no": 824,
+        "no": 827,
         "tt_num": "G3836",
         "name": "確率論Ⅱ",
         "semester": "後期",
@@ -18400,7 +18489,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3836.html"
     },
     {
-        "no": 825,
+        "no": 828,
         "tt_num": "G4284",
         "name": "有機化学実験",
         "semester": "後期",
@@ -18420,7 +18509,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4284.html"
     },
     {
-        "no": 826,
+        "no": 829,
         "tt_num": "G4321",
         "name": "物理学実験（コンピュータ活用を含む。）",
         "semester": "後期",
@@ -18442,7 +18531,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4321.html"
     },
     {
-        "no": 827,
+        "no": 830,
         "tt_num": "G4516",
         "name": "合奏Ⅱ",
         "semester": "後期",
@@ -18463,7 +18552,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4516.html"
     },
     {
-        "no": 828,
+        "no": 831,
         "tt_num": "G5226",
         "name": "公衆衛生学",
         "semester": "後期",
@@ -18484,7 +18573,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5226.html"
     },
     {
-        "no": 829,
+        "no": 832,
         "tt_num": "G5516",
         "name": "金属工作設計",
         "semester": "後期",
@@ -18507,7 +18596,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5516.html"
     },
     {
-        "no": 830,
+        "no": 833,
         "tt_num": "G5904",
         "name": "肢体不自由の医学と心理",
         "semester": "後期",
@@ -18530,7 +18619,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5904.html"
     },
     {
-        "no": 831,
+        "no": 834,
         "tt_num": "G6547",
         "name": "日本語演習Ⅱ（作文）",
         "semester": "後期",
@@ -18549,7 +18638,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6547.html"
     },
     {
-        "no": 832,
+        "no": 835,
         "tt_num": "G1001",
         "name": "博物館資料論",
         "semester": "後期",
@@ -18568,7 +18657,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1001.html"
     },
     {
-        "no": 833,
+        "no": 836,
         "tt_num": "G2183",
         "name": "子どもと表現",
         "semester": "後期",
@@ -18597,7 +18686,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2183.html"
     },
     {
-        "no": 834,
+        "no": 837,
         "tt_num": "G3013",
         "name": "漢字学",
         "semester": "後期",
@@ -18619,7 +18708,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3013.html"
     },
     {
-        "no": 835,
+        "no": 838,
         "tt_num": "G3419",
         "name": "社会科教育研究Ⅳ",
         "semester": "後期",
@@ -18642,7 +18731,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3419.html"
     },
     {
-        "no": 836,
+        "no": 839,
         "tt_num": "G3727",
         "name": "確率論Ⅰ",
         "semester": "後期",
@@ -18664,7 +18753,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3727.html"
     },
     {
-        "no": 837,
+        "no": 840,
         "tt_num": "G4515",
         "name": "指揮法Ⅱ",
         "semester": "後期",
@@ -18685,7 +18774,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4515.html"
     },
     {
-        "no": 838,
+        "no": 841,
         "tt_num": "G4761",
         "name": "オペラⅠ",
         "semester": "後期",
@@ -18706,7 +18795,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4761.html"
     },
     {
-        "no": 839,
+        "no": 842,
         "tt_num": "G5211",
         "name": "スポーツ指導方法論",
         "semester": "後期",
@@ -18731,7 +18820,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5211.html"
     },
     {
-        "no": 840,
+        "no": 843,
         "tt_num": "G5562",
         "name": "栽培演習",
         "semester": "後期",
@@ -18754,7 +18843,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5562.html"
     },
     {
-        "no": 841,
+        "no": 844,
         "tt_num": "G6241",
         "name": "教育経営学特講",
         "semester": "後期",
@@ -18776,7 +18865,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6241.html"
     },
     {
-        "no": 842,
+        "no": 845,
         "tt_num": "G6252",
         "name": "教育臨床心理学演習",
         "semester": "後期",
@@ -18797,7 +18886,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6252.html"
     },
     {
-        "no": 843,
+        "no": 846,
         "tt_num": "G6277",
         "name": "教育心理学演習",
         "semester": "後期",
@@ -18819,7 +18908,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6277.html"
     },
     {
-        "no": 844,
+        "no": 847,
         "tt_num": "G6282",
         "name": "認知発達演習",
         "semester": "後期",
@@ -18838,7 +18927,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6282.html"
     },
     {
-        "no": 845,
+        "no": 848,
         "tt_num": "G6319",
         "name": "学校教育相談演習",
         "semester": "後期",
@@ -18861,7 +18950,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6319.html"
     },
     {
-        "no": 846,
+        "no": 849,
         "tt_num": "G2061",
         "name": "初等教科教育法（図画工作）",
         "semester": "後期",
@@ -18882,7 +18971,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2061.html"
     },
     {
-        "no": 847,
+        "no": 850,
         "tt_num": "G2104",
         "name": "初等教科教育法（家庭）",
         "semester": "後期",
@@ -18906,7 +18995,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2104.html"
     },
     {
-        "no": 848,
+        "no": 851,
         "tt_num": "G2232",
         "name": "教科内容研究（保健体育）",
         "semester": "後期",
@@ -18933,7 +19022,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2232.html"
     },
     {
-        "no": 849,
+        "no": 852,
         "tt_num": "G4012",
         "name": "電磁気学",
         "semester": "後期",
@@ -18958,7 +19047,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4012.html"
     },
     {
-        "no": 850,
+        "no": 853,
         "tt_num": "G5776",
         "name": "被服構成学実習Ⅱ（実験を含む。）",
         "semester": "後期",
@@ -18983,7 +19072,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5776.html"
     },
     {
-        "no": 851,
+        "no": 854,
         "tt_num": "G5957",
         "name": "病弱児教育方法",
         "semester": "後期",
@@ -19008,7 +19097,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5957.html"
     },
     {
-        "no": 852,
+        "no": 855,
         "tt_num": "G1100",
         "name": "読書と豊かな人間性",
         "semester": "後期",
@@ -19029,7 +19118,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1100.html"
     },
     {
-        "no": 853,
+        "no": 856,
         "tt_num": "G2120",
         "name": "教育・保育とカリキュラム",
         "semester": "後期",
@@ -19051,7 +19140,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2120.html"
     },
     {
-        "no": 854,
+        "no": 857,
         "tt_num": "G2181",
         "name": "子どもと環境",
         "semester": "後期",
@@ -19077,7 +19166,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2181.html"
     },
     {
-        "no": 855,
+        "no": 858,
         "tt_num": "G2230",
         "name": "教科内容研究（音楽）",
         "semester": "後期",
@@ -19102,7 +19191,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2230.html"
     },
     {
-        "no": 856,
+        "no": 859,
         "tt_num": "G3058",
         "name": "古典文学研究",
         "semester": "後期",
@@ -19123,7 +19212,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3058.html"
     },
     {
-        "no": 857,
+        "no": 860,
         "tt_num": "G3414",
         "name": "社会科教育研究Ⅱ",
         "semester": "後期",
@@ -19142,7 +19231,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3414.html"
     },
     {
-        "no": 858,
+        "no": 861,
         "tt_num": "G3436",
         "name": "日本史研究Ⅱ",
         "semester": "後期",
@@ -19164,7 +19253,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3436.html"
     },
     {
-        "no": 859,
+        "no": 862,
         "tt_num": "G4256",
         "name": "量子力学の世界",
         "semester": "後期",
@@ -19183,7 +19272,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4256.html"
     },
     {
-        "no": 860,
+        "no": 863,
         "tt_num": "G4815",
         "name": "文化遺産記録保存演習Ⅰ",
         "semester": "後期",
@@ -19196,7 +19285,7 @@
         ],
         "credits": 1,
         "room": [
-            "絵画第１実"
+            "クラブハウス演習室９（211）"
         ],
         "sdgs": [
             4,
@@ -19205,7 +19294,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4815.html"
     },
     {
-        "no": 861,
+        "no": 864,
         "tt_num": "G4852",
         "name": "ユーラシア美術史",
         "semester": "後期",
@@ -19228,7 +19317,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4852.html"
     },
     {
-        "no": 862,
+        "no": 865,
         "tt_num": "G4870",
         "name": "工芸理論特講",
         "semester": "後期",
@@ -19247,7 +19336,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4870.html"
     },
     {
-        "no": 863,
+        "no": 866,
         "tt_num": "G5224",
         "name": "養護概説",
         "semester": "後期",
@@ -19268,7 +19357,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5224.html"
     },
     {
-        "no": 864,
+        "no": 867,
         "tt_num": "G5509",
         "name": "木質材料学",
         "semester": "後期",
@@ -19287,7 +19376,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5509.html"
     },
     {
-        "no": 865,
+        "no": 868,
         "tt_num": "G5560",
         "name": "栽培学◆（栽培学原論）",
         "semester": "後期",
@@ -19310,7 +19399,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5560.html"
     },
     {
-        "no": 866,
+        "no": 869,
         "tt_num": "G5934",
         "name": "知的障害教育方法",
         "semester": "後期",
@@ -19334,7 +19423,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5934.html"
     },
     {
-        "no": 867,
+        "no": 870,
         "tt_num": "G6273",
         "name": "人間環境心理学",
         "semester": "後期",
@@ -19353,7 +19442,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6273.html"
     },
     {
-        "no": 868,
+        "no": 871,
         "tt_num": "G6309",
         "name": "生涯教育演習",
         "semester": "後期",
@@ -19366,7 +19455,7 @@
         ],
         "credits": 1,
         "room": [
-            "302"
+            "104"
         ],
         "sdgs": [
             3,
@@ -19376,7 +19465,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6309.html"
     },
     {
-        "no": 869,
+        "no": 872,
         "tt_num": "G6814",
         "name": "マルチメディア概論",
         "semester": "後期",
@@ -19395,7 +19484,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6814.html"
     },
     {
-        "no": 870,
+        "no": 873,
         "tt_num": "G1108",
         "name": "情報メディアの活用",
         "semester": "後期",
@@ -19414,7 +19503,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1108.html"
     },
     {
-        "no": 871,
+        "no": 874,
         "tt_num": "G2030",
         "name": "中等教科教育法Ⅱ（数学）",
         "semester": "後期",
@@ -19437,7 +19526,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2030.html"
     },
     {
-        "no": 872,
+        "no": 875,
         "tt_num": "G2054",
         "name": "初等教科教育法（音楽）",
         "semester": "後期",
@@ -19466,7 +19555,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2054.html"
     },
     {
-        "no": 873,
+        "no": 876,
         "tt_num": "G2064",
         "name": "中等教科教育法Ⅳ（美術）",
         "semester": "後期",
@@ -19487,7 +19576,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2064.html"
     },
     {
-        "no": 874,
+        "no": 877,
         "tt_num": "G2229",
         "name": "教科内容研究（理科）",
         "semester": "後期",
@@ -19519,7 +19608,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2229.html"
     },
     {
-        "no": 875,
+        "no": 878,
         "tt_num": "G3014",
         "name": "漢文学研究",
         "semester": "後期",
@@ -19541,7 +19630,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3014.html"
     },
     {
-        "no": 876,
+        "no": 879,
         "tt_num": "G3214",
         "name": "英米文学史Ⅱ",
         "semester": "後期",
@@ -19562,7 +19651,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3214.html"
     },
     {
-        "no": 877,
+        "no": 880,
         "tt_num": "G3459",
         "name": "法学・政治学研究Ⅳ",
         "semester": "後期",
@@ -19587,7 +19676,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3459.html"
     },
     {
-        "no": 878,
+        "no": 881,
         "tt_num": "G3506",
         "name": "経済学・社会学研究Ⅳ",
         "semester": "後期",
@@ -19609,7 +19698,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3506.html"
     },
     {
-        "no": 879,
+        "no": 882,
         "tt_num": "G3537",
         "name": "哲学",
         "semester": "後期",
@@ -19628,7 +19717,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3537.html"
     },
     {
-        "no": 880,
+        "no": 883,
         "tt_num": "G4733",
         "name": "ピアノⅡ（Ｂ）",
         "semester": "後期",
@@ -19649,7 +19738,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4733.html"
     },
     {
-        "no": 881,
+        "no": 884,
         "tt_num": "G4766",
         "name": "楽式論",
         "semester": "後期",
@@ -19670,7 +19759,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4766.html"
     },
     {
-        "no": 882,
+        "no": 885,
         "tt_num": "G4863",
         "name": "工芸Ⅳ",
         "semester": "後期",
@@ -19689,7 +19778,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4863.html"
     },
     {
-        "no": 883,
+        "no": 886,
         "tt_num": "G5541",
         "name": "情報概論",
         "semester": "後期",
@@ -19704,11 +19793,13 @@
         "room": [
             "情報セ演A(2F)"
         ],
-        "sdgs": [],
+        "sdgs": [
+            9
+        ],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5541.html"
     },
     {
-        "no": 884,
+        "no": 887,
         "tt_num": "G5565",
         "name": "材料工作設計",
         "semester": "後期",
@@ -19727,7 +19818,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5565.html"
     },
     {
-        "no": 885,
+        "no": 888,
         "tt_num": "G5765",
         "name": "家庭看護学（実習を含む。）",
         "semester": "後期",
@@ -19749,7 +19840,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5765.html"
     },
     {
-        "no": 886,
+        "no": 889,
         "tt_num": "G5915",
         "name": "障害児教育学演習",
         "semester": "後期",
@@ -19774,7 +19865,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5915.html"
     },
     {
-        "no": 887,
+        "no": 890,
         "tt_num": "G1150",
         "name": "読書と豊かな人間性",
         "semester": "後期",
@@ -19795,7 +19886,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1150.html"
     },
     {
-        "no": 888,
+        "no": 891,
         "tt_num": "G2185",
         "name": "保育内容の指導法（人間関係）",
         "semester": "後期",
@@ -19816,7 +19907,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2185.html"
     },
     {
-        "no": 889,
+        "no": 892,
         "tt_num": "G3216",
         "name": "英米文学作品研究",
         "semester": "後期",
@@ -19837,7 +19928,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3216.html"
     },
     {
-        "no": 890,
+        "no": 893,
         "tt_num": "G3259",
         "name": "言語文化研究Ⅱ",
         "semester": "後期",
@@ -19859,7 +19950,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3259.html"
     },
     {
-        "no": 891,
+        "no": 894,
         "tt_num": "G3503",
         "name": "経済学",
         "semester": "後期",
@@ -19881,7 +19972,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3503.html"
     },
     {
-        "no": 892,
+        "no": 895,
         "tt_num": "G3771",
         "name": "複素解析",
         "semester": "後期",
@@ -19902,7 +19993,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3771.html"
     },
     {
-        "no": 893,
+        "no": 896,
         "tt_num": "G4102",
         "name": "天文学",
         "semester": "後期",
@@ -19923,7 +20014,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4102.html"
     },
     {
-        "no": 894,
+        "no": 897,
         "tt_num": "G4257",
         "name": "物理学概論Ⅱ",
         "semester": "後期",
@@ -19946,7 +20037,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4257.html"
     },
     {
-        "no": 895,
+        "no": 898,
         "tt_num": "G4347",
         "name": "自然科学史",
         "semester": "後期",
@@ -19967,7 +20058,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4347.html"
     },
     {
-        "no": 896,
+        "no": 899,
         "tt_num": "G4512",
         "name": "作曲・編曲法基礎演習Ⅱ",
         "semester": "後期",
@@ -19988,7 +20079,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4512.html"
     },
     {
-        "no": 897,
+        "no": 900,
         "tt_num": "G5231",
         "name": "体育原理",
         "semester": "後期",
@@ -20013,7 +20104,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5231.html"
     },
     {
-        "no": 898,
+        "no": 901,
         "tt_num": "G5544",
         "name": "栽培環境学",
         "semester": "後期",
@@ -20038,7 +20129,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5544.html"
     },
     {
-        "no": 899,
+        "no": 902,
         "tt_num": "G5557",
         "name": "情報技術実習",
         "semester": "後期",
@@ -20053,11 +20144,13 @@
         "room": [
             "情報セ演A(2F)"
         ],
-        "sdgs": [],
+        "sdgs": [
+            9
+        ],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5557.html"
     },
     {
-        "no": 900,
+        "no": 903,
         "tt_num": "G5731",
         "name": "調理学実習",
         "semester": "後期",
@@ -20082,7 +20175,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5731.html"
     },
     {
-        "no": 901,
+        "no": 904,
         "tt_num": "G5958",
         "name": "発達障害児生活指導論",
         "semester": "後期",
@@ -20106,7 +20199,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5958.html"
     },
     {
-        "no": 902,
+        "no": 905,
         "tt_num": "G6104",
         "name": "幼小期の教育",
         "semester": "後期",
@@ -20127,7 +20220,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6104.html"
     },
     {
-        "no": 903,
+        "no": 906,
         "tt_num": "G6291",
         "name": "心理学検査Ⅱ",
         "semester": "後期",
@@ -20150,7 +20243,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6291.html"
     },
     {
-        "no": 904,
+        "no": 907,
         "tt_num": "G6305",
         "name": "生涯教育計画特講Ⅰ",
         "semester": "後期",
@@ -20175,7 +20268,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6305.html"
     },
     {
-        "no": 905,
+        "no": 908,
         "tt_num": "G2180",
         "name": "子どもと人間関係",
         "semester": "後期",
@@ -20196,7 +20289,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2180.html"
     },
     {
-        "no": 906,
+        "no": 909,
         "tt_num": "G3403",
         "name": "倫理学概論",
         "semester": "後期",
@@ -20218,7 +20311,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3403.html"
     },
     {
-        "no": 907,
+        "no": 910,
         "tt_num": "G3444",
         "name": "法学・政治学研究Ⅱ",
         "semester": "後期",
@@ -20250,7 +20343,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3444.html"
     },
     {
-        "no": 908,
+        "no": 911,
         "tt_num": "G3504",
         "name": "経済学・社会学研究Ⅱ",
         "semester": "後期",
@@ -20272,7 +20365,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3504.html"
     },
     {
-        "no": 909,
+        "no": 912,
         "tt_num": "G3779",
         "name": "微分積分",
         "semester": "後期",
@@ -20293,7 +20386,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3779.html"
     },
     {
-        "no": 910,
+        "no": 913,
         "tt_num": "G4530",
         "name": "音楽学概論",
         "semester": "後期",
@@ -20312,7 +20405,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4530.html"
     },
     {
-        "no": 911,
+        "no": 914,
         "tt_num": "G4635",
         "name": "ピアノⅣ（Ｂ）",
         "semester": "後期",
@@ -20333,7 +20426,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4635.html"
     },
     {
-        "no": 912,
+        "no": 915,
         "tt_num": "G5735",
         "name": "食品学",
         "semester": "後期",
@@ -20358,7 +20451,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5735.html"
     },
     {
-        "no": 913,
+        "no": 916,
         "tt_num": "G5924",
         "name": "障害児心理学演習",
         "semester": "後期",
@@ -20380,7 +20473,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5924.html"
     },
     {
-        "no": 914,
+        "no": 917,
         "tt_num": "G6537",
         "name": "言語文化特論",
         "semester": "後期",
@@ -20402,7 +20495,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6537.html"
     },
     {
-        "no": 915,
+        "no": 918,
         "tt_num": "G1005",
         "name": "博物館情報・メディア論",
         "semester": "後期",
@@ -20423,7 +20516,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1005.html"
     },
     {
-        "no": 916,
+        "no": 919,
         "tt_num": "G1104",
         "name": "学校図書館メディアの構成",
         "semester": "後期",
@@ -20443,7 +20536,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1104.html"
     },
     {
-        "no": 917,
+        "no": 920,
         "tt_num": "G1154",
         "name": "学校図書館メディアの構成",
         "semester": "後期",
@@ -20463,7 +20556,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1154.html"
     },
     {
-        "no": 918,
+        "no": 921,
         "tt_num": "G2189",
         "name": "保育内容の指導法（造形表現）",
         "semester": "後期",
@@ -20485,7 +20578,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2189.html"
     },
     {
-        "no": 919,
+        "no": 922,
         "tt_num": "G2190",
         "name": "保育内容の指導法（造形表現）",
         "semester": "後期",
@@ -20507,7 +20600,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2190.html"
     },
     {
-        "no": 920,
+        "no": 923,
         "tt_num": "G2216",
         "name": "教職実践演習（養教）",
         "semester": "後期",
@@ -20529,7 +20622,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G2216.html"
     },
     {
-        "no": 921,
+        "no": 924,
         "tt_num": "G3544",
         "name": "文化遺産特論Ⅰ（考古学）",
         "semester": "後期",
@@ -20551,7 +20644,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3544.html"
     },
     {
-        "no": 922,
+        "no": 925,
         "tt_num": "G3548",
         "name": "文化遺産特論Ⅱ（建築史）",
         "semester": "後期",
@@ -20572,7 +20665,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3548.html"
     },
     {
-        "no": 923,
+        "no": 926,
         "tt_num": "G3549",
         "name": "文化遺産科学演習Ⅰ",
         "semester": "後期",
@@ -20592,7 +20685,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3549.html"
     },
     {
-        "no": 924,
+        "no": 927,
         "tt_num": "G3843",
         "name": "算数・数学教育実践演習Ⅱ",
         "semester": "後期",
@@ -20618,7 +20711,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3843.html"
     },
     {
-        "no": 925,
+        "no": 928,
         "tt_num": "G3845",
         "name": "算数・数学教育実践演習Ⅳ",
         "semester": "後期",
@@ -20642,7 +20735,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3845.html"
     },
     {
-        "no": 926,
+        "no": 929,
         "tt_num": "G4074",
         "name": "文化遺産科学実験Ⅱ",
         "semester": "後期",
@@ -20663,7 +20756,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4074.html"
     },
     {
-        "no": 927,
+        "no": 930,
         "tt_num": "G4231",
         "name": "無機分析化学実験",
         "semester": "後期",
@@ -20684,7 +20777,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4231.html"
     },
     {
-        "no": 928,
+        "no": 931,
         "tt_num": "G4356",
         "name": "動物系統学",
         "semester": "後期",
@@ -20702,7 +20795,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4356.html"
     },
     {
-        "no": 929,
+        "no": 932,
         "tt_num": "G4359",
         "name": "生物科学特別講義",
         "semester": "後期",
@@ -20725,7 +20818,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4359.html"
     },
     {
-        "no": 930,
+        "no": 933,
         "tt_num": "G4764",
         "name": "オペラⅡ",
         "semester": "後期",
@@ -20745,7 +20838,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4764.html"
     },
     {
-        "no": 931,
+        "no": 934,
         "tt_num": "G4874",
         "name": "文化遺産保存修復概論",
         "semester": "後期",
@@ -20766,7 +20859,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4874.html"
     },
     {
-        "no": 932,
+        "no": 935,
         "tt_num": "G4878",
         "name": "絵画Ⅳ（日本画）",
         "semester": "後期",
@@ -20784,7 +20877,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4878.html"
     },
     {
-        "no": 933,
+        "no": 936,
         "tt_num": "G4882",
         "name": "グラフィックデザイン",
         "semester": "後期",
@@ -20804,7 +20897,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4882.html"
     },
     {
-        "no": 934,
+        "no": 937,
         "tt_num": "G4883",
         "name": "デザイン理論特講",
         "semester": "後期",
@@ -20822,7 +20915,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4883.html"
     },
     {
-        "no": 935,
+        "no": 938,
         "tt_num": "G4887",
         "name": "日本工芸史",
         "semester": "後期",
@@ -20840,7 +20933,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4887.html"
     },
     {
-        "no": 936,
+        "no": 939,
         "tt_num": "G4888",
         "name": "コンピュータと文化遺産Ⅰ",
         "semester": "後期",
@@ -20861,7 +20954,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4888.html"
     },
     {
-        "no": 937,
+        "no": 940,
         "tt_num": "G5022",
         "name": "仮名造形論",
         "semester": "後期",
@@ -20883,7 +20976,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5022.html"
     },
     {
-        "no": 938,
+        "no": 941,
         "tt_num": "G5050",
         "name": "古筆研究Ⅰ",
         "semester": "後期",
@@ -20905,7 +20998,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5050.html"
     },
     {
-        "no": 939,
+        "no": 942,
         "tt_num": "G5292",
         "name": "野外活動(雪上)",
         "semester": "後期",
@@ -20929,7 +21022,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5292.html"
     },
     {
-        "no": 940,
+        "no": 943,
         "tt_num": "G5303",
         "name": "障害者スポーツ論",
         "semester": "後期",
@@ -20952,7 +21045,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5303.html"
     },
     {
-        "no": 941,
+        "no": 944,
         "tt_num": "G5309",
         "name": "体育・スポーツ経営学",
         "semester": "後期",
@@ -20964,7 +21057,7 @@
         ],
         "credits": 2,
         "room": [
-            "204"
+            "105"
         ],
         "sdgs": [
             8,
@@ -20973,7 +21066,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5309.html"
     },
     {
-        "no": 942,
+        "no": 945,
         "tt_num": "G5312",
         "name": "予防医学",
         "semester": "後期",
@@ -20996,7 +21089,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5312.html"
     },
     {
-        "no": 943,
+        "no": 946,
         "tt_num": "G5314",
         "name": "細菌及び免疫学",
         "semester": "後期",
@@ -21014,7 +21107,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5314.html"
     },
     {
-        "no": 944,
+        "no": 947,
         "tt_num": "G5315",
         "name": "疾病予防及び看護学",
         "semester": "後期",
@@ -21032,7 +21125,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5315.html"
     },
     {
-        "no": 945,
+        "no": 948,
         "tt_num": "G5564",
         "name": "職業指導",
         "semester": "後期",
@@ -21052,7 +21145,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5564.html"
     },
     {
-        "no": 946,
+        "no": 949,
         "tt_num": "G5910",
         "name": "障害児の発達心理学",
         "semester": "後期",
@@ -21070,7 +21163,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5910.html"
     },
     {
-        "no": 947,
+        "no": 950,
         "tt_num": "G5912",
         "name": "聴覚障害児の教育Ⅰ",
         "semester": "後期",
@@ -21091,7 +21184,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5912.html"
     },
     {
-        "no": 948,
+        "no": 951,
         "tt_num": "G5917",
         "name": "聴覚障害児の教育Ⅱ",
         "semester": "後期",
@@ -21112,7 +21205,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5917.html"
     },
     {
-        "no": 949,
+        "no": 952,
         "tt_num": "G5955",
         "name": "障害者福祉論",
         "semester": "後期",
@@ -21130,7 +21223,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5955.html"
     },
     {
-        "no": 950,
+        "no": 953,
         "tt_num": "G5964",
         "name": "特別支援教育実践演習Ⅰ",
         "semester": "後期",
@@ -21148,7 +21241,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5964.html"
     },
     {
-        "no": 951,
+        "no": 954,
         "tt_num": "G6296",
         "name": "学校臨床心理学特講",
         "semester": "後期",
@@ -21170,7 +21263,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6296.html"
     },
     {
-        "no": 952,
+        "no": 955,
         "tt_num": "G6314",
         "name": "社会心理学",
         "semester": "後期",
@@ -21190,7 +21283,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6314.html"
     },
     {
-        "no": 953,
+        "no": 956,
         "tt_num": "G6321",
         "name": "生涯学習支援特講Ⅱ",
         "semester": "後期",
@@ -21218,7 +21311,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6321.html"
     },
     {
-        "no": 954,
+        "no": 957,
         "tt_num": "G9980",
         "name": "学級づくり",
         "semester": "後期",
@@ -21240,7 +21333,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G9980.html"
     },
     {
-        "no": 955,
+        "no": 958,
         "tt_num": "G9985",
         "name": "新理数基礎ゼミナールⅡ",
         "semester": "後期",
@@ -21275,7 +21368,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G9985.html"
     },
     {
-        "no": 956,
+        "no": 959,
         "tt_num": "G9987",
         "name": "新理数教育Ⅳ",
         "semester": "後期",
@@ -21310,7 +21403,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G9987.html"
     },
     {
-        "no": 957,
+        "no": 960,
         "tt_num": "G9989",
         "name": "新理数教育Ⅱ",
         "semester": "後期",
@@ -21345,7 +21438,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G9989.html"
     },
     {
-        "no": 958,
+        "no": 961,
         "tt_num": "G1551",
         "name": "小学校家庭",
         "semester": "後期",
@@ -21368,7 +21461,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1551.html"
     },
     {
-        "no": 959,
+        "no": 962,
         "tt_num": "G1555",
         "name": "小学校英語",
         "semester": "後期",
@@ -21389,7 +21482,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1555.html"
     },
     {
-        "no": 960,
+        "no": 963,
         "tt_num": "G1552",
         "name": "小学校英語",
         "semester": "後期",
@@ -21410,7 +21503,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1552.html"
     },
     {
-        "no": 961,
+        "no": 964,
         "tt_num": "G1556",
         "name": "小学校家庭",
         "semester": "後期",
@@ -21433,7 +21526,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1556.html"
     },
     {
-        "no": 962,
+        "no": 965,
         "tt_num": "G1003",
         "name": "博物館実習",
         "semester": "通年",
@@ -21458,7 +21551,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G1003.html"
     },
     {
-        "no": 963,
+        "no": 966,
         "tt_num": "G3520",
         "name": "地理学野外実験",
         "semester": "通年",
@@ -21495,7 +21588,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G3520.html"
     },
     {
-        "no": 964,
+        "no": 967,
         "tt_num": "G4318",
         "name": "地学野外実習",
         "semester": "通年",
@@ -21515,7 +21608,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G4318.html"
     },
     {
-        "no": 965,
+        "no": 968,
         "tt_num": "G5222",
         "name": "看護学臨床実習",
         "semester": "通年",
@@ -21535,7 +21628,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5222.html"
     },
     {
-        "no": 966,
+        "no": 969,
         "tt_num": "G5294",
         "name": "地域スポーツ実習",
         "semester": "通年",
@@ -21557,7 +21650,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5294.html"
     },
     {
-        "no": 967,
+        "no": 970,
         "tt_num": "G5301",
         "name": "保健体育演習",
         "semester": "通年",
@@ -21580,7 +21673,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G5301.html"
     },
     {
-        "no": 968,
+        "no": 971,
         "tt_num": "G6322",
         "name": "社会教育実習",
         "semester": "通年",
@@ -21600,7 +21693,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G6322.html"
     },
     {
-        "no": 969,
+        "no": 972,
         "tt_num": "G8015",
         "name": "教育実習Ⅰ（初等）",
         "semester": "通年",
@@ -21618,7 +21711,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8015.html"
     },
     {
-        "no": 970,
+        "no": 973,
         "tt_num": "G8016",
         "name": "教育実習Ⅰ（初等）",
         "semester": "通年",
@@ -21636,7 +21729,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8016.html"
     },
     {
-        "no": 971,
+        "no": 974,
         "tt_num": "G8017",
         "name": "教育実習Ⅱ（初等）",
         "semester": "通年",
@@ -21654,7 +21747,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8017.html"
     },
     {
-        "no": 972,
+        "no": 975,
         "tt_num": "G8018",
         "name": "教育実習Ⅱ（初等）",
         "semester": "通年",
@@ -21672,7 +21765,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8018.html"
     },
     {
-        "no": 973,
+        "no": 976,
         "tt_num": "G8037",
         "name": "教育実習Ⅰ（中等）",
         "semester": "通年",
@@ -21690,7 +21783,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8037.html"
     },
     {
-        "no": 974,
+        "no": 977,
         "tt_num": "G8038",
         "name": "教育実習Ⅰ（中等）",
         "semester": "通年",
@@ -21708,7 +21801,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8038.html"
     },
     {
-        "no": 975,
+        "no": 978,
         "tt_num": "G8039",
         "name": "教育実習Ⅱ（中等）",
         "semester": "通年",
@@ -21726,7 +21819,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8039.html"
     },
     {
-        "no": 976,
+        "no": 979,
         "tt_num": "G8040",
         "name": "教育実習Ⅲ（中等）",
         "semester": "通年",
@@ -21744,7 +21837,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8040.html"
     },
     {
-        "no": 977,
+        "no": 980,
         "tt_num": "G8041",
         "name": "教育実習Ⅲ（中等）",
         "semester": "通年",
@@ -21762,7 +21855,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8041.html"
     },
     {
-        "no": 978,
+        "no": 981,
         "tt_num": "G8052",
         "name": "障害児教育実習（事前・事後指導１単位を含む。）",
         "semester": "通年",
@@ -21782,7 +21875,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8052.html"
     },
     {
-        "no": 979,
+        "no": 982,
         "tt_num": "G8062",
         "name": "養護実習",
         "semester": "通年",
@@ -21794,13 +21887,13 @@
         ],
         "credits": 4,
         "room": [
-            "附属校"
+            "None"
         ],
         "sdgs": [],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8062.html"
     },
     {
-        "no": 980,
+        "no": 983,
         "tt_num": "G8063",
         "name": "事前・事後指導（養教）",
         "semester": "通年",
@@ -21812,7 +21905,7 @@
         ],
         "credits": 1,
         "room": [
-            "未定"
+            "None"
         ],
         "sdgs": [
             3
@@ -21820,7 +21913,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8063.html"
     },
     {
-        "no": 981,
+        "no": 984,
         "tt_num": "G8071",
         "name": "事前・事後指導（保育実習Ⅰ）",
         "semester": "通年",
@@ -21836,7 +21929,7 @@
         ],
         "credits": 2,
         "room": [
-            "未定"
+            "None"
         ],
         "sdgs": [],
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2023/detail/2023_01_G8071.html"

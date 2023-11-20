@@ -335,7 +335,7 @@ input[name="mark"]:focus {
 .SDGs {
     display: flex;
     flex-wrap: wrap;
-    min-width: calc(8.4rem)
+    width: calc(8.4rem)
 }
 
 .SDGs div[class^="sdgs"] {
