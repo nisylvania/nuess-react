@@ -204,6 +204,12 @@ function log() {
             <td>大学院を追加。
             </td>
           </tr>
+          <tr>
+            <th scope="row">2023/11/20</th>
+            <td>デザイン</td>
+            <td>aタグのアンダーラインにオフセットを設定。
+            </td>
+          </tr>
         </tbody>
       </Table>
       <p style={{'text-align': 'center'}}>Source code is available on <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
