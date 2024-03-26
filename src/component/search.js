@@ -119,7 +119,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                             曜日・時限
                         </Form.Label>
                         <Col sm="auto">
-                            <Button onClick={() => settButtonState(tbuttonOn => !tbuttonOn)}>
+                            <Button onClick={() => {settButtonState(tbuttonOn => !tbuttonOn); setsButtonState(false)}}>
                                 曜日・時限を選択
                             </Button>
                             <div id="timetable" className={`${tbuttonOn ? 'tt_show' : 'tt_close'}`}>
@@ -439,7 +439,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                             SDGs
                         </Form.Label>
                         <Col sm="auto">
-                            <Button onClick={() => setsButtonState(sbuttonOn => !sbuttonOn)}>
+                            <Button onClick={() => {setsButtonState(sbuttonOn => !sbuttonOn); settButtonState(false)}}>
                                 SDGsを選択
                             </Button>
                             <div id="sdgs" className={`${sbuttonOn ? 'sdgs_show' : 'sdgs_close'}`}>

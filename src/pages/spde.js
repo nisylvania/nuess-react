@@ -8,13 +8,13 @@ import timetable_data from '../data/spde.json';
 import Pagination from '../component/pagination';
 
 function Spde() {
-  const [tt_num, setTt_num] = useState(localStorage.getItem('tt_num'));
-  const [subject_name, setSubject_name] = useState(localStorage.getItem('subject_name'));
-  const [teacher_name, setTeacher_name] = useState(localStorage.getItem('teacher_name'));
-  const [room_name, setRoom_name] = useState(localStorage.getItem('room_name'));
-  const [semester_option, setSemester] = useState(JSON.parse(localStorage.getItem('semester_option')));
-  const [period_option, setPeriod] = useState(JSON.parse(localStorage.getItem('period_option')));
-  const [sdgs_option, setSdgs] = useState(JSON.parse(localStorage.getItem('sdgs_option')));
+  const [tt_num, setTt_num] = useState(() => {if(localStorage.hasOwnProperty("tt_num")){return localStorage.getItem('tt_num')}else{return ""}});
+  const [subject_name, setSubject_name] = useState(() => {if(localStorage.hasOwnProperty("subject_name")){return localStorage.getItem('subject_name')}else{return ""}});
+  const [teacher_name, setTeacher_name] = useState(() => {if(localStorage.hasOwnProperty("teacher_name")){return localStorage.getItem('teacher_name')}else{return ""}});
+  const [room_name, setRoom_name] = useState(() => {if(localStorage.hasOwnProperty("room_name")){return localStorage.getItem('room_name')}else{return ""}});
+  const [semester_option, setSemester] = useState(() => {if(localStorage.hasOwnProperty("semester_option")){return JSON.parse(localStorage.getItem('semester_option'))}else{return []}});
+  const [period_option, setPeriod] = useState(() => {if(localStorage.hasOwnProperty("period_option")){return JSON.parse(localStorage.getItem('period_option'))}else{return []}});
+  const [sdgs_option, setSdgs] = useState(() => {if(localStorage.hasOwnProperty("sdgs_option")){return JSON.parse(localStorage.getItem('sdgs_option'))}else{return []}});
   const [filtered, setFiltered] = useState([]);
   const [page, setPage] = useState(1);
   const [items, setItems] = useState(0);
