@@ -1,5 +1,6 @@
 import '../App.css';
 import React, { useState, useEffect } from 'react';
+import Alert from 'react-bootstrap/Alert';
 import Header from "../component/header";
 import SearchGraduate from "../component/search_graduate";
 import SearchTable from "../component/search_table";
@@ -7,20 +8,39 @@ import timetable_data from '../data/master.json';
 import Pagination from '../component/pagination';
 
 function Master() {
-  const [tt_num, setTt_num] = useState('');
-  const [subject_name, setSubject_name] = useState('');
-  const [teacher_name, setTeacher_name] = useState('');
-  const [room_name, setRoom_name] = useState('');
-  const [semester_option, setSemester] = useState([]);
-  const [period_option, setPeriod] = useState([]);
-  const [sdgs_option, setSdgs] = useState([]);
+  const [tt_num, setTt_num] = useState(localStorage.getItem('tt_num'));
+  const [subject_name, setSubject_name] = useState(localStorage.getItem('subject_name'));
+  const [teacher_name, setTeacher_name] = useState(localStorage.getItem('teacher_name'));
+  const [room_name, setRoom_name] = useState(localStorage.getItem('room_name'));
+  const [semester_option, setSemester] = useState(JSON.parse(localStorage.getItem('semester_option')));
+  const [period_option, setPeriod] = useState(JSON.parse(localStorage.getItem('period_option')));
+  const [sdgs_option, setSdgs] = useState(JSON.parse(localStorage.getItem('sdgs_option')));
   const [filtered, setFiltered] = useState([]);
   const [page, setPage] = useState(1);
   const [items, setItems] = useState(0);
   const [autoOn, setAutoState] = useState(true);
+  const [show, setShow] = useState(true);
 
+  let d = new Date();  
+  let alert = "";
+  if ((d.getMonth() + 1 == 3 || d.getMonth() + 1 == 9) && show) {
+    alert = <Alert key='danger' variant='danger' onClose={() => setShow(false)} dismissible>
+      現在の時期はシラバス更新の時期に当たるため，不正確な情報を表示している可能性があります。
+    </Alert>
+  }
+  else {
+    alert = "";
+  }
 
   useEffect(() => {
+    localStorage.setItem('tt_num', tt_num);
+    localStorage.setItem('subject_name', subject_name);
+    localStorage.setItem('teacher_name', teacher_name);
+    localStorage.setItem('room_name', room_name);
+    localStorage.setItem('semester_option', JSON.stringify(semester_option));
+    localStorage.setItem('period_option', JSON.stringify(period_option));
+    localStorage.setItem('sdgs_option', JSON.stringify(sdgs_option));
+    
     if (autoOn === true) {
       let beta = [];
       beta = timetable_data.filter(subject => { return subject.tt_num.includes('K' + tt_num) })
@@ -82,6 +102,7 @@ function Master() {
   return (
     <React.Fragment>
       <Header />
+      {alert}
       <SearchGraduate
         tt_num={tt_num}
         setTt_num={setTt_num}

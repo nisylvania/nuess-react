@@ -210,6 +210,36 @@ function log() {
             <td>aタグのアンダーラインにオフセットを設定。
             </td>
           </tr>
+          <tr>
+            <th scope="row">2024/3/3</th>
+            <td>シラバス</td>
+            <td>データを2024年度(2024/3/3時点)のものに更新。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2024/3/3</th>
+            <td>デザイン</td>
+            <td>シラバス情報更新時期に不正確な情報を含む可能性がある旨，アラートを追加。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2024/3/26</th>
+            <td>シラバス</td>
+            <td>データを2024年度(2024/3/26時点)のものに更新。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2024/3/26</th>
+            <td>デザイン</td>
+            <td>授業の方法に応じて，科目名にアイコンをつけるように変更。<br />「担当教員未定」を薄い色で表示するように変更。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2024/3/26</th>
+            <td>検索機能</td>
+            <td>検索フォームに入力した内容を保存しておくように変更。<br />プログラムの都合上，教育学部・教育学研究科・専門職学位課程それぞれでの入力を，切り替え時に引き継ぐようになった。
+            </td>
+          </tr>          
         </tbody>
       </Table>
       <p style={{'text-align': 'center'}}>Source code is available on <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">

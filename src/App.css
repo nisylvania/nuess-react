@@ -415,3 +415,37 @@ input[name="mark"]:focus {
 .sdgs17 {
     background-color: #19486A;
 }
+
+.undecided {
+    color: rgb(160, 160, 160)
+}
+
+.lecture:before {
+    content: url(../src/icon/pencil.svg);
+    margin-right: .25rem;
+    vertical-align: middle;
+}
+
+.exercise:before {
+    content: url(../src/icon/people-fill.svg);
+    margin-right: .25rem;
+    vertical-align: middle;
+}
+
+.experiment:before {
+    content: url(../src/icon/thermometer-half.svg);
+    margin-right: .25rem;
+    vertical-align: middle;
+}
+
+.practice:before {
+    content: url(../src/icon/mortarboard.svg);
+    margin-right: .25rem;
+    vertical-align: middle;
+}
+
+.skill:before {
+    content: url(../src/icon/wrench-adjustable.svg);
+    margin-right: .25rem;
+    vertical-align: middle;
+}
