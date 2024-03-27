@@ -31,7 +31,7 @@ const SearchTable = ({ filtered, page }) => {
                 <td>{subject.semester}<br />{subject.period.join("，")}</td>
                 <td className="text-center">{subject.credits}単位</td>
                 <td>{subject.teacher.map((teacher) => {
-                    if(teacher == "担当教員未定"){
+                    if(teacher === "担当教員未定"){
                         return <span className="undecided">{teacher}<br /></span>
                     }
                     else{
@@ -47,7 +47,7 @@ const SearchTable = ({ filtered, page }) => {
                 <td>{subject.semester}<br />{subject.period.join("，")}</td>
                 <td className="text-center">{subject.credits}単位</td>
                 <td>{subject.teacher.map((teacher) => {
-                    if(teacher == "担当教員未定"){
+                    if(teacher === "担当教員未定"){
                         return <span className="undecided">{teacher}<br /></span>
                     }
                     else{
@@ -63,7 +63,7 @@ const SearchTable = ({ filtered, page }) => {
                 <td>{subject.semester}<br />{subject.period.join("，")}</td>
                 <td className="text-center">{subject.credits}単位</td>
                 <td>{subject.teacher.map((teacher) => {
-                    if(teacher == "担当教員未定"){
+                    if(teacher === "担当教員未定"){
                         return <span className="undecided">{teacher}<br /></span>
                     }
                     else{
@@ -79,7 +79,7 @@ const SearchTable = ({ filtered, page }) => {
                 <td>{subject.semester}<br />{subject.period.join("，")}</td>
                 <td className="text-center">{subject.credits}単位</td>
                 <td>{subject.teacher.map((teacher) => {
-                    if(teacher == "担当教員未定"){
+                    if(teacher === "担当教員未定"){
                         return <span className="undecided">{teacher}<br /></span>
                     }
                     else{
@@ -95,7 +95,7 @@ const SearchTable = ({ filtered, page }) => {
                 <td>{subject.semester}<br />{subject.period.join("，")}</td>
                 <td className="text-center">{subject.credits}単位</td>
                 <td>{subject.teacher.map((teacher) => {
-                    if(teacher == "担当教員未定"){
+                    if(teacher === "担当教員未定"){
                         return <span className="undecided">{teacher}<br /></span>
                     }
                     else{
@@ -111,7 +111,7 @@ const SearchTable = ({ filtered, page }) => {
                 <td>{subject.semester}<br />{subject.period.join("，")}</td>
                 <td className="text-center">{subject.credits}単位</td>
                 <td>{subject.teacher.map((teacher) => {
-                    if(teacher == "担当教員未定"){
+                    if(teacher === "担当教員未定"){
                         return <span className="undecided">{teacher}<br /></span>
                     }
                     else{

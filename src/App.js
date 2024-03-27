@@ -24,11 +24,10 @@ function App() {
   const [autoOn, setAutoState] = useState(true);
   const [show, setShow] = useState(true);
   const [timetable_data, setTimetable_data] = useState(timetable_data1.concat(timetable_data2, timetable_data3));
-  const [teacher_v, setTeacher_v] = useState(() => { if (localStorage.hasOwnProperty("teacher_v")) { return Boolean(Number(localStorage.getItem('teacher_v'))) } else { return 1 } });
 
   let d = new Date();
   let alert = "";
-  if ((d.getMonth() + 1 == 3 || d.getMonth() + 1 == 9) && show) {
+  if ((d.getMonth() + 1 === 3 || d.getMonth() + 1 === 9) && show) {
     alert = <Alert key='danger' variant='danger' onClose={() => setShow(false)} dismissible>
       現在の時期はシラバス更新の時期に当たるため，不正確な情報を表示している可能性があります。
     </Alert>
@@ -46,7 +45,6 @@ function App() {
     localStorage.setItem('semester_option', JSON.stringify(semester_option));
     localStorage.setItem('period_option', JSON.stringify(period_option));
     localStorage.setItem('sdgs_option', JSON.stringify(sdgs_option));
-    localStorage.setItem('teacher_v', Number(teacher_v));
 
     if (autoOn === true) {
       let beta = [];
@@ -74,7 +72,7 @@ function App() {
       setItems(beta.length);
       setPage(1);
     }
-  }, [mode, tt_num, subject_name, teacher_name, room_name, semester_option, period_option, sdgs_option, teacher_v])
+  }, [mode, tt_num, subject_name, teacher_name, room_name, semester_option, period_option, sdgs_option])
 
   function self_search() {
     let beta = [];
@@ -92,7 +90,6 @@ function App() {
     if (sdgs_option.length) {
       beta = beta.filter(subject => subject.sdgs.find(sdgs => sdgs_option.indexOf(sdgs) > -1));
     }
-
 
     setFiltered(beta);
     setItems(beta.length);
@@ -138,8 +135,6 @@ function App() {
         setAutoState={setAutoState}
         self_search={self_search}
         reset={reset}
-        teacher_v={teacher_v}
-        setTeacher_v={setTeacher_v}
       />
       <SearchTable
         filtered={filtered}
