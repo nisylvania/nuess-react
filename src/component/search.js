@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../App.css';
 import { Accordion, InputGroup, FormControl, Form, Button, Row, Col } from 'react-bootstrap';
 
-const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name, setTeacher_name, semester_option, setSemester, period_option, setPeriod, sdgs_option, setSdgs, autoOn, setAutoState, self_search, reset, room_name, setRoom_name }) => {
+const Search = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject_name, teacher_name, setTeacher_name, semester_option, setSemester, period_option, setPeriod, sdgs_option, setSdgs, autoOn, setAutoState, self_search, reset, room_name, setRoom_name }) => {
     const [tbuttonOn, settButtonState] = useState(false);
     const [sbuttonOn, setsButtonState] = useState(false);
 
@@ -34,14 +34,23 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
     };
 
     const sdgs_change = (e) => {
-        let target_sdgs;
-        target_sdgs = [Number(e.target.value)];
+        let target_sdgs = [Number(e.target.value)];
 
         if (target_sdgs.find(sdgs => sdgs_option.indexOf(sdgs) > -1)) {
             setSdgs(
                 sdgs_option.filter(checkedValue => target_sdgs.indexOf(checkedValue) === -1).flat());
         } else {
             setSdgs([...sdgs_option, target_sdgs].flat());
+        }
+    };
+
+    const mode_change = (e) => {
+        let target_mode = e.target.value.split(",");
+        if (target_mode.find(modee => mode.indexOf(modee) > -1)) {
+            setMode(
+                mode.filter(checkedValue => target_mode.indexOf(checkedValue) === -1).flat());
+        } else {
+            setMode([...mode, target_mode].flat());
         }
     };
 
@@ -52,11 +61,48 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                 <Accordion.Body>
                     <Form.Group as={Row} className="mb-3">
                         <Form.Label column sm="1">
+                            検索対象
+                        </Form.Label>
+                        <Col sm="auto">
+                            <Form.Check
+                                inline
+                                label="教育学部"
+                                name="mode"
+                                type="checkbox"
+                                id="faculty"
+                                value="G"
+                                onChange={mode_change}
+                                checked={mode.includes("G")}
+                            />
+                            <Form.Check
+                                inline
+                                label="教育学研究科"
+                                name="mode"
+                                type="checkbox"
+                                id="master"
+                                value="K0,K1,K2,K3,K4,K5,K7,K8,K9"
+                                onChange={mode_change}
+                                checked={mode.includes("K0")}
+                            />
+                            <Form.Check
+                                inline
+                                label="専門職学位課程"
+                                name="mode"
+                                type="checkbox"
+                                id="spde"
+                                value="K6"
+                                onChange={mode_change}
+                                checked={mode.includes("K6")}
+                            />
+                        </Col>
+                    </Form.Group>
+                    <Form.Group as={Row} className="mb-3">
+                        <Form.Label column sm="1">
                             時間割番号
                         </Form.Label>
                         <Col sm="auto">
                             <InputGroup type="tel">
-                                <InputGroup.Text id="basic-addon1">G</InputGroup.Text>
+                                <InputGroup.Text id="basic-addon1">GまたはK</InputGroup.Text>
                                 <FormControl
                                     onChange={(e) => setTt_num(e.target.value)}
                                     placeholder="前方一致"
@@ -119,7 +165,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                             曜日・時限
                         </Form.Label>
                         <Col sm="auto">
-                            <Button onClick={() => {settButtonState(tbuttonOn => !tbuttonOn); setsButtonState(false)}}>
+                            <Button onClick={() => { settButtonState(tbuttonOn => !tbuttonOn); setsButtonState(false) }}>
                                 曜日・時限を選択
                             </Button>
                             <div id="timetable" className={`${tbuttonOn ? 'tt_show' : 'tt_close'}`}>
@@ -395,6 +441,106 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                                                 />
                                             </td>
                                         </tr>
+                                        <tr key="6">
+                                            <th>
+                                                11・12
+                                            </th>
+                                            <td>
+                                                <Form.Check
+                                                    name="period"
+                                                    value="月11,月12"
+                                                    type="checkbox"
+                                                    onChange={period_change}
+                                                    checked={period_option.includes("月11")}
+                                                />
+                                            </td>
+                                            <td>
+                                                <Form.Check
+                                                    name="period"
+                                                    value="火11,火12"
+                                                    type="checkbox"
+                                                    onChange={period_change}
+                                                    checked={period_option.includes("火11")}
+                                                />
+                                            </td>
+                                            <td>
+                                                <Form.Check
+                                                    name="period"
+                                                    value="水11,水12"
+                                                    type="checkbox"
+                                                    onChange={period_change}
+                                                    checked={period_option.includes("水11")}
+                                                />
+                                            </td>
+                                            <td>
+                                                <Form.Check
+                                                    name="period"
+                                                    value="木11,木12"
+                                                    type="checkbox"
+                                                    onChange={period_change}
+                                                    checked={period_option.includes("木11")}
+                                                />
+                                            </td>
+                                            <td>
+                                                <Form.Check
+                                                    name="period"
+                                                    value="金11,金12"
+                                                    type="checkbox"
+                                                    onChange={period_change}
+                                                    checked={period_option.includes("金11")}
+                                                />
+                                            </td>
+                                        </tr>
+                                        <tr key="7">
+                                            <th>
+                                                13・14
+                                            </th>
+                                            <td>
+                                                <Form.Check
+                                                    name="period"
+                                                    value="月13,月14"
+                                                    type="checkbox"
+                                                    onChange={period_change}
+                                                    checked={period_option.includes("月13")}
+                                                />
+                                            </td>
+                                            <td>
+                                                <Form.Check
+                                                    name="period"
+                                                    value="火13,火14"
+                                                    type="checkbox"
+                                                    onChange={period_change}
+                                                    checked={period_option.includes("火13")}
+                                                />
+                                            </td>
+                                            <td>
+                                                <Form.Check
+                                                    name="period"
+                                                    value="水13,水14"
+                                                    type="checkbox"
+                                                    onChange={period_change}
+                                                    checked={period_option.includes("水13")}
+                                                />
+                                            </td>
+                                            <td>
+                                                <Form.Check
+                                                    name="period"
+                                                    value="木13,木14"
+                                                    type="checkbox"
+                                                    onChange={period_change}
+                                                    checked={period_option.includes("木13")}
+                                                />
+                                            </td>
+                                            <td>
+                                                <Form.Check
+                                                    name="period"
+                                                    value="金13,金14"
+                                                    type="checkbox"
+                                                    onChange={period_change}
+                                                    checked={period_option.includes("金13")}
+                                                />
+                                            </td>
+                                        </tr>
                                     </tbody>
                                 </table>
                                 <Form.Check
@@ -439,7 +585,7 @@ const Search = ({ tt_num, setTt_num, subject_name, setSubject_name, teacher_name
                             SDGs
                         </Form.Label>
                         <Col sm="auto">
-                            <Button onClick={() => {setsButtonState(sbuttonOn => !sbuttonOn); settButtonState(false)}}>
+                            <Button onClick={() => { setsButtonState(sbuttonOn => !sbuttonOn); settButtonState(false) }}>
                                 SDGsを選択
                             </Button>
                             <div id="sdgs" className={`${sbuttonOn ? 'sdgs_show' : 'sdgs_close'}`}>

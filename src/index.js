@@ -5,8 +5,6 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Log from "./pages/log";
-import Master from "./pages/master";
-import Spde from "./pages/spde";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -14,8 +12,6 @@ ReactDOM.render(
       <Routes>
         <Route path="/" element={<App />}/>
         <Route path="/change_log" element={<Log />} />
-        <Route path="/master" element={<Master />} />
-        <Route path="/spde" element={<Spde />} />
       </Routes>
     </Router>
   </React.StrictMode>,

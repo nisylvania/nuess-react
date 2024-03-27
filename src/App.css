@@ -6,8 +6,9 @@ body {
     font-feature-settings: "palt";
     line-height: 1.71429;
     margin-top: 80px !important;
+    margin-bottom: 40px !important;
     padding: 1rem;
-    text-underline-offset:0.25em;
+    text-underline-offset: 0.25em;
 }
 
 .header_style {
@@ -22,7 +23,7 @@ body {
 }
 
 .tt_close {
-    padding: 0 0.5rem 0.4rem 0.6rem;
+    padding: 0.5rem;
     border-radius: 4px;
     filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
     transform: translateZ(0);
@@ -41,7 +42,7 @@ body {
 }
 
 .tt_show {
-    padding: 0 0.5rem 0.4rem 0.6rem;
+    padding: 0.5rem;
     border-radius: 4px;
     filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
     transform: translateZ(0);
@@ -59,7 +60,7 @@ body {
 }
 
 .sdgs_close {
-    padding: 0 0.5rem 0.4rem 0.6rem;
+    padding: 0.5rem;
     border-radius: 4px;
     filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
     transform: translateZ(0);
@@ -78,7 +79,7 @@ body {
 }
 
 .sdgs_show {
-    padding: 0 0.5rem 0.4rem 0.6rem;
+    padding: 0.5rem;
     border-radius: 4px;
     filter: drop-shadow(.1rem .1rem .1rem rgba(0, 0, 0, 0.5));
     transform: translateZ(0);
@@ -322,7 +323,7 @@ input[name="mark"]:focus {
     table-layout: auto;
     width: auto;
     white-space: nowrap;
-    margin: 0 auto 2rem auto;
+    margin: 0 auto 0.5rem auto;
 }
 
 #search_button {
@@ -448,4 +449,8 @@ input[name="mark"]:focus {
     content: url(../src/icon/wrench-adjustable.svg);
     margin-right: .25rem;
     vertical-align: middle;
+}
+
+#pagination_button {
+    margin: 0.5rem !important;
 }

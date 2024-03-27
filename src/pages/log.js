@@ -239,19 +239,25 @@ function log() {
             <td>検索機能</td>
             <td>検索フォームに入力した内容を保存しておくように変更。<br />プログラムの都合上，教育学部・教育学研究科・専門職学位課程それぞれでの入力を，切り替え時に引き継ぐようになった。
             </td>
-          </tr>  
-          <tr>
-            <th scope="row">2024/3/26</th>
-            <td>デザイン</td>
-            <td>授業の方法に応じて，科目名にアイコンをつけるように変更。<br />「担当教員未定」を薄い色で表示するように変更。
-            </td>
-          </tr>  
+          </tr>
           <tr>
             <th scope="row">2024/3/26</th>
             <td>検索機能</td>
             <td>曜日・時限の選択画面，SDGsの選択画面をそれぞれ表示するとき，片方の画面を非表示するように変更。
             </td>
-          </tr>        
+          </tr>
+          <tr>
+            <th scope="row">2024/3/28</th>
+            <td>検索機能</td>
+            <td>教育学部・大学院を同じページに統一。検索フォームにて切り替えられるように変更。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2024/3/28</th>
+            <td>デザイン</td>
+            <td>検索結果が1件のみのときに「1件目～1件目を表示中」となっていたものを「1件目を表示中」に変更。<br />ページ指定ボタンのデザインを大幅に変更した上で，常に下部に固定するように変更。
+            </td>
+          </tr>
         </tbody>
       </Table>
       <p style={{'text-align': 'center'}}>Source code is available on <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
