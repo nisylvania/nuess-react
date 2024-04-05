@@ -1,6 +1,32 @@
 [
     {
         "no": "1",
+        "tt_num": "K6001",
+        "name": "教育課程の開発と改善",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "月3",
+            "月4"
+        ],
+        "teacher": [
+            "山本 敏久"
+        ],
+        "credits": "2",
+        "room": [
+            "教職大学院第２演習室"
+        ],
+        "sdgs": [
+            4,
+            5,
+            10,
+            16,
+            17
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6001.html"
+    },
+    {
+        "no": "2",
         "tt_num": "K6062",
         "name": "特別支援教育の教育課程論★(特別支援教育の教育課程・授業論)",
         "type": "講義",
@@ -24,7 +50,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6062.html"
     },
     {
-        "no": "2",
+        "no": "3",
         "tt_num": "K6000",
         "name": "指導と評価の一体化★(カリキュラムと評価の連動)",
         "type": "演習",
@@ -47,7 +73,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6000.html"
     },
     {
-        "no": "3",
+        "no": "4",
         "tt_num": "K6046",
         "name": "発達障害児の理解と支援",
         "type": "講義",
@@ -72,7 +98,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6046.html"
     },
     {
-        "no": "4",
+        "no": "5",
         "tt_num": "K6012",
         "name": "学級経営の基礎・基本★(学級・学校経営実践論)",
         "type": "演習",
@@ -96,7 +122,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6012.html"
     },
     {
-        "no": "5",
+        "no": "6",
         "tt_num": "K6013",
         "name": "学校組織とアカウンタビリティ",
         "type": "講義",
@@ -125,7 +151,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6013.html"
     },
     {
-        "no": "6",
+        "no": "7",
         "tt_num": "K6065",
         "name": "特別支援教育と学校・学級経営★(特別支援学校・学級経営論)",
         "type": "講義",
@@ -148,7 +174,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6065.html"
     },
     {
-        "no": "7",
+        "no": "8",
         "tt_num": "K6011",
         "name": "教師の発達とキャリア教育★(教師のキャリア発達と教育)",
         "type": "講義",
@@ -173,7 +199,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6011.html"
     },
     {
-        "no": "8",
+        "no": "9",
         "tt_num": "K6048",
         "name": "インクルーシブ教育原論",
         "type": "講義",
@@ -198,7 +224,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6048.html"
     },
     {
-        "no": "9",
+        "no": "10",
         "tt_num": "K6019",
         "name": "学校危機管理論",
         "type": "講義",
@@ -219,7 +245,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6019.html"
     },
     {
-        "no": "10",
+        "no": "11",
         "tt_num": "K6025",
         "name": "★(課題探究実習ⅡＡ)",
         "type": "実習",
@@ -249,7 +275,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6025.html"
     },
     {
-        "no": "11",
+        "no": "12",
         "tt_num": "K6027",
         "name": "★(課題解決実習ⅡＡ)",
         "type": "実習",
@@ -285,7 +311,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6027.html"
     },
     {
-        "no": "12",
+        "no": "13",
         "tt_num": "K6052",
         "name": "★(課題探究実習ⅡＢ（特別支援教育）)",
         "type": "実習",
@@ -307,7 +333,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6052.html"
     },
     {
-        "no": "13",
+        "no": "14",
         "tt_num": "K6054",
         "name": "★(課題解決実習ⅡＢ（特別支援教育）)",
         "type": "実習",
@@ -329,7 +355,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6054.html"
     },
     {
-        "no": "14",
+        "no": "15",
         "tt_num": "K6055",
         "name": "★(へき地学校実習)",
         "type": "実習",
@@ -358,7 +384,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6055.html"
     },
     {
-        "no": "15",
+        "no": "16",
         "tt_num": "K6066",
         "name": "特別支援教育アセスメント事例研究★(特別支援アセスメント事例研究)",
         "type": "講義",
@@ -384,7 +410,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6066.html"
     },
     {
-        "no": "16",
+        "no": "17",
         "tt_num": "K6100",
         "name": "★(課題研究)",
         "type": "演習",
@@ -414,7 +440,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6100.html"
     },
     {
-        "no": "17",
+        "no": "18",
         "tt_num": "K6015",
         "name": "★(組織で進める学校評価・校内研修)",
         "type": "講義・演習",
@@ -436,7 +462,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6015.html"
     },
     {
-        "no": "18",
+        "no": "19",
         "tt_num": "K6041",
         "name": "★(子どもと保護者の心をつかむコミュニケーション実践論)",
         "type": "講義・演習",
@@ -462,7 +488,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6041.html"
     },
     {
-        "no": "19",
+        "no": "20",
         "tt_num": "K6017",
         "name": "地域とつくる学校",
         "type": "講義",
@@ -484,7 +510,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6017.html"
     },
     {
-        "no": "20",
+        "no": "21",
         "tt_num": "K6035",
         "name": "教師の成長と授業研究★(教師の成長とアセスメント)",
         "type": "講義",
@@ -506,7 +532,31 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6035.html"
     },
     {
-        "no": "21",
+        "no": "22",
+        "tt_num": "K6069",
+        "name": "特別支援教育の心理学",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "月3",
+            "月4"
+        ],
+        "teacher": [
+            "竹内 謙彰"
+        ],
+        "credits": "2",
+        "room": [
+            "アクティブ・ラーニング・スペース"
+        ],
+        "sdgs": [
+            3,
+            4,
+            10
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6069.html"
+    },
+    {
+        "no": "23",
         "tt_num": "K6064",
         "name": "重度障害児の理解と支援",
         "type": "講義",
@@ -530,7 +580,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6064.html"
     },
     {
-        "no": "22",
+        "no": "24",
         "tt_num": "K6010",
         "name": "学級集団と心理学★(学級づくりと集団づくり)",
         "type": "講義",
@@ -552,7 +602,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6010.html"
     },
     {
-        "no": "23",
+        "no": "25",
         "tt_num": "K6068",
         "name": "特別支援教育のシステム論",
         "type": "講義",
@@ -576,7 +626,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6068.html"
     },
     {
-        "no": "24",
+        "no": "26",
         "tt_num": "K6063",
         "name": "特別支援教育の生理・病理",
         "type": "講義",
@@ -600,7 +650,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6063.html"
     },
     {
-        "no": "25",
+        "no": "27",
         "tt_num": "K6070",
         "name": "自閉症児の理解と支援",
         "type": "講義",
@@ -623,7 +673,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6070.html"
     },
     {
-        "no": "26",
+        "no": "28",
         "tt_num": "K6061",
         "name": "LD児･ADHD児の理解と支援",
         "type": "講義",
@@ -645,7 +695,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6061.html"
     },
     {
-        "no": "27",
+        "no": "29",
         "tt_num": "K6067",
         "name": "特別支援教育コーディネーター論",
         "type": "講義",
@@ -672,7 +722,7 @@
         "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2024/detail/2024_11_K6067.html"
     },
     {
-        "no": "28",
+        "no": "30",
         "tt_num": "K6036",
         "name": "教科内容と教材開発（小学校外国語）★(小学校外国語とそのコーディネーション)",
         "type": "演習",
