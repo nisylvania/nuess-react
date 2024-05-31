@@ -264,6 +264,12 @@ function log() {
             <td>データを2024年度(2024/4/6時点)のものに更新。
             </td>
           </tr>
+          <tr>
+            <th scope="row">2024/5/31</th>
+            <td>検索機能</td>
+            <td>検索フォームの値を更新した際に，すべてのコンポーネントが更新されてしまっていたが，コンポーネントの構造を見直し，適切なコンポーネントのみ更新されるようになった。
+            </td>
+          </tr>
         </tbody>
       </Table>
       <p style={{'text-align': 'center'}}>Source code is available on <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
