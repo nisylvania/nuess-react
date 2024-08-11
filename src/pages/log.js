@@ -159,7 +159,7 @@ function log() {
           <tr>
             <th scope="row">2023/4/26</th>
             <td>デザイン</td>
-            <td>フォントをNoto Sans JPに設定。
+            <td>フォントを「Noto Sans JP」に設定。
             </td>
           </tr>
           <tr>
@@ -274,6 +274,23 @@ function log() {
             <th scope="row">2024/7/28</th>
             <td>検索機能</td>
             <td>いつの間にか消えていたスペースの有無を無視した検索に再対応。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2024/8/12</th>
+            <td>サーバ</td>
+            <td>教採(筆記)も済んだので，サーバをレンタルサーバから「Oracle Cloud Interface」に変えて心機一転。<br />移転の際に.htaccessファイルを間違えて削除したため，再度作成・配置。<br />
+            ＜仕様技術の詳細＞<br />
+            リバースプロキシ：nginx<br />
+            Webサーバ：Apache<br />
+            コンテナ仮想化：Docker<br />
+            移転の際に.htaccessファイルを間違えて削除したため，再度作成・配置。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2024/8/12</th>
+            <td>デザイン</td>
+            <td>教採(筆記)も済んだので，フォントを「Noto Sans JP」から「BIZ UDPゴシック」に変えて心機一転。
             </td>
           </tr>
         </tbody>
