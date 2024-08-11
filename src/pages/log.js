@@ -283,14 +283,14 @@ function log() {
             ＜仕様技術の詳細＞<br />
             リバースプロキシ：nginx<br />
             Webサーバ：Apache<br />
-            コンテナ仮想化：Docker<br />
-            移転の際に.htaccessファイルを間違えて削除したため，再度作成・配置。
+            コンテナ仮想化：Docker
             </td>
           </tr>
           <tr>
             <th scope="row">2024/8/12</th>
             <td>デザイン</td>
-            <td>教採(筆記)も済んだので，フォントを「Noto Sans JP」から「BIZ UDPゴシック」に変えて心機一転。
+            <td>教採(筆記)も済んだので，フォントを「Noto Sans JP」から「BIZ UDPゴシック」に変えて心機一転。<br />
+            SDGsの項目番号が電話番号リンクにされてしまうことが発覚したため，されないように設定を追記。
             </td>
           </tr>
         </tbody>
