@@ -293,6 +293,12 @@ function log() {
             SDGsの項目番号が電話番号リンクにされてしまうことが発覚したため，されないように設定を追記。
             </td>
           </tr>
+          <tr>
+            <th scope="row">2024/9/21</th>
+            <td>シラバス</td>
+            <td>データを2024年度(2024/9/21時点)のものに更新。
+            </td>
+          </tr>
         </tbody>
       </Table>
       <p style={{'text-align': 'center'}}>Source code is available on <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">

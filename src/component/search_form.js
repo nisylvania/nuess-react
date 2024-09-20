@@ -80,7 +80,7 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                                 name="mode"
                                 type="checkbox"
                                 id="master"
-                                value="K0,K1,K2,K3,K4,K5,K7,K8,K9"
+                                value="K0,K2,K3,K4,K5,K9"
                                 onChange={mode_change}
                                 checked={mode.includes("K0")}
                             />
@@ -90,7 +90,7 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                                 name="mode"
                                 type="checkbox"
                                 id="spde"
-                                value="K6"
+                                value="K1,K6,K7,K8"
                                 onChange={mode_change}
                                 checked={mode.includes("K6")}
                             />
