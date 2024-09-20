@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c3d179a0.css",
-    "main.js": "/static/js/main.10cef7af.js",
+    "main.js": "/static/js/main.742a970b.js",
     "static/js/787.8e132a6d.chunk.js": "/static/js/787.8e132a6d.chunk.js",
     "static/media/wrench-adjustable.svg": "/static/media/wrench-adjustable.853cd776d7d1b54433d3.svg",
     "static/media/mortarboard.svg": "/static/media/mortarboard.c0d9075cfe6881aacc45.svg",
@@ -10,11 +10,11 @@
     "static/media/thermometer-half.svg": "/static/media/thermometer-half.e1c9d8982a58e567ab72.svg",
     "static/media/people-fill.svg": "/static/media/people-fill.c6f8098cd9462727745d.svg",
     "main.c3d179a0.css.map": "/static/css/main.c3d179a0.css.map",
-    "main.10cef7af.js.map": "/static/js/main.10cef7af.js.map",
+    "main.742a970b.js.map": "/static/js/main.742a970b.js.map",
     "787.8e132a6d.chunk.js.map": "/static/js/787.8e132a6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d179a0.css",
-    "static/js/main.10cef7af.js"
+    "static/js/main.742a970b.js"
   ]
 }
