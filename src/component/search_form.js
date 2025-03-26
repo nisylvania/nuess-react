@@ -76,16 +76,6 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                             />
                             <Form.Check
                                 inline
-                                label="教育学研究科"
-                                name="mode"
-                                type="checkbox"
-                                id="master"
-                                value="K0,K2,K3,K4,K5,K9"
-                                onChange={mode_change}
-                                checked={mode.includes("K0")}
-                            />
-                            <Form.Check
-                                inline
                                 label="専門職学位課程"
                                 name="mode"
                                 type="checkbox"
@@ -93,6 +83,16 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                                 value="K1,K6,K7,K8"
                                 onChange={mode_change}
                                 checked={mode.includes("K6")}
+                            />                            
+                            <Form.Check
+                                inline
+                                label="修士課程"
+                                name="mode"
+                                type="checkbox"
+                                id="master"
+                                value="K0,K2,K3,K4,K5,K9"
+                                onChange={mode_change}
+                                checked={mode.includes("K0")}
                             />
                         </Col>
                     </Form.Group>

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import { Pagination } from 'react-bootstrap';
+import { Pagination, Button } from 'react-bootstrap';
 
-const MyPagination = ({ page, items, setPage }) => {
+const MyPagination = ({ page, items, setPage, showAll, setShowAll }) => {
   const itemsPerPage = 20;
   const totalPages = Math.ceil(items / itemsPerPage);
   const [maxDisplayedPages, setMaxDisplayedPages] = useState(calculateMaxDisplayedPages());
@@ -48,19 +48,41 @@ const MyPagination = ({ page, items, setPage }) => {
     );
   }
 
+  const handleShowAll = () => {
+    setPage(1); // すべて表示の場合は最初のページから開始
+    setShowAll(true); // 「すべて表示」をオンにする
+  };
+
+  const handleShowPagination = () => {
+    setShowAll(false); // ページネーションに戻す
+  };
+
   return (
-    <div style={{ position: 'fixed', bottom: 0, left: 0, width: '100%', display: 'flex', justifyContent: 'center', zIndex: 1000, backgroundColor: '#FFFFFF', padding:'0.5rem' }}>
-      <Pagination id="pagination_button">
-        {/* 最初のページへ移動するボタン */}
-        <Pagination.First onClick={() => setPage(1)} className="custom-page-button" />
-        {/* 前ページへ移動するボタン */}
-        <Pagination.Prev disabled={page === 1} onClick={() => setPage(page - 1)} className="custom-page-button" />
-        {pages}
-        {/* 次ページへ移動するボタン */}
-        <Pagination.Next disabled={page === totalPages} onClick={() => setPage(page + 1)} className="custom-page-button" />
-        {/* 最後のページへ移動するボタン */}
-        <Pagination.Last onClick={() => setPage(totalPages)} className="custom-page-button" />
-      </Pagination>
+    <div style={{ position: 'fixed', bottom: 0, left: 0, width: '100%',height: '110px', display: 'flex', justifyContent: 'center', zIndex: 1000, backgroundColor: '#FFFFFF', padding: '0.5rem' }}>
+      {showAll ? (
+        <div>
+          <Button variant="secondary" onClick={handleShowPagination} style={{ marginRight: '1rem' }}>
+            ページネーションに戻す
+          </Button>
+        </div>
+      ) : (
+        <div>
+          <Pagination id="pagination_button">
+            {/* 最初のページへ移動するボタン */}
+            <Pagination.First onClick={() => setPage(1)} className="custom-page-button" />
+            {/* 前ページへ移動するボタン */}
+            <Pagination.Prev disabled={page === 1} onClick={() => setPage(page - 1)} className="custom-page-button" />
+            {pages}
+            {/* 次ページへ移動するボタン */}
+            <Pagination.Next disabled={page === totalPages} onClick={() => setPage(page + 1)} className="custom-page-button" />
+            {/* 最後のページへ移動するボタン */}
+            <Pagination.Last onClick={() => setPage(totalPages)} className="custom-page-button" />
+          </Pagination>
+          <Button variant="primary" onClick={handleShowAll}>
+            すべて表示
+          </Button>
+        </div>
+      )}
     </div>
   );
 };

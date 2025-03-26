@@ -7,11 +7,11 @@ import UpdateAlert from './component/update_alert';
 function App() {
 
   return (
-    <React.Fragment>
+    <div className="App">
       <Header />
       <UpdateAlert />
       <SearchGroup />
-    </React.Fragment>
+    </div>
   );
 }
 

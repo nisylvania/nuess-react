@@ -23,6 +23,7 @@ const SearchGroup = () => {
     const [items, setItems] = useState(0);
     const [autoOn, setAutoState] = useState(true);
     const [timetable_data, setTimetable_data] =  useState(timetable_data1.concat(timetable_data2, timetable_data3));
+    const [showAll, setShowAll] = useState(false);  // すべて表示状態
   
     useEffect(() => {
       localStorage.setItem('mode', JSON.stringify(mode));
@@ -125,11 +126,15 @@ const SearchGroup = () => {
             <SearchTable
                 filtered={filtered}
                 page={page}
+                showAll={showAll}
+                setShowAll={setShowAll}
             />
             <MyPagination
                 page={page}
                 setPage={setPage}
                 items={items}
+                showAll={showAll}
+                setShowAll={setShowAll}
             />
         </>
     );
