@@ -21,7 +21,7 @@
             16,
             17
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3002.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3002.html"
     },
     {
         "no": "2",
@@ -57,7 +57,7 @@
             10,
             11
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3001.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3001.html"
     },
     {
         "no": "3",
@@ -82,36 +82,33 @@
             11,
             16
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3005.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3005.html"
     },
     {
         "no": "4",
-        "tt_num": "K3006",
-        "name": "多文化共生社会創造のための教育",
+        "tt_num": "K3003",
+        "name": "SDGsと教育",
         "type": "講義",
         "semester": "後期",
         "period": [
-            "木7",
-            "木8"
+            "月3",
+            "月4"
         ],
         "teacher": [
-            "前田 広幸",
-            "吉村 雅仁",
-            "橋本 昭典",
-            "和泉元 千春"
+            "中澤 静男"
         ],
         "credits": "2",
         "room": [
-            "205教室"
+            "104教室"
         ],
         "sdgs": [
             4,
-            10,
             11,
+            12,
             16,
             17
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3006.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3003.html"
     },
     {
         "no": "5",
@@ -124,20 +121,21 @@
             "月10"
         ],
         "teacher": [
-            "山岸 公基",
             "青木 智史",
+            "山岸 公基",
             "池田 藍子"
         ],
         "credits": "4",
         "room": [
-            "美術教育・研究交流スペース"
+            "美術教育・研究交流スペース",
+            "208教室"
         ],
         "sdgs": [
             4,
             10,
             11
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3004.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3004.html"
     },
     {
         "no": "6",
@@ -159,7 +157,7 @@
         "sdgs": [
             11
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K4338.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4338.html"
     },
     {
         "no": "7",
@@ -183,7 +181,7 @@
             10,
             11
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K4536.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4536.html"
     },
     {
         "no": "8",
@@ -206,10 +204,31 @@
             4,
             17
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K4538.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4538.html"
     },
     {
         "no": "9",
+        "tt_num": "K4506",
+        "name": "書道文化研究（文字とは何か）",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "張 莉"
+        ],
+        "credits": "2",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4506.html"
+    },
+    {
+        "no": "10",
         "tt_num": "K3014",
         "name": "仮名書法演習（臨書から創作への展開）",
         "type": "演習",
@@ -233,10 +252,10 @@
             12,
             16
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3014.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3014.html"
     },
     {
-        "no": "10",
+        "no": "11",
         "tt_num": "K4539",
         "name": "文化財技法Ⅱ（文化財技法の追体験）",
         "type": "演習",
@@ -256,10 +275,10 @@
             4,
             17
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K4539.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4539.html"
     },
     {
-        "no": "11",
+        "no": "12",
         "tt_num": "K3012",
         "name": "漢字書法演習（臨書から創作への展開）",
         "type": "演習",
@@ -276,10 +295,10 @@
             "書道実習室2"
         ],
         "sdgs": [],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3012.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3012.html"
     },
     {
-        "no": "12",
+        "no": "13",
         "tt_num": "K4339",
         "name": "文化財科学Ⅱ（文化財科学の実践）",
         "type": "実験",
@@ -298,10 +317,10 @@
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K4339.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4339.html"
     },
     {
-        "no": "13",
+        "no": "14",
         "tt_num": "K4537",
         "name": "美術工芸文化財学Ⅱ（美術作品との対話）",
         "type": "演習",
@@ -320,10 +339,10 @@
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K4537.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4537.html"
     },
     {
-        "no": "14",
+        "no": "15",
         "tt_num": "K4529",
         "name": "書道芸術研究（書の背景）",
         "type": "講義",
@@ -343,10 +362,10 @@
             4,
             11
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K4529.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4529.html"
     },
     {
-        "no": "15",
+        "no": "16",
         "tt_num": "K3017",
         "name": "言語文化研究Ⅰ（日本語教育の原理）",
         "type": "講義",
@@ -360,15 +379,15 @@
         ],
         "credits": "2",
         "room": [
-            "307教室"
+            "203教室"
         ],
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3017.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3017.html"
     },
     {
-        "no": "16",
+        "no": "17",
         "tt_num": "K3021",
         "name": "言語文化研究Ⅴ（身近な言葉）",
         "type": "講義",
@@ -387,10 +406,10 @@
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3021.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3021.html"
     },
     {
-        "no": "17",
+        "no": "18",
         "tt_num": "K3024",
         "name": "国際理解教育Ⅱ（複言語・複文化教育の原理）",
         "type": "講義",
@@ -411,10 +430,10 @@
             10,
             16
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3024.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3024.html"
     },
     {
-        "no": "18",
+        "no": "19",
         "tt_num": "K3019",
         "name": "言語文化研究Ⅲ（漢文学とは何か）",
         "type": "講義",
@@ -434,10 +453,10 @@
             4,
             16
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3019.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3019.html"
     },
     {
-        "no": "19",
+        "no": "20",
         "tt_num": "K3023",
         "name": "国際理解教育Ⅰ（シティズンシップ教育の原理）",
         "type": "講義",
@@ -458,32 +477,32 @@
             16,
             17
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3023.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3023.html"
     },
     {
-        "no": "20",
+        "no": "21",
         "tt_num": "K3018",
         "name": "言語文化研究Ⅱ（日本語教育の実践）",
         "type": "演習",
         "semester": "後期",
         "period": [
-            "火1",
-            "火2"
+            "火5",
+            "火6"
         ],
         "teacher": [
             "和泉元 千春"
         ],
         "credits": "2",
         "room": [
-            "207教室"
+            "203教室"
         ],
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3018.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3018.html"
     },
     {
-        "no": "21",
+        "no": "22",
         "tt_num": "K3026",
         "name": "国際理解教育Ⅳ（複言語・複文化教育の実践）",
         "type": "演習",
@@ -504,10 +523,10 @@
             10,
             16
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3026.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3026.html"
     },
     {
-        "no": "22",
+        "no": "23",
         "tt_num": "K3022",
         "name": "言語文化研究Ⅵ（言語構造の探究）",
         "type": "演習",
@@ -526,10 +545,10 @@
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3022.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3022.html"
     },
     {
-        "no": "23",
+        "no": "24",
         "tt_num": "K3020",
         "name": "言語文化研究Ⅳ（奈良ゆかりの日本漢文）",
         "type": "演習",
@@ -549,24 +568,24 @@
             4,
             16
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3020.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3020.html"
     },
     {
-        "no": "24",
+        "no": "25",
         "tt_num": "K3025",
         "name": "国際理解教育Ⅲ（シティズンシップ教育の実践）",
         "type": "演習",
         "semester": "後期",
         "period": [
-            "木5",
-            "木6"
+            "金3",
+            "金4"
         ],
         "teacher": [
             "橋崎 頼子"
         ],
         "credits": "2",
         "room": [
-            "203教室"
+            "307教室"
         ],
         "sdgs": [
             4,
@@ -574,29 +593,7 @@
             16,
             17
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3025.html"
-    },
-    {
-        "no": "25",
-        "tt_num": "K3103",
-        "name": "課題研究",
-        "type": "演習",
-        "semester": "前期",
-        "period": [
-            "集中"
-        ],
-        "teacher": [
-            "山岸 公基"
-        ],
-        "credits": "1",
-        "room": [
-            "未定"
-        ],
-        "sdgs": [
-            4,
-            11
-        ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3103.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3025.html"
     },
     {
         "no": "26",
@@ -621,7 +618,7 @@
             12,
             16
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3105.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3105.html"
     },
     {
         "no": "27",
@@ -642,7 +639,7 @@
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3107.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3107.html"
     },
     {
         "no": "28",
@@ -663,7 +660,7 @@
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3111.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3111.html"
     },
     {
         "no": "29",
@@ -684,7 +681,7 @@
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3113.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3113.html"
     },
     {
         "no": "30",
@@ -703,32 +700,10 @@
             "未定"
         ],
         "sdgs": [],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3115.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3115.html"
     },
     {
         "no": "31",
-        "tt_num": "K3104",
-        "name": "課題研究",
-        "type": "演習",
-        "semester": "後期",
-        "period": [
-            "集中"
-        ],
-        "teacher": [
-            "山岸 公基"
-        ],
-        "credits": "1",
-        "room": [
-            "未定"
-        ],
-        "sdgs": [
-            4,
-            11
-        ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3104.html"
-    },
-    {
-        "no": "32",
         "tt_num": "K3106",
         "name": "課題研究",
         "type": "演習",
@@ -750,10 +725,10 @@
             12,
             16
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3106.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3106.html"
     },
     {
-        "no": "33",
+        "no": "32",
         "tt_num": "K3108",
         "name": "課題研究",
         "type": "演習",
@@ -771,10 +746,10 @@
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3108.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3108.html"
     },
     {
-        "no": "34",
+        "no": "33",
         "tt_num": "K3112",
         "name": "課題研究",
         "type": "演習",
@@ -792,10 +767,10 @@
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3112.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3112.html"
     },
     {
-        "no": "35",
+        "no": "34",
         "tt_num": "K3114",
         "name": "課題研究",
         "type": "演習",
@@ -813,10 +788,10 @@
         "sdgs": [
             4
         ],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3114.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3114.html"
     },
     {
-        "no": "36",
+        "no": "35",
         "tt_num": "K3116",
         "name": "課題研究",
         "type": "演習",
@@ -832,6 +807,6 @@
             "未定"
         ],
         "sdgs": [],
-        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2025/detail/2025_11_K3116.html"
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3116.html"
     }
 ]

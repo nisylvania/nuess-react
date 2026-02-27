@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3d179a0.css",
-    "main.js": "/static/js/main.d705699d.js",
+    "main.css": "/static/css/main.1ff63862.css",
+    "main.js": "/static/js/main.7fc6d0d9.js",
     "static/js/787.8e132a6d.chunk.js": "/static/js/787.8e132a6d.chunk.js",
-    "static/media/wrench-adjustable.svg": "/static/media/wrench-adjustable.853cd776d7d1b54433d3.svg",
-    "static/media/mortarboard.svg": "/static/media/mortarboard.c0d9075cfe6881aacc45.svg",
+    "static/media/wrench-adjustable.svg": "/static/media/wrench-adjustable.b907ffff7deb5c2e1f61.svg",
+    "static/media/mortarboard.svg": "/static/media/mortarboard.8334f16be789dc195d5c.svg",
     "index.html": "/index.html",
-    "static/media/pencil.svg": "/static/media/pencil.372bf1c0dffabd88fa68.svg",
-    "static/media/thermometer-half.svg": "/static/media/thermometer-half.e1c9d8982a58e567ab72.svg",
-    "static/media/people-fill.svg": "/static/media/people-fill.c6f8098cd9462727745d.svg",
-    "main.c3d179a0.css.map": "/static/css/main.c3d179a0.css.map",
-    "main.d705699d.js.map": "/static/js/main.d705699d.js.map",
+    "static/media/pencil.svg": "/static/media/pencil.e3c555fd46e64b2378c6.svg",
+    "static/media/thermometer-half.svg": "/static/media/thermometer-half.205ce593ffbc5e3e5b87.svg",
+    "static/media/people-fill.svg": "/static/media/people-fill.d0bf57c05dc25dde0632.svg",
+    "main.1ff63862.css.map": "/static/css/main.1ff63862.css.map",
+    "main.7fc6d0d9.js.map": "/static/js/main.7fc6d0d9.js.map",
     "787.8e132a6d.chunk.js.map": "/static/js/787.8e132a6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3d179a0.css",
-    "static/js/main.d705699d.js"
+    "static/css/main.1ff63862.css",
+    "static/js/main.7fc6d0d9.js"
   ]
 }
