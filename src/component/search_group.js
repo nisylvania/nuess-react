@@ -4,6 +4,7 @@ import '../App.css';
 import SearchForm from "./search_form";
 import SearchTable from "./search_table";
 import MyPagination from './mypagination';
+import CoursePlan from './course_plan';
 
 const SearchGroup = () => {
 
@@ -22,6 +23,17 @@ const SearchGroup = () => {
     const [timetable_data, setTimetable_data] = useState([]);
     const [dataLoading, setDataLoading] = useState(true);
     const [showAll, setShowAll] = useState(false);  // すべて表示状態
+    const [planItems, setPlanItems] = useState(() => {
+        if (localStorage.hasOwnProperty("planItems")) {
+            try { return JSON.parse(localStorage.getItem('planItems')); } catch { return []; }
+        }
+        return [];
+    });
+
+    // 履修計画をlocalStorageに保存
+    useEffect(() => {
+        localStorage.setItem('planItems', JSON.stringify(planItems));
+    }, [planItems]);
 
     // JSONデータをfetchで読み込み（public/data/から取得）
     useEffect(() => {
@@ -154,6 +166,8 @@ const SearchGroup = () => {
                 page={page}
                 showAll={showAll}
                 setShowAll={setShowAll}
+                planItems={planItems}
+                setPlanItems={setPlanItems}
             />
             <MyPagination
                 page={page}
@@ -161,6 +175,10 @@ const SearchGroup = () => {
                 items={items}
                 showAll={showAll}
                 setShowAll={setShowAll}
+            />
+            <CoursePlan
+                planItems={planItems}
+                setPlanItems={setPlanItems}
             />
         </>
     );

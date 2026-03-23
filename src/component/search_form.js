@@ -61,7 +61,7 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                 <Accordion.Body>
                     <Form.Group as={Row} className="mb-3">
                         <Form.Label column sm="1">
-                            検索対象
+                            <i className="bi bi-mortarboard" style={{ marginRight: '0.3rem' }}></i>検索対象
                         </Form.Label>
                         <Col sm="auto">
                             <Form.Check
@@ -98,7 +98,7 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                     </Form.Group>
                     <Form.Group as={Row} className="mb-3">
                         <Form.Label column sm="1">
-                            時間割番号
+                            <i className="bi bi-hash" style={{ marginRight: '0.3rem' }}></i>時間割番号
                         </Form.Label>
                         <Col sm="auto">
                             <InputGroup type="tel">
@@ -113,7 +113,7 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                     </Form.Group>
                     <Form.Group as={Row} className="mb-3">
                         <Form.Label column sm="1">
-                            科目名
+                            <i className="bi bi-book" style={{ marginRight: '0.3rem' }}></i>科目名
                         </Form.Label>
                         <Col sm="auto">
                             <InputGroup>
@@ -126,7 +126,7 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                     </Form.Group>
                     <Form.Group as={Row} className="mb-3">
                         <Form.Label column sm="1">
-                            開講期
+                            <i className="bi bi-calendar-event" style={{ marginRight: '0.3rem' }}></i>開講期
                         </Form.Label>
                         <Col sm="auto">
                             <Form.Check
@@ -162,7 +162,7 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                     </Form.Group>
                     <Form.Group as={Row} className="mb-3">
                         <Form.Label column sm="1">
-                            曜日・時限
+                            <i className="bi bi-clock" style={{ marginRight: '0.3rem' }}></i>曜日・時限
                         </Form.Label>
                         <Col sm="auto">
                             <Button onClick={() => { settButtonState(tbuttonOn => !tbuttonOn); setsButtonState(false) }}>
@@ -556,7 +556,7 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                     </Form.Group>
                     <Form.Group as={Row} className="mb-3">
                         <Form.Label column sm="1">
-                            教員名
+                            <i className="bi bi-person" style={{ marginRight: '0.3rem' }}></i>教員名
                         </Form.Label>
                         <Col sm="auto">
                             <InputGroup>
@@ -569,7 +569,7 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                     </Form.Group>
                     <Form.Group as={Row} className="mb-3">
                         <Form.Label column sm="1">
-                            教室名
+                            <i className="bi bi-building" style={{ marginRight: '0.3rem' }}></i>教室名
                         </Form.Label>
                         <Col sm="auto">
                             <InputGroup>
@@ -582,7 +582,7 @@ const SearchForm = ({ mode, setMode, tt_num, setTt_num, subject_name, setSubject
                     </Form.Group>
                     <Form.Group as={Row} className="mb-3">
                         <Form.Label column sm="1">
-                            SDGs
+                            <i className="bi bi-globe2" style={{ marginRight: '0.3rem' }}></i>SDGs
                         </Form.Label>
                         <Col sm="auto">
                             <Button onClick={() => { setsButtonState(sbuttonOn => !sbuttonOn); settButtonState(false) }}>

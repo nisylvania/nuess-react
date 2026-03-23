@@ -58,30 +58,26 @@ const MyPagination = ({ page, items, setPage, showAll, setShowAll }) => {
   };
 
   return (
-    <div style={{ position: 'fixed', bottom: 0, left: 0, width: '100%',height: '110px', display: 'flex', justifyContent: 'center', zIndex: 1000, backgroundColor: '#FFFFFF', padding: '0.5rem' }}>
+    <div className="pagination-footer">
       {showAll ? (
-        <div>
-          <Button variant="secondary" onClick={handleShowPagination} style={{ marginRight: '1rem' }}>
-            ページネーションに戻す
-          </Button>
-        </div>
+        <Button variant="outline-secondary" size="sm" onClick={handleShowPagination}>
+          <i className="bi bi-chevron-bar-contract" style={{ marginRight: '0.3rem' }}></i>
+          ページネーションに戻す
+        </Button>
       ) : (
-        <div>
+        <>
           <Pagination id="pagination_button">
-            {/* 最初のページへ移動するボタン */}
             <Pagination.First onClick={() => setPage(1)} className="custom-page-button" />
-            {/* 前ページへ移動するボタン */}
             <Pagination.Prev disabled={page === 1} onClick={() => setPage(page - 1)} className="custom-page-button" />
             {pages}
-            {/* 次ページへ移動するボタン */}
             <Pagination.Next disabled={page === totalPages} onClick={() => setPage(page + 1)} className="custom-page-button" />
-            {/* 最後のページへ移動するボタン */}
             <Pagination.Last onClick={() => setPage(totalPages)} className="custom-page-button" />
           </Pagination>
-          <Button variant="primary" onClick={handleShowAll}>
+          <Button variant="outline-primary" size="sm" onClick={handleShowAll} className="show-all-btn">
+            <i className="bi bi-arrows-angle-expand" style={{ marginRight: '0.3rem' }}></i>
             すべて表示
           </Button>
-        </div>
+        </>
       )}
     </div>
   );

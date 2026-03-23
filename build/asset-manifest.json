@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ff63862.css",
-    "main.js": "/static/js/main.c984847c.js",
+    "main.css": "/static/css/main.e4f6afb4.css",
+    "main.js": "/static/js/main.7ea6d1c0.js",
     "static/js/787.8e132a6d.chunk.js": "/static/js/787.8e132a6d.chunk.js",
     "static/media/wrench-adjustable.svg": "/static/media/wrench-adjustable.b907ffff7deb5c2e1f61.svg",
     "static/media/mortarboard.svg": "/static/media/mortarboard.8334f16be789dc195d5c.svg",
@@ -9,12 +9,12 @@
     "static/media/pencil.svg": "/static/media/pencil.e3c555fd46e64b2378c6.svg",
     "static/media/thermometer-half.svg": "/static/media/thermometer-half.205ce593ffbc5e3e5b87.svg",
     "static/media/people-fill.svg": "/static/media/people-fill.d0bf57c05dc25dde0632.svg",
-    "main.1ff63862.css.map": "/static/css/main.1ff63862.css.map",
-    "main.c984847c.js.map": "/static/js/main.c984847c.js.map",
+    "main.e4f6afb4.css.map": "/static/css/main.e4f6afb4.css.map",
+    "main.7ea6d1c0.js.map": "/static/js/main.7ea6d1c0.js.map",
     "787.8e132a6d.chunk.js.map": "/static/js/787.8e132a6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ff63862.css",
-    "static/js/main.c984847c.js"
+    "static/css/main.e4f6afb4.css",
+    "static/js/main.7ea6d1c0.js"
   ]
 }

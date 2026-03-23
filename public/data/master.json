@@ -1,0 +1,842 @@
+[
+    {
+        "no": "1",
+        "tt_num": "K3002",
+        "name": "グローバル･シティズンシップ教育論",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "水1",
+            "水2"
+        ],
+        "teacher": [
+            "橋崎 頼子"
+        ],
+        "credits": "2",
+        "room": [
+            "206教室"
+        ],
+        "sdgs": [
+            4,
+            16,
+            17
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3002.html"
+    },
+    {
+        "no": "2",
+        "tt_num": "K3001",
+        "name": "世界の中の奈良　―文化を知り・つなぎ・伝える―",
+        "type": "講義・演習",
+        "semester": "前期",
+        "period": [
+            "水5",
+            "水6",
+            "水7",
+            "水8"
+        ],
+        "teacher": [
+            "山岸 公基",
+            "前田 広幸",
+            "吉村 雅仁",
+            "橋本 昭典",
+            "青木 智史",
+            "和泉元 千春",
+            "橋崎 頼子",
+            "北山 聡佳",
+            "西村 大輔",
+            "池田 藍子"
+        ],
+        "credits": "4",
+        "room": [
+            "201教室"
+        ],
+        "sdgs": [
+            3,
+            4,
+            10,
+            11
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3001.html"
+    },
+    {
+        "no": "3",
+        "tt_num": "K3006",
+        "name": "多文化共生社会創造のための教育",
+        "type": "講義",
+        "semester": "後期",
+        "period": [
+            "木7",
+            "木8"
+        ],
+        "teacher": [
+            "吉村 雅仁",
+            "前田 広幸",
+            "橋本 昭典",
+            "和泉元 千春"
+        ],
+        "credits": "2",
+        "room": [
+            "205教室"
+        ],
+        "sdgs": [
+            3,
+            4,
+            10,
+            11,
+            16,
+            17
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3006.html"
+    },
+    {
+        "no": "4",
+        "tt_num": "K3005",
+        "name": "書道の芸術性と実用性",
+        "type": "講義・演習",
+        "semester": "前期",
+        "period": [
+            "火3",
+            "火4"
+        ],
+        "teacher": [
+            "北山 聡佳",
+            "橋本 昭典"
+        ],
+        "credits": "2",
+        "room": [
+            "書道実習室1"
+        ],
+        "sdgs": [
+            4,
+            11,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3005.html"
+    },
+    {
+        "no": "5",
+        "tt_num": "K3003",
+        "name": "SDGsと教育",
+        "type": "講義",
+        "semester": "後期",
+        "period": [
+            "月3",
+            "月4"
+        ],
+        "teacher": [
+            "中澤 静男"
+        ],
+        "credits": "2",
+        "room": [
+            "104教室"
+        ],
+        "sdgs": [
+            4,
+            11,
+            12,
+            16,
+            17
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3003.html"
+    },
+    {
+        "no": "6",
+        "tt_num": "K3004",
+        "name": "伝統文化の継承と発信",
+        "type": "演習",
+        "semester": "通年",
+        "period": [
+            "月9",
+            "月10"
+        ],
+        "teacher": [
+            "青木 智史",
+            "山岸 公基",
+            "池田 藍子"
+        ],
+        "credits": "4",
+        "room": [
+            "美術教育・研究交流スペース",
+            "208教室"
+        ],
+        "sdgs": [
+            4,
+            10,
+            11
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3004.html"
+    },
+    {
+        "no": "7",
+        "tt_num": "K4338",
+        "name": "文化財科学Ⅰ（文化財科学の方法）",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "火3",
+            "火4"
+        ],
+        "teacher": [
+            "青木 智史"
+        ],
+        "credits": "2",
+        "room": [
+            "207教室"
+        ],
+        "sdgs": [
+            11
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4338.html"
+    },
+    {
+        "no": "8",
+        "tt_num": "K4536",
+        "name": "美術工芸文化財学Ⅰ（美術作品の「物語」）",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "火7",
+            "火8"
+        ],
+        "teacher": [
+            "山岸 公基"
+        ],
+        "credits": "2",
+        "room": [
+            "208教室"
+        ],
+        "sdgs": [
+            4,
+            10,
+            11
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4536.html"
+    },
+    {
+        "no": "9",
+        "tt_num": "K4538",
+        "name": "文化財技法Ⅰ（文化財の保存と技法の継承）",
+        "type": "演習",
+        "semester": "前期",
+        "period": [
+            "金7",
+            "金8"
+        ],
+        "teacher": [
+            "池田 藍子"
+        ],
+        "credits": "2",
+        "room": [
+            "絵画第1実習室"
+        ],
+        "sdgs": [
+            4,
+            17
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4538.html"
+    },
+    {
+        "no": "10",
+        "tt_num": "K4506",
+        "name": "書道文化研究（文字とは何か）",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "張 莉"
+        ],
+        "credits": "2",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4506.html"
+    },
+    {
+        "no": "11",
+        "tt_num": "K3014",
+        "name": "仮名書法演習（臨書から創作への展開）",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "月5",
+            "月6"
+        ],
+        "teacher": [
+            "北山 聡佳"
+        ],
+        "credits": "2",
+        "room": [
+            "書道実習室2"
+        ],
+        "sdgs": [
+            4,
+            5,
+            10,
+            11,
+            12,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3014.html"
+    },
+    {
+        "no": "12",
+        "tt_num": "K4539",
+        "name": "文化財技法Ⅱ（文化財技法の追体験）",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "月7",
+            "月8"
+        ],
+        "teacher": [
+            "池田 藍子"
+        ],
+        "credits": "2",
+        "room": [
+            "絵画第1実習室"
+        ],
+        "sdgs": [
+            4,
+            17
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4539.html"
+    },
+    {
+        "no": "13",
+        "tt_num": "K3012",
+        "name": "漢字書法演習（臨書から創作への展開）",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "火3",
+            "火4"
+        ],
+        "teacher": [
+            "西村 大輔"
+        ],
+        "credits": "2",
+        "room": [
+            "書道実習室2"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3012.html"
+    },
+    {
+        "no": "14",
+        "tt_num": "K4339",
+        "name": "文化財科学Ⅱ（文化財科学の実践）",
+        "type": "実験",
+        "semester": "後期",
+        "period": [
+            "火3",
+            "火4"
+        ],
+        "teacher": [
+            "青木 智史"
+        ],
+        "credits": "2",
+        "room": [
+            "教員実験室（R2-103）"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4339.html"
+    },
+    {
+        "no": "15",
+        "tt_num": "K4537",
+        "name": "美術工芸文化財学Ⅱ（美術作品との対話）",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "火7",
+            "火8"
+        ],
+        "teacher": [
+            "山岸 公基"
+        ],
+        "credits": "2",
+        "room": [
+            "美術教育・研究交流スペース"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4537.html"
+    },
+    {
+        "no": "16",
+        "tt_num": "K4529",
+        "name": "書道芸術研究（書の背景）",
+        "type": "講義",
+        "semester": "後期",
+        "period": [
+            "水3",
+            "水4"
+        ],
+        "teacher": [
+            "萱 のり子"
+        ],
+        "credits": "2",
+        "room": [
+            "書道実習室2"
+        ],
+        "sdgs": [
+            4,
+            11
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K4529.html"
+    },
+    {
+        "no": "17",
+        "tt_num": "K3017",
+        "name": "言語文化研究Ⅰ（日本語教育の原理）",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "月7",
+            "月8"
+        ],
+        "teacher": [
+            "和泉元 千春"
+        ],
+        "credits": "2",
+        "room": [
+            "203教室"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3017.html"
+    },
+    {
+        "no": "18",
+        "tt_num": "K3021",
+        "name": "言語文化研究Ⅴ（身近な言葉）",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "火5",
+            "火6"
+        ],
+        "teacher": [
+            "前田 広幸"
+        ],
+        "credits": "2",
+        "room": [
+            "205教室"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3021.html"
+    },
+    {
+        "no": "19",
+        "tt_num": "K3024",
+        "name": "国際理解教育Ⅱ（複言語・複文化教育の原理）",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "火7",
+            "火8"
+        ],
+        "teacher": [
+            "吉村 雅仁"
+        ],
+        "credits": "2",
+        "room": [
+            "教職大学院第3演習室"
+        ],
+        "sdgs": [
+            4,
+            10,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3024.html"
+    },
+    {
+        "no": "20",
+        "tt_num": "K3019",
+        "name": "言語文化研究Ⅲ（漢文学とは何か）",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "木3",
+            "木4"
+        ],
+        "teacher": [
+            "橋本 昭典"
+        ],
+        "credits": "2",
+        "room": [
+            "307教室"
+        ],
+        "sdgs": [
+            4,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3019.html"
+    },
+    {
+        "no": "21",
+        "tt_num": "K3023",
+        "name": "国際理解教育Ⅰ（シティズンシップ教育の原理）",
+        "type": "講義",
+        "semester": "前期",
+        "period": [
+            "金5",
+            "金6"
+        ],
+        "teacher": [
+            "橋崎 頼子"
+        ],
+        "credits": "2",
+        "room": [
+            "209教室"
+        ],
+        "sdgs": [
+            4,
+            16,
+            17
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3023.html"
+    },
+    {
+        "no": "22",
+        "tt_num": "K3018",
+        "name": "言語文化研究Ⅱ（日本語教育の実践）",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "火5",
+            "火6"
+        ],
+        "teacher": [
+            "和泉元 千春"
+        ],
+        "credits": "2",
+        "room": [
+            "203教室"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3018.html"
+    },
+    {
+        "no": "23",
+        "tt_num": "K3026",
+        "name": "国際理解教育Ⅳ（複言語・複文化教育の実践）",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "火7",
+            "火8"
+        ],
+        "teacher": [
+            "吉村 雅仁"
+        ],
+        "credits": "2",
+        "room": [
+            "教職大学院第１演習室"
+        ],
+        "sdgs": [
+            4,
+            10,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3026.html"
+    },
+    {
+        "no": "24",
+        "tt_num": "K3022",
+        "name": "言語文化研究Ⅵ（言語構造の探究）",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "火9",
+            "火10"
+        ],
+        "teacher": [
+            "前田 広幸"
+        ],
+        "credits": "2",
+        "room": [
+            "情報センター演習室B（2F）"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3022.html"
+    },
+    {
+        "no": "25",
+        "tt_num": "K3020",
+        "name": "言語文化研究Ⅳ（奈良ゆかりの日本漢文）",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "木5",
+            "木6"
+        ],
+        "teacher": [
+            "橋本 昭典"
+        ],
+        "credits": "2",
+        "room": [
+            "研究室"
+        ],
+        "sdgs": [
+            4,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3020.html"
+    },
+    {
+        "no": "26",
+        "tt_num": "K3025",
+        "name": "国際理解教育Ⅲ（シティズンシップ教育の実践）",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "金3",
+            "金4"
+        ],
+        "teacher": [
+            "橋崎 頼子"
+        ],
+        "credits": "2",
+        "room": [
+            "307教室"
+        ],
+        "sdgs": [
+            4,
+            10,
+            16,
+            17
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3025.html"
+    },
+    {
+        "no": "27",
+        "tt_num": "K3105",
+        "name": "課題研究",
+        "type": "演習",
+        "semester": "前期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "北山 聡佳"
+        ],
+        "credits": "1",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [
+            4,
+            5,
+            11,
+            12,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3105.html"
+    },
+    {
+        "no": "28",
+        "tt_num": "K3107",
+        "name": "課題研究",
+        "type": "演習",
+        "semester": "前期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "青木 智史"
+        ],
+        "credits": "1",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3107.html"
+    },
+    {
+        "no": "29",
+        "tt_num": "K3111",
+        "name": "課題研究",
+        "type": "演習",
+        "semester": "前期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "前田 広幸"
+        ],
+        "credits": "1",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3111.html"
+    },
+    {
+        "no": "30",
+        "tt_num": "K3113",
+        "name": "課題研究",
+        "type": "演習",
+        "semester": "前期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "吉村 雅仁"
+        ],
+        "credits": "1",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3113.html"
+    },
+    {
+        "no": "31",
+        "tt_num": "K3115",
+        "name": "課題研究",
+        "type": "演習",
+        "semester": "前期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "和泉元 千春"
+        ],
+        "credits": "1",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3115.html"
+    },
+    {
+        "no": "32",
+        "tt_num": "K3106",
+        "name": "課題研究",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "北山 聡佳"
+        ],
+        "credits": "1",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [
+            4,
+            5,
+            11,
+            12,
+            16
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3106.html"
+    },
+    {
+        "no": "33",
+        "tt_num": "K3108",
+        "name": "課題研究",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "青木 智史"
+        ],
+        "credits": "1",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3108.html"
+    },
+    {
+        "no": "34",
+        "tt_num": "K3112",
+        "name": "課題研究",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "前田 広幸"
+        ],
+        "credits": "1",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3112.html"
+    },
+    {
+        "no": "35",
+        "tt_num": "K3114",
+        "name": "課題研究",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "吉村 雅仁"
+        ],
+        "credits": "1",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [
+            4
+        ],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3114.html"
+    },
+    {
+        "no": "36",
+        "tt_num": "K3116",
+        "name": "課題研究",
+        "type": "演習",
+        "semester": "後期",
+        "period": [
+            "集中"
+        ],
+        "teacher": [
+            "和泉元 千春"
+        ],
+        "credits": "1",
+        "room": [
+            "未定"
+        ],
+        "sdgs": [],
+        "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/SYLLABUS/syllabus/2026/detail/2026_11_K3116.html"
+    }
+]
