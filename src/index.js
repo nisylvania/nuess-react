@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Log from "./pages/log";
+import AdminPage from "./pages/admin";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -12,6 +13,7 @@ ReactDOM.render(
       <Routes>
         <Route path="/" element={<App />}/>
         <Route path="/change_log" element={<Log />} />
+        <Route path="/admin" element={<AdminPage />} />
       </Routes>
     </Router>
   </React.StrictMode>,

@@ -3,9 +3,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../App.css';
 import SearchForm from "./search_form";
 import SearchTable from "./search_table";
-import timetable_data1 from '../data/timetable.json';
-import timetable_data2 from '../data/master.json';
-import timetable_data3 from '../data/spde.json';
 import MyPagination from './mypagination';
 
 const SearchGroup = () => {
@@ -22,9 +19,34 @@ const SearchGroup = () => {
     const [page, setPage] = useState(1);
     const [items, setItems] = useState(0);
     const [autoOn, setAutoState] = useState(true);
-    const [timetable_data, setTimetable_data] =  useState(timetable_data1.concat(timetable_data2, timetable_data3));
+    const [timetable_data, setTimetable_data] = useState([]);
+    const [dataLoading, setDataLoading] = useState(true);
     const [showAll, setShowAll] = useState(false);  // すべて表示状態
-  
+
+    // JSONデータをfetchで読み込み（public/data/から取得）
+    useEffect(() => {
+      const loadData = async () => {
+        try {
+          const [res1, res2, res3] = await Promise.all([
+            fetch(`${process.env.PUBLIC_URL}/data/timetable.json`),
+            fetch(`${process.env.PUBLIC_URL}/data/master.json`),
+            fetch(`${process.env.PUBLIC_URL}/data/spde.json`),
+          ]);
+          const [data1, data2, data3] = await Promise.all([
+            res1.json(), res2.json(), res3.json(),
+          ]);
+          const combined = data1.concat(data2, data3);
+          setTimetable_data(combined);
+          setFiltered(combined);
+          setItems(combined.length);
+        } catch (err) {
+          console.error("データの読み込みに失敗しました:", err);
+        }
+        setDataLoading(false);
+      };
+      loadData();
+    }, []);
+
     useEffect(() => {
       localStorage.setItem('mode', JSON.stringify(mode));
       localStorage.setItem('tt_num', tt_num);
@@ -97,6 +119,10 @@ const SearchGroup = () => {
       setFiltered(timetable_data);
       setPage(1);
       setItems(timetable_data.length);
+    }
+
+    if (dataLoading) {
+      return <p style={{ textAlign: 'center', marginTop: '2rem' }}>データを読み込み中...</p>;
     }
 
     return (

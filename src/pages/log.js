@@ -329,6 +329,18 @@ function log() {
             <td>更新履歴のページ下部のmarginを変更。
             </td>
           </tr>
+          <tr>
+            <th scope="row">2026/2/28</th>
+            <td>シラバス</td>
+            <td>データを2026年度(2026/2/28時点)のものに更新。
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2026/3/22</th>
+            <td>管理機能</td>
+            <td>管理機能を搭載。シラバス情報を取得して更新できるようにした。
+            </td>
+          </tr>
         </tbody>
       </Table>
       <p style={{'text-align': 'center'}}>Source code is available on <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
